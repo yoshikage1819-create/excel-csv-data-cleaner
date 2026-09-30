@@ -1,0 +1,8 @@
+{
+  "name":    ["name", "fullname", "customername", "氏名", "名前", "お名前", "顧客名"],
+  "email":   ["email", "mail", "emailaddress", "メール", "メールアドレス", "eメール"],
+  "phone":   ["phone", "tel", "telephone", "phonenumber", "mobile", "電話", "電話番号", "携帯"],
+  "address": ["address", "addr", "住所", "所在地"],
+  "date":    ["date", "created", "createdat", "signupdate", "registered", "登録日", "日付", "作成日"],
+  "company": ["company", "companyname", "organization", "会社", "会社名", "企業名", "勤務先"]
+}

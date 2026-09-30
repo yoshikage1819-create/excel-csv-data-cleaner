@@ -1,0 +1,5 @@
+22:53:52 INFO Input files: crm_export_2.xlsx, messy_customers.csv
+22:53:53 INFO crm_export_2.xlsx: 300 rows read (encoding: xlsx (sheet: Sheet1)); columns: Full Name->name, E-mail->email, Tel->phone, Address->address, Created->date, Company->company
+22:53:53 INFO messy_customers.csv: 1000 rows read (encoding: cp932); columns: 氏名->name, メール->email, 電話番号->phone, 住所->address, 登録日->date, 会社名->company
+22:53:53 INFO Processed 1300 rows: clean 1085 / duplicate 70 / invalid 85 / needs_review 60
+22:53:54 INFO Input files unchanged (SHA-256 verified): 2 file(s)

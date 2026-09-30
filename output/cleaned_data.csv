@@ -1,0 +1,1086 @@
+﻿name,email,phone,address,date,company,issues,source_file,source_row
+藤田 学,manabu.fujita@example.net,045-902-5460,北海道札幌市中央区仮名町24-19-10,2019-04-30,,missing_company,crm_export_2.xlsx,3
+松本 沙織,saori.matsumoto@example.com,090-5483-1875,東京都千代田区模擬町18-17-2,2021-04-26,株式会社北斗運輸,,crm_export_2.xlsx,5
+Charles Walsh,charles.walsh@example.com,+1 212-555-0111,"411 Test Rd, Georgetown, TX",2025-09-07,Delta Media LLC,,crm_export_2.xlsx,6
+藤田 隼人,hayato.fujita@example.com,050-1003-2403,東京都新宿区例示町18-10-7,2025-11-26,,missing_company,crm_export_2.xlsx,7
+前田 亮,ryo.maeda@example.org,092-645-5640,東京都港区模擬町1-20-9,2023-07-14,株式会社緑川物産,,crm_export_2.xlsx,8
+Kevin Joyce,kevin.joyce@example.com,+1 602-555-0145,"891 Fiction Ln, Shelbyville, IL",2019-05-08,Swift Partners LLC,,crm_export_2.xlsx,9
+Julia Foster,julia.foster@example.net,+1 602-555-0127,"496 Test Rd, Fairview, OH",2021-02-09,Cedar Materials Corp.,,crm_export_2.xlsx,10
+Emily Kemp,emily.kemp@example.net,+1 415-555-0164,"881 Fiction Ln, Shelbyville, IL",2021-10-29,東和物産株式会社,,crm_export_2.xlsx,12
+中村 由美,yumi.nakamura@example.com,03-8317-6058,東京都新宿区サンプル台26-8-8,2021-01-10,株式会社緑川商事,,crm_export_2.xlsx,13
+坂本 颯太,sota.sakamoto@example.com,080-7533-7802,愛知県名古屋市中区例示町24-18-4,2023-04-05,株式会社日の出建設,,crm_export_2.xlsx,14
+David Lawson,david.lawson@example.net,+1 305-555-0101,"22 Placeholder Dr, Shelbyville, IL",2020-02-05,"Delta Works Co., Ltd.",,crm_export_2.xlsx,15
+藤田 沙織,saori.fujita@example.org,03-2816-3018,愛知県名古屋市中区サンプル台15-3-11,2024-02-01,Summit Solutions Corp.,,crm_export_2.xlsx,16
+吉田 健太,kenta.yoshida@example.net,070-2740-7234,愛知県名古屋市中区見本町2-3-2,,株式会社若葉建設,missing_date,crm_export_2.xlsx,17
+Diane Young,diane.young@example.com,+442079460133,"186 Sample St, Springfield, IL",2022-06-12,"Green Labs Co., Ltd.",,crm_export_2.xlsx,18
+山口 徹,toru.yamaguchi@example.net,06-4991-9535,東京都千代田区試験町4-20-7,2020-10-08,株式会社大和食品,,crm_export_2.xlsx,19
+松本 健太,kenta.matsumoto@example.org,050-4769-1804,北海道札幌市中央区仮想町4-8-12,2023-08-17,"Orion Tech Co., Ltd.",,crm_export_2.xlsx,20
+鈴木 蓮,ren.suzuki@example.org,080-3374-3541,宮城県仙台市青葉区例示町6-13-6,2020-07-12,株式会社ミライ化学,,crm_export_2.xlsx,21
+Michael Grant,michael.grant@example.org,+442079460034,"553 Placeholder Dr, Georgetown, TX",2024-05-17,Green Labs Corp.,,crm_export_2.xlsx,22
+Anthony Garrett,anthony.garrett@example.com,+1 303-555-0130,"674 Sandbox Ct, Shelbyville, IL",2025-07-04,"Northern Solutions Co., Ltd.",,crm_export_2.xlsx,23
+Peter Turner,peter.turner@example.org,080-7031-1075,"923 Sandbox Ct, Riverton, WY",2019-12-24,株式会社白鳥工業,,crm_export_2.xlsx,24
+Mary Holland,mary.holland@example.org,06-6680-6883,"765 Sample St, Franklin, TN",,"Acme Materials Co., Ltd.",missing_date,crm_export_2.xlsx,25
+Edward Marsh,edward.marsh@example.com,+442079460292,"189 Test Rd, Fairview, OH",2020-10-22,"Sakura Works Co., Ltd.",,crm_export_2.xlsx,26
+石井 愛,ai.ishii@example.org,080-5979-8095,京都府京都市中京区例示町8-1-13,2019-01-11,東和化学株式会社,,crm_export_2.xlsx,27
+藤田 由美,yumi.fujita@example.org,090-3738-8908,北海道札幌市中央区ダミー通27-10-5,2023-01-24,星野運輸株式会社,,crm_export_2.xlsx,28
+Rachel Keller,rachel.keller@example.org,070-2867-6837,"948 Example Ave, Franklin, TN",2020-04-22,Acme Labs LLC,,crm_export_2.xlsx,29
+青木 智子,tomoko.aoki@example.net,080-9570-5604,東京都新宿区サンプル台1-4-4,2020-06-11,"Silver Craft Co., Ltd.",,crm_export_2.xlsx,30
+三浦 太郎,taro.miura@example.com,080-7219-6948,大阪府大阪市北区テスト町8-14-2,2022-07-11,株式会社XYZ産業,,crm_export_2.xlsx,31
+斎藤 千尋,chihiro.saito@example.org,0120-130-201,東京都千代田区見本町16-1-3,2023-04-17,株式会社青葉工業,,crm_export_2.xlsx,32
+Karen Lowe,karen.lowe@example.org,+1 512-555-0160,"528 Sample St, Fairview, OH",2023-05-23,Swift Partners LLC,,crm_export_2.xlsx,33
+Sharon Kemp,sharon.kemp@example.org,+442079460883,"600 Sandbox Ct, Fairview, OH",2021-05-22,Delta Design Corp.,,crm_export_2.xlsx,35
+Kevin Kemp,kevin.kemp@example.org,+442079460534,"383 Sandbox Ct, Riverton, WY",2020-08-28,Harbor Materials Corp.,,crm_export_2.xlsx,38
+Donna Garrett,donna.garrett@example.com,+1 617-555-0156,"18 Placeholder Dr, Georgetown, TX",2021-11-12,"Pacific Design Co., Ltd.",,crm_export_2.xlsx,39
+松本 花子,hanako.matsumoto@example.com,052-845-7264,東京都新宿区架空町13-7-11,2022-06-05,株式会社XYZ食品,,crm_export_2.xlsx,40
+Helen Sutton,helen.sutton@example.net,080-2941-3677,"205 Fiction Ln, Riverton, WY",,Orion Systems Corp.,missing_date,crm_export_2.xlsx,41
+近藤 拓也,takuya.kondo@example.com,080-3959-2757,京都府京都市中京区サンプル台19-19-4,2025-07-18,"Acme Supply Co., Ltd.",,crm_export_2.xlsx,42
+Julia Underwood,julia.underwood@example.org,+1 646-555-0107,"570 Placeholder Dr, Shelbyville, IL",2020-01-15,Golden Logistics Corp.,,crm_export_2.xlsx,44
+斎藤 大輔,daisuke.saito@example.com,080-5668-2525,東京都港区サンプル台16-14-12,2022-06-24,Prime Systems LLC,,crm_export_2.xlsx,45
+井上 悠,yu.inoue@example.com,050-9411-1763,京都府京都市中京区仮名町14-4-8,2025-05-17,株式会社青葉物産,,crm_export_2.xlsx,46
+Steven Rowe,steven.rowe@example.org,+1 206-555-0111,"148 Sample St, Fairview, OH",2021-02-20,ABC情報システム株式会社,,crm_export_2.xlsx,47
+Helen Walsh,helen.walsh@example.org,070-8675-2148,"750 Placeholder Dr, Lakeside, CA",,Cedar Solutions Corp.,missing_date,crm_export_2.xlsx,48
+福田 千尋,chihiro.fukuda@example.net,0120-605-410,大阪府大阪市北区仮想町18-2-1,2023-01-09,"Cedar Energy Co., Ltd.",,crm_export_2.xlsx,49
+加藤 純,jun.kato@example.org,06-7627-3232,愛知県名古屋市中区見本町2-18-6,2023-05-17,株式会社富士見工業,,crm_export_2.xlsx,50
+Andrew Foster,andrew.foster@example.com,+442079460861,"275 Mockup Way, Oakdale, MN",2020-05-22,株式会社光洋食品,,crm_export_2.xlsx,51
+渡辺 陽子,yoko.watanabe@example.org,080-7181-7786,宮城県仙台市青葉区試験町25-5-9,2024-03-02,株式会社光洋建設,,crm_export_2.xlsx,52
+伊藤 裕子,hiroko.ito@example.net,090-7763-5311,愛知県名古屋市中区仮名町27-4-1,2021-04-09,株式会社星野貿易,,crm_export_2.xlsx,53
+Andrew Irwin,andrew.irwin@example.com,+1 720-555-0161,"622 Fiction Ln, Lakeside, CA",2023-04-07,Northern Media LLC,,crm_export_2.xlsx,54
+伊藤 美咲,misaki.ito@example.org,090-6783-6166,宮城県仙台市青葉区ダミー通13-6-14,2019-02-04,株式会社青葉電機,,crm_export_2.xlsx,55
+山口 悠,yu.yamaguchi@example.org,070-9731-4143,京都府京都市中京区例示町1-14-11,2019-08-01,Maple Partners Corp.,,crm_export_2.xlsx,56
+青木 陸,riku.aoki@example.org,080-6922-8474,東京都千代田区仮想町2-9-15,2023-09-17,,missing_company,crm_export_2.xlsx,57
+Thomas Barnes,thomas.barnes@example.org,+1 415-555-0107,"66 Fiction Ln, Franklin, TN",2025-11-06,Blue Foods Inc.,,crm_export_2.xlsx,58
+Betty Marsh,betty.marsh@example.net,+442079460691,"474 Mockup Way, Springfield, IL",2025-08-04,Green Trading Inc.,,crm_export_2.xlsx,59
+藤田 陸,riku.fujita@example.com,050-3064-8337,愛知県名古屋市中区ダミー通14-16-12,2025-12-18,ミライ工業株式会社,,crm_export_2.xlsx,60
+Paul Baker,paul.baker@example.com,,"719 Demo Blvd, Riverton, WY",2024-03-25,Pacific Labs LLC,missing_phone,crm_export_2.xlsx,61
+森 一郎,ichiro.mori@example.org,070-2093-3559,神奈川県横浜市西区仮名町25-18-2,2023-02-19,XYZ産業株式会社,,crm_export_2.xlsx,63
+山本 智子,tomoko.yamamoto@example.com,090-2646-2903,愛知県名古屋市中区見本町18-13-3,2019-11-14,株式会社ABC化学,,crm_export_2.xlsx,64
+岡田 花子,hanako.okada@example.com,090-9721-3541,神奈川県横浜市西区架空町27-17-11,2020-02-26,株式会社東和建設,,crm_export_2.xlsx,65
+林 茜,akane.hayashi@example.com,06-7264-8372,大阪府大阪市北区テスト町19-1-4,2019-03-28,株式会社白鳥食品,,crm_export_2.xlsx,66
+加藤 健太,kenta.kato@example.net,03-9533-6797,愛知県名古屋市中区架空町8-11-6,2021-09-19,ABC化学株式会社,,crm_export_2.xlsx,67
+松本 亮,ryo.matsumoto@example.com,070-2651-0155,東京都千代田区サンプル台25-1-11,2025-07-13,株式会社ABC食品,,crm_export_2.xlsx,68
+渡辺 翔太,shota.watanabe@example.net,+442079460836,大阪府大阪市北区ダミー通22-13-7,2025-11-06,青葉運輸株式会社,,crm_export_2.xlsx,69
+小林 誠,makoto.kobayashi@example.net,+1 619-555-0189,東京都港区仮名町10-20-4,2020-08-09,Swift Solutions Inc.,,crm_export_2.xlsx,70
+三浦 陸,riku.miura@example.com,070-9990-7648,東京都新宿区例示町4-16-11,2025-01-23,ミライ工業株式会社,,crm_export_2.xlsx,71
+Andrew Rowe,andrew.rowe@example.com,+1 213-555-0103,,2023-04-20,Pacific Craft LLC,missing_address,crm_export_2.xlsx,72
+Brian Lowe,brian.lowe@example.org,+1 415-555-0168,"102 Mockup Way, Franklin, TN",2021-07-05,Prime Foods LLC,,crm_export_2.xlsx,73
+長谷川 陸,riku.hasegawa@example.org,06-8159-3823,大阪府大阪市北区サンプル台4-10-2,2020-04-01,富士見貿易株式会社,,crm_export_2.xlsx,74
+Kevin Nolan,kevin.nolan@example.com,+442079460648,"741 Mockup Way, Riverton, WY",2025-04-27,"Bright Media Co., Ltd.",,crm_export_2.xlsx,75
+Peter Dawson,peter.dawson@example.com,+1 646-555-0149,"363 Placeholder Dr, Fairview, OH",2024-05-07,"Summit Trading Co., Ltd.",,crm_export_2.xlsx,76
+Susan Abbott,susan.abbott@example.org,090-6828-0096,"346 Fiction Ln, Franklin, TN",2022-12-20,株式会社青葉情報システム,,crm_export_2.xlsx,77
+橋本 颯太,sota.hashimoto@example.com,090-2388-8668,京都府京都市中京区試験町14-4-15,2024-06-19,株式会社若葉化学,,crm_export_2.xlsx,78
+太田 香織,kaori.ota@example.net,080-3984-8788,愛知県名古屋市中区見本町15-15-3,2020-07-26,株式会社日の出商事,,crm_export_2.xlsx,79
+福田 徹,toru.fukuda@example.net,070-7997-0846,愛知県名古屋市中区見本町9-12-5,2022-12-08,ミライ運輸株式会社,,crm_export_2.xlsx,80
+Ruth Lawson,ruth.lawson@example.com,,"206 Placeholder Dr, Fairview, OH",2025-03-04,Clear Works LLC,missing_phone,crm_export_2.xlsx,81
+池田 一郎,ichiro.ikeda@example.org,070-4116-6512,神奈川県横浜市西区テスト町28-17-2,2020-11-08,株式会社北斗製作所,,crm_export_2.xlsx,82
+遠藤 颯太,sota.endo@example.com,03-4440-8758,東京都港区架空町21-12-11,2025-10-14,Maple Foods LLC,,crm_export_2.xlsx,83
+George Grant,george.grant@example.com,+1 512-555-0123,"203 Sandbox Ct, Fairview, OH",2021-01-08,"Acme Design Co., Ltd.",,crm_export_2.xlsx,84
+Diane Eaton,diane.eaton@example.com,+442079460982,"158 Example Ave, Lakeside, CA",2022-08-16,Golden Solutions Corp.,,crm_export_2.xlsx,85
+後藤 亮,ryo.goto@example.net,070-7782-9858,北海道札幌市中央区試験町26-8-7,2023-09-11,株式会社北斗産業,,crm_export_2.xlsx,86
+Matthew Keller,matthew.keller@example.com,+442079460120,"396 Sample St, Fairview, OH",2023-10-06,Green Energy Inc.,,crm_export_2.xlsx,87
+松本 隼人,hayato.matsumoto@example.org,070-5907-7703,福岡県福岡市博多区ダミー通15-1-5,2020-03-31,,missing_company,crm_export_2.xlsx,88
+Richard Irwin,richard.irwin@example.com,070-3307-2638,"468 Test Rd, Oakdale, MN",2022-10-20,Prime Materials Corp.,,crm_export_2.xlsx,89
+長谷川 沙織,saori.hasegawa@example.org,011-444-3421,宮城県仙台市青葉区模擬町3-5-10,,ABC工業株式会社,missing_date,crm_export_2.xlsx,90
+吉田 誠,makoto.yoshida@example.com,080-6139-2780,愛知県名古屋市中区試験町3-9-10,2023-01-28,XYZ工業株式会社,,crm_export_2.xlsx,91
+鈴木 健太,kenta.suzuki@example.net,+1 646-555-0156,東京都新宿区見本町19-16-1,2023-01-28,"Orion Partners Co., Ltd.",,crm_export_2.xlsx,92
+Karen Chambers,karen.chambers@example.net,+1 646-555-0146,"494 Demo Blvd, Georgetown, TX",2019-08-10,Acme Solutions Corp.,,crm_export_2.xlsx,93
+Nancy Grant,nancy.grant@example.org,+442079460611,"89 Test Rd, Riverton, WY",2022-08-19,"Maple Trading Co., Ltd.",,crm_export_2.xlsx,95
+Nancy Irwin,nancy.irwin@example.com,+1 303-555-0114,"279 Sample St, Georgetown, TX",2024-01-20,Silver Energy Corp.,,crm_export_2.xlsx,96
+加藤 優子,yuko.kato@example.net,090-3512-6134,京都府京都市中京区模擬町11-11-3,2025-06-01,Pacific Supply Corp.,,crm_export_2.xlsx,97
+西村 颯太,sota.nishimura@example.com,080-2880-3554,東京都千代田区ダミー通5-8-2,2020-06-02,大和電機株式会社,,crm_export_2.xlsx,98
+中村 直樹,naoki.nakamura@example.net,080-3003-0157,北海道札幌市中央区架空町23-11-4,2024-03-21,株式会社青葉電機,,crm_export_2.xlsx,99
+青木 花子,hanako.aoki@example.com,011-247-4496,福岡県福岡市博多区見本町4-15-3,2025-09-29,株式会社日の出電機,,crm_export_2.xlsx,100
+遠藤 純,jun.endo@example.com,03-1271-7550,東京都新宿区サンプル台1-16-11,2024-12-14,東和食品株式会社,,crm_export_2.xlsx,101
+Carol Owens,carol.owens@example.org,+1 720-555-0186,"919 Mockup Way, Oakdale, MN",2023-05-21,"Summit Design Co., Ltd.",,crm_export_2.xlsx,102
+村上 颯太,sota.murakami@example.net,03-5974-7976,愛知県名古屋市中区見本町26-10-1,2024-02-03,株式会社東和貿易,,crm_export_2.xlsx,103
+吉田 花子,hanako.yoshida@example.com,070-1010-0817,愛知県名古屋市中区試験町12-10-13,2024-08-18,株式会社若葉産業,,crm_export_2.xlsx,104
+太田 誠,makoto.ota@example.net,080-4694-3296,東京都新宿区仮名町27-17-13,2021-02-26,ABC化学株式会社,,crm_export_2.xlsx,106
+Susan Eaton,susan.eaton@example.org,+1 646-555-0166,"113 Example Ave, Lakeside, CA",2024-08-04,Prime Supply LLC,,crm_export_2.xlsx,107
+Susan Pratt,susan.pratt@example.net,+442079460562,"128 Sandbox Ct, Fairview, OH",2020-04-28,"Cedar Works Co., Ltd.",,crm_export_2.xlsx,108
+遠藤 由美,yumi.endo@example.net,092-465-8108,東京都新宿区仮想町21-6-3,2025-12-06,ミライ食品株式会社,,crm_export_2.xlsx,109
+池田 和也,kazuya.ikeda@example.com,090-9305-7271,東京都港区テスト町3-8-4,2022-08-27,株式会社緑川化学,,crm_export_2.xlsx,110
+Richard Rowe,richard.rowe@example.net,+442079460235,"957 Demo Blvd, Fairview, OH",2023-07-28,Silver Media LLC,,crm_export_2.xlsx,111
+後藤 萌,moe.goto@example.org,06-2587-3805,愛知県名古屋市中区例示町11-2-10,2024-10-21,Swift Supply Corp.,,crm_export_2.xlsx,112
+山口 一郎,ichiro.yamaguchi@example.net,090-3346-0687,大阪府大阪市北区仮名町17-9-10,2025-11-25,株式会社青葉物産,,crm_export_2.xlsx,113
+鈴木 愛,ai.suzuki@example.net,090-5726-4250,宮城県仙台市青葉区見本町30-8-11,2022-02-15,ミライ産業株式会社,,crm_export_2.xlsx,114
+Nancy Wells,nancy.wells@example.org,03-8281-7082,"279 Example Ave, Franklin, TN",2020-07-14,Green Works Inc.,,crm_export_2.xlsx,115
+Joseph Underwood,joseph.underwood@example.com,+442079460334,"529 Mockup Way, Fairview, OH",2022-02-04,Bright Energy Inc.,,crm_export_2.xlsx,116
+Laura Sutton,laura.sutton@example.net,090-8100-1645,"204 Sample St, Oakdale, MN",2019-02-02,"Swift Partners Co., Ltd.",,crm_export_2.xlsx,117
+Mark Owens,mark.owens@example.net,090-2210-8265,"30 Sample St, Georgetown, TX",2025-01-27,Silver Foods Corp.,,crm_export_2.xlsx,119
+遠藤 美咲,misaki.endo@example.com,080-5441-8560,北海道札幌市中央区模擬町29-12-10,2020-11-10,株式会社北斗化学,,crm_export_2.xlsx,120
+岡田 一郎,ichiro.okada@example.net,070-2921-3944,京都府京都市中京区仮名町13-13-12,2024-04-27,株式会社緑川産業,,crm_export_2.xlsx,121
+山田 智子,tomoko.yamada@example.com,080-6381-1541,北海道札幌市中央区サンプル台17-1-10,2022-01-23,株式会社東和化学,,crm_export_2.xlsx,122
+松本 徹,toru.matsumoto@example.net,070-4255-8281,福岡県福岡市博多区試験町21-1-5,2022-01-26,株式会社XYZ運輸,,crm_export_2.xlsx,123
+長谷川 翔太,shota.hasegawa@example.com,,北海道札幌市中央区サンプル台7-11-12,2024-08-25,株式会社富士見物産,missing_phone,crm_export_2.xlsx,125
+井上 颯太,sota.inoue@example.com,050-9586-3251,宮城県仙台市青葉区試験町5-11-13,2019-08-09,"Harbor Solutions Co., Ltd.",,crm_export_2.xlsx,127
+遠藤 陽子,yoko.endo@example.net,06-1570-4276,福岡県福岡市博多区試験町6-13-11,2024-10-20,株式会社大和食品,,crm_export_2.xlsx,128
+James Parker,james.parker@example.net,+1 213-555-0181,"628 Sandbox Ct, Shelbyville, IL",2024-08-18,Apex Craft LLC,,crm_export_2.xlsx,129
+青木 純,jun.aoki@example.com,080-5073-2871,東京都港区テスト町4-5-12,2020-08-15,株式会社日の出物産,,crm_export_2.xlsx,130
+吉田 一郎,ichiro.yoshida@example.org,03-5535-8217,東京都千代田区模擬町13-6-11,2022-03-13,株式会社日の出電機,,crm_export_2.xlsx,131
+橋本 和也,kazuya.hashimoto@example.com,070-9247-1319,宮城県仙台市青葉区模擬町24-14-1,2022-08-24,株式会社サクラ貿易,,crm_export_2.xlsx,132
+Laura Ingram,laura.ingram@example.net,+1 312-555-0177,"903 Test Rd, Oakdale, MN",2021-09-29,Blue Trading Inc.,,crm_export_2.xlsx,133
+清水 隼人,hayato.shimizu@example.com,070-1979-4799,福岡県福岡市博多区架空町12-13-12,2024-09-26,大和製作所株式会社,,crm_export_2.xlsx,134
+Steven Jensen,steven.jensen@example.net,+1 720-555-0148,"694 Example Ave, Springfield, IL",2022-11-03,"Northern Logistics Co., Ltd.",,crm_export_2.xlsx,135
+森 和也,kazuya.mori@example.org,052-565-8172,神奈川県横浜市西区模擬町30-1-14,2024-11-16,Northern Works Inc.,,crm_export_2.xlsx,136
+石川 葵,aoi.ishikawa@example.org,070-5015-3741,神奈川県横浜市西区試験町2-20-5,2025-03-10,富士見電機株式会社,,crm_export_2.xlsx,137
+Rachel Owens,rachel.owens@example.com,+1 212-555-0126,"259 Sandbox Ct, Riverton, WY",2024-03-16,株式会社白鳥商事,,crm_export_2.xlsx,138
+佐々木 大輔,daisuke.sasaki@example.org,090-8252-3191,,2021-10-28,株式会社星野物産,missing_address,crm_export_2.xlsx,139
+Carol Baker,carol.baker@example.com,+442079460399,"265 Fiction Ln, Franklin, TN",2025-10-21,Sakura Foods Inc.,,crm_export_2.xlsx,141
+Karen Kemp,karen.kemp@example.net,+1 512-555-0136,"493 Test Rd, Shelbyville, IL",2019-10-31,"Nova Materials Co., Ltd.",,crm_export_2.xlsx,142
+Carol Ingram,carol.ingram@example.com,06-1265-9268,"42 Mockup Way, Georgetown, TX",2025-01-15,Swift Works Inc.,,crm_export_2.xlsx,143
+Julia Turner,julia.turner@example.com,+1 312-555-0103,,2025-01-21,Blue Works LLC,missing_address,crm_export_2.xlsx,144
+Linda Kemp,linda.kemp@example.org,+1 619-555-0177,"328 Sandbox Ct, Springfield, IL",2024-04-07,Summit Systems LLC,,crm_export_2.xlsx,145
+松本 彩,aya.matsumoto@example.org,0120-643-270,北海道札幌市中央区試験町4-6-11,2025-12-07,株式会社白鳥情報システム,,crm_export_2.xlsx,146
+山田 美咲,misaki.yamada@example.org,03-4372-7264,東京都新宿区サンプル台25-11-1,2020-04-25,北斗食品株式会社,,crm_export_2.xlsx,147
+後藤 優子,yuko.goto@example.net,050-3608-2761,北海道札幌市中央区架空町4-7-10,2022-06-25,"Clear Design Co., Ltd.",,crm_export_2.xlsx,148
+坂本 香織,kaori.sakamoto@example.org,070-5045-8819,宮城県仙台市青葉区試験町4-17-12,2024-05-02,株式会社XYZ貿易,,crm_export_2.xlsx,149
+岡田 恵子,keiko.okada@example.com,070-3543-5527,神奈川県横浜市西区テスト町27-13-13,2024-01-09,Clear Foods LLC,,crm_export_2.xlsx,151
+James Abbott,james.abbott@example.com,06-3900-6388,"390 Placeholder Dr, Riverton, WY",2019-07-03,Prime Logistics LLC,,crm_export_2.xlsx,153
+Julia Lowe,julia.lowe@example.com,+1 303-555-0121,"988 Placeholder Dr, Lakeside, CA",2022-03-12,Harbor Materials LLC,,crm_export_2.xlsx,154
+中村 彩,aya.nakamura@example.com,045-447-7142,宮城県仙台市青葉区ダミー通15-5-8,2025-09-11,光洋産業株式会社,,crm_export_2.xlsx,155
+吉田 悠,yu.yoshida@example.org,090-6954-7591,京都府京都市中京区仮名町12-10-4,2023-05-29,XYZ産業株式会社,,crm_export_2.xlsx,156
+斎藤 萌,moe.saito@example.net,050-2153-2559,宮城県仙台市青葉区例示町21-11-13,,株式会社ABC情報システム,missing_date,crm_export_2.xlsx,158
+Karen Sanders,karen.sanders@example.com,+1 213-555-0111,"453 Demo Blvd, Springfield, IL",2021-05-11,株式会社XYZ製作所,,crm_export_2.xlsx,159
+William Ellis,william.ellis@example.net,+1 415-555-0108,"74 Sandbox Ct, Springfield, IL",2022-11-10,,missing_company,crm_export_2.xlsx,161
+Anna Carter,anna.carter@example.com,+1 303-555-0153,"224 Mockup Way, Riverton, WY",2021-08-14,Maple Energy Corp.,,crm_export_2.xlsx,162
+高橋 徹,toru.takahashi@example.net,090-8427-4665,東京都新宿区模擬町5-11-1,2020-05-22,株式会社青葉産業,,crm_export_2.xlsx,163
+Julia Walsh,julia.walsh@example.com,+1 312-555-0197,"242 Demo Blvd, Lakeside, CA",2019-08-20,Clear Trading Inc.,,crm_export_2.xlsx,164
+田中 翔太,shota.tanaka@example.com,090-7031-8341,東京都新宿区仮名町7-5-9,2019-01-31,Prime Design LLC,,crm_export_2.xlsx,165
+鈴木 和也,kazuya.suzuki@example.org,090-5198-5480,大阪府大阪市北区ダミー通29-9-7,2020-05-03,株式会社大和商事,,crm_export_2.xlsx,166
+Carol Hayes,carol.hayes@example.com,+1 206-555-0158,"133 Sample St, Riverton, WY",2024-05-05,"Green Foods Co., Ltd.",,crm_export_2.xlsx,167
+Kevin Grant,kevin.grant@example.com,+1 617-555-0143,"244 Sandbox Ct, Franklin, TN",2020-04-20,サクラ工業株式会社,,crm_export_2.xlsx,168
+Joseph Rowe,joseph.rowe@example.com,+1 415-555-0165,"891 Example Ave, Fairview, OH",2024-05-10,"Blue Media Co., Ltd.",,crm_export_2.xlsx,169
+Kevin Wells,kevin.wells@example.net,+1 619-555-0128,"500 Placeholder Dr, Fairview, OH",2020-10-06,Bright Design Corp.,,crm_export_2.xlsx,170
+福田 沙織,saori.fukuda@example.org,050-5047-3370,宮城県仙台市青葉区ダミー通6-16-6,2021-10-03,富士見物産株式会社,,crm_export_2.xlsx,171
+西村 陸,riku.nishimura@example.org,,福岡県福岡市博多区仮想町9-2-7,2024-06-28,株式会社大和製作所,missing_phone,crm_export_2.xlsx,172
+後藤 彩,aya.goto@example.com,050-4610-4578,東京都港区架空町8-10-7,2025-07-02,"Orion Labs Co., Ltd.",,crm_export_2.xlsx,173
+Matthew Vaughn,matthew.vaughn@example.net,+442079460480,"712 Demo Blvd, Springfield, IL",2019-09-22,Acme Partners LLC,,crm_export_2.xlsx,175
+林 智子,tomoko.hayashi@example.com,075-979-6044,東京都新宿区試験町18-6-4,2019-02-05,株式会社サクラ物産,,crm_export_2.xlsx,178
+伊藤 和也,kazuya.ito@example.org,050-7452-2211,東京都新宿区架空町16-5-14,,株式会社星野運輸,missing_date,crm_export_2.xlsx,179
+Charles Pratt,charles.pratt@example.com,090-2202-9827,"872 Fiction Ln, Oakdale, MN",2020-04-18,Nova Partners Corp.,,crm_export_2.xlsx,180
+前田 翔太,shota.maeda@example.com,090-1262-3531,福岡県福岡市博多区試験町15-19-13,2020-07-26,株式会社東和製作所,,crm_export_2.xlsx,181
+石井 雅人,masato.ishii@example.com,0120-989-967,神奈川県横浜市西区見本町12-11-4,2022-06-25,Golden Trading Inc.,,crm_export_2.xlsx,182
+青木 萌,moe.aoki@example.org,03-1404-8347,大阪府大阪市北区テスト町12-1-8,2023-07-11,株式会社星野建設,,crm_export_2.xlsx,184
+森 雅人,masato.mori@example.net,070-3020-7182,神奈川県横浜市西区仮名町25-17-1,2025-02-22,株式会社星野産業,,crm_export_2.xlsx,185
+Lisa Irwin,lisa.irwin@example.net,+1 213-555-0156,"157 Test Rd, Lakeside, CA",2021-03-15,株式会社日の出物産,,crm_export_2.xlsx,186
+橋本 智子,tomoko.hashimoto@example.net,090-4186-6854,宮城県仙台市青葉区仮想町14-5-7,2025-02-18,,missing_company,crm_export_2.xlsx,187
+Matthew Sanders,matthew.sanders@example.net,,"879 Demo Blvd, Georgetown, TX",2022-03-19,"Golden Works Co., Ltd.",missing_phone,crm_export_2.xlsx,189
+William Marsh,william.marsh@example.net,+1 602-555-0139,"679 Placeholder Dr, Lakeside, CA",2023-09-09,Pacific Solutions LLC,,crm_export_2.xlsx,191
+佐藤 萌,moe.sato@example.net,06-8132-6715,東京都港区テスト町24-19-5,2021-05-09,"Sakura Works Co., Ltd.",,crm_export_2.xlsx,192
+Peter Osborne,peter.osborne@example.org,+1 720-555-0196,"17 Test Rd, Fairview, OH",2021-10-23,Apex Tech LLC,,crm_export_2.xlsx,193
+三浦 次郎,jiro.miura@example.net,03-8774-6836,神奈川県横浜市西区模擬町19-8-15,2022-07-14,株式会社ミライ建設,,crm_export_2.xlsx,194
+井上 蓮,ren.inoue@example.com,0120-921-922,愛知県名古屋市中区テスト町27-18-7,2019-03-08,富士見化学株式会社,,crm_export_2.xlsx,195
+James Foster,james.foster@example.net,+1 619-555-0112,"617 Test Rd, Shelbyville, IL",2024-04-23,Clear Craft LLC,,crm_export_2.xlsx,196
+Nancy Foster,nancy.foster@example.net,+1 602-555-0137,"149 Placeholder Dr, Oakdale, MN",2025-08-16,,missing_company,crm_export_2.xlsx,198
+橋本 真理,mari.hashimoto@example.com,06-2574-6224,神奈川県横浜市西区模擬町7-8-6,2019-07-07,"Cedar Labs Co., Ltd.",,crm_export_2.xlsx,199
+吉田 彩,aya.yoshida@example.org,070-9987-7229,東京都新宿区仮想町24-7-4,2023-02-28,東和商事株式会社,,crm_export_2.xlsx,200
+Donna Hayes,donna.hayes@example.com,+1 206-555-0169,"683 Sample St, Fairview, OH",2024-06-28,Northern Solutions Corp.,,crm_export_2.xlsx,201
+太田 陽子,yoko.ota@example.com,03-3203-0515,東京都港区仮想町12-10-14,2023-11-04,株式会社XYZ工業,,crm_export_2.xlsx,202
+加藤 花子,hanako.kato@example.com,090-3071-3940,東京都千代田区テスト町28-20-9,2019-10-31,株式会社北斗食品,,crm_export_2.xlsx,203
+加藤 亮,ryo.kato@example.com,090-7149-0686,京都府京都市中京区架空町21-16-1,2023-07-24,日の出貿易株式会社,,crm_export_2.xlsx,204
+西村 陽子,yoko.nishimura@example.com,090-3318-6554,宮城県仙台市青葉区サンプル台24-6-9,2025-05-29,株式会社光洋情報システム,,crm_export_2.xlsx,206
+西村 雅人,masato.nishimura@example.org,080-7122-4761,東京都千代田区試験町13-8-12,2023-02-20,株式会社光洋工業,,crm_export_2.xlsx,207
+前田 和也,kazuya.maeda@example.org,080-3001-6467,大阪府大阪市北区試験町26-4-2,2020-01-23,株式会社大和産業,,crm_export_2.xlsx,208
+Charles Osborne,charles.osborne@example.com,+442079460504,"147 Placeholder Dr, Riverton, WY",2022-08-16,Sakura Tech Corp.,,crm_export_2.xlsx,209
+池田 真理,mari.ikeda@example.net,070-1897-6681,宮城県仙台市青葉区架空町18-16-3,2023-06-19,大和製作所株式会社,,crm_export_2.xlsx,212
+近藤 恵子,keiko.kondo@example.org,06-1890-7424,福岡県福岡市博多区試験町28-17-4,2025-07-13,"Nova Energy Co., Ltd.",,crm_export_2.xlsx,214
+Diane Dixon,diane.dixon@example.org,+1 415-555-0150,"532 Sample St, Lakeside, CA",2020-01-23,"Harbor Trading Co., Ltd.",,crm_export_2.xlsx,215
+Anna Abbott,anna.abbott@example.com,+1 415-555-0181,"909 Sandbox Ct, Shelbyville, IL",2025-08-09,"Golden Foods Co., Ltd.",,crm_export_2.xlsx,216
+石川 健太,kenta.ishikawa@example.net,0120-803-371,福岡県福岡市博多区模擬町5-3-9,2020-12-14,株式会社星野工業,,crm_export_2.xlsx,217
+Robert Yates,robert.yates@example.net,080-9391-9069,"672 Example Ave, Shelbyville, IL",2022-03-07,Clear Supply Corp.,,crm_export_2.xlsx,218
+Sharon Rowe,sharon.rowe@example.net,+442079460000,"668 Test Rd, Georgetown, TX",2021-08-30,Summit Tech Inc.,,crm_export_2.xlsx,219
+青木 悠,yu.aoki@example.org,090-2787-4644,東京都港区架空町25-12-3,2024-02-14,北斗食品株式会社,,crm_export_2.xlsx,220
+福田 悠,yu.fukuda@example.net,070-1889-8978,,2025-03-20,若葉化学株式会社,missing_address,crm_export_2.xlsx,221
+後藤 健太,kenta.goto@example.org,011-557-3450,北海道札幌市中央区テスト町12-6-4,2024-12-31,株式会社ABC商事,,crm_export_2.xlsx,222
+森 大輔,daisuke.mori@example.com,050-7808-7702,東京都港区仮想町22-19-8,2020-01-16,株式会社XYZ工業,,crm_export_2.xlsx,223
+Paul Nolan,paul.nolan@example.org,+442079460118,"401 Placeholder Dr, Shelbyville, IL",2020-03-04,株式会社サクラ商事,,crm_export_2.xlsx,224
+Charles Grant,charles.grant@example.net,+1 303-555-0184,"964 Demo Blvd, Franklin, TN",2021-03-21,Northern Trading LLC,,crm_export_2.xlsx,225
+井上 徹,toru.inoue@example.net,06-8255-9668,北海道札幌市中央区ダミー通10-14-14,2020-12-07,Summit Labs Inc.,,crm_export_2.xlsx,227
+Mark Walsh,mark.walsh@example.org,+442079460676,"107 Example Ave, Lakeside, CA",2021-08-21,Prime Media Corp.,,crm_export_2.xlsx,228
+岡田 翔太,shota.okada@example.org,0120-908-897,大阪府大阪市北区サンプル台18-13-9,2024-08-17,株式会社ABC製作所,,crm_export_2.xlsx,229
+藤井 徹,toru.fujii@example.net,070-8293-9862,宮城県仙台市青葉区見本町14-1-10,2019-09-17,XYZ電機株式会社,,crm_export_2.xlsx,230
+吉田 優子,yuko.yoshida@example.net,070-2546-6563,北海道札幌市中央区架空町30-6-6,2022-02-14,株式会社大和工業,,crm_export_2.xlsx,231
+藤井 次郎,jiro.fujii@example.org,080-2304-7255,愛知県名古屋市中区仮名町17-4-13,2021-07-16,星野工業株式会社,,crm_export_2.xlsx,232
+Lisa Vaughn,lisa.vaughn@example.com,+1 206-555-0123,"448 Sandbox Ct, Franklin, TN",2024-04-25,Silver Solutions LLC,,crm_export_2.xlsx,233
+池田 智子,tomoko.ikeda@example.org,03-1100-8795,東京都千代田区見本町16-19-9,2023-06-11,株式会社大和産業,,crm_export_2.xlsx,234
+吉田 裕子,hiroko.yoshida@example.com,070-9829-6217,東京都新宿区見本町29-16-6,2019-02-21,株式会社ABC食品,,crm_export_2.xlsx,236
+池田 陸,riku.ikeda@example.com,090-3879-0034,東京都千代田区見本町23-17-7,2024-03-04,XYZ商事株式会社,,crm_export_2.xlsx,239
+Sharon Irwin,sharon.irwin@example.org,+1 303-555-0183,"666 Example Ave, Riverton, WY",2025-08-12,Sakura Solutions Corp.,,crm_export_2.xlsx,240
+松本 剛,tsuyoshi.matsumoto@example.org,03-6158-5068,福岡県福岡市博多区模擬町11-4-1,2019-01-15,株式会社若葉商事,,crm_export_2.xlsx,241
+James Irwin,james.irwin@example.com,+1 619-555-0135,"985 Placeholder Dr, Oakdale, MN",2023-11-28,Maple Trading Inc.,,crm_export_2.xlsx,242
+池田 美咲,misaki.ikeda@example.org,070-3307-6191,京都府京都市中京区模擬町19-20-7,2020-10-14,株式会社大和商事,,crm_export_2.xlsx,243
+山田 徹,toru.yamada@example.com,092-543-8363,北海道札幌市中央区見本町15-16-8,2022-04-06,株式会社光洋情報システム,,crm_export_2.xlsx,244
+山口 純,jun.yamaguchi@example.org,090-2582-8877,京都府京都市中京区試験町9-3-10,2025-08-22,株式会社サクラ製作所,,crm_export_2.xlsx,245
+石川 智子,tomoko.ishikawa@example.com,03-1815-1038,福岡県福岡市博多区仮想町30-11-7,2022-01-31,"Delta Systems Co., Ltd.",,crm_export_2.xlsx,246
+Michael Lawson,michael.lawson@example.net,080-3910-8242,"951 Mockup Way, Fairview, OH",2022-02-20,株式会社XYZ建設,,crm_export_2.xlsx,247
+斎藤 彩,aya.saito@example.com,080-6143-0240,東京都千代田区例示町9-3-15,2024-08-27,東和産業株式会社,,crm_export_2.xlsx,249
+Matthew Marsh,matthew.marsh@example.org,+442079460602,"460 Mockup Way, Lakeside, CA",2019-05-12,Sakura Materials Corp.,,crm_export_2.xlsx,250
+George Eaton,george.eaton@example.com,+1 617-555-0148,"271 Test Rd, Oakdale, MN",2023-05-22,Green Labs LLC,,crm_export_2.xlsx,251
+岡田 麻衣,mai.okada@example.com,03-4585-3626,愛知県名古屋市中区ダミー通28-4-2,2019-03-04,株式会社ABC貿易,,crm_export_2.xlsx,252
+西村 葵,aoi.nishimura@example.org,06-6106-2744,福岡県福岡市博多区架空町8-8-7,2021-01-03,株式会社白鳥情報システム,,crm_export_2.xlsx,253
+Charles Lawson,charles.lawson@example.net,06-4216-5016,"744 Demo Blvd, Riverton, WY",2025-05-13,Acme Design Corp.,,crm_export_2.xlsx,254
+中村 和也,kazuya.nakamura@example.com,090-7313-2206,福岡県福岡市博多区見本町3-10-3,2021-11-13,株式会社日の出化学,,crm_export_2.xlsx,255
+遠藤 雅人,masato.endo@example.com,050-5601-5215,東京都新宿区仮想町12-9-12,2020-12-22,白鳥産業株式会社,,crm_export_2.xlsx,257
+渡辺 結衣,yui.watanabe@example.com,070-3919-2097,東京都港区サンプル台6-11-8,2021-03-09,株式会社ABC貿易,,crm_export_2.xlsx,258
+Donna Dawson,donna.dawson@example.org,,"791 Placeholder Dr, Riverton, WY",2024-12-07,"Blue Labs Co., Ltd.",missing_phone,crm_export_2.xlsx,259
+Diane Pratt,diane.pratt@example.org,+442079460984,"733 Example Ave, Fairview, OH",2024-07-12,,missing_company,crm_export_2.xlsx,260
+James Joyce,james.joyce@example.com,+1 212-555-0117,"269 Test Rd, Springfield, IL",2023-11-16,Acme Foods Corp.,,crm_export_2.xlsx,261
+Sandra Yates,sandra.yates@example.org,+442079460937,"217 Example Ave, Lakeside, CA",2025-10-04,株式会社若葉製作所,,crm_export_2.xlsx,262
+木村 隼人,hayato.kimura@example.net,050-5322-0281,京都府京都市中京区テスト町6-5-4,2019-07-15,株式会社北斗製作所,,crm_export_2.xlsx,263
+Kevin Jensen,kevin.jensen@example.org,06-2634-4082,"116 Sample St, Fairview, OH",2025-05-27,"Sakura Craft Co., Ltd.",,crm_export_2.xlsx,264
+Julia Nolan,julia.nolan@example.com,+1 212-555-0138,"590 Placeholder Dr, Lakeside, CA",2022-05-31,"Blue Systems Co., Ltd.",,crm_export_2.xlsx,268
+佐藤 一郎,ichiro.sato@example.com,070-6828-1747,東京都新宿区見本町7-15-6,2023-05-31,Bright Craft Corp.,,crm_export_2.xlsx,270
+Thomas Vaughn,thomas.vaughn@example.org,080-1821-2506,"672 Sandbox Ct, Shelbyville, IL",2023-11-30,Blue Labs LLC,,crm_export_2.xlsx,271
+高橋 裕子,hiroko.takahashi@example.org,0120-712-254,北海道札幌市中央区見本町19-20-10,2021-10-28,株式会社サクラ貿易,,crm_export_2.xlsx,273
+Rachel Sutton,rachel.sutton@example.com,+1 415-555-0122,"937 Sandbox Ct, Fairview, OH",2023-05-08,Pacific Logistics Corp.,,crm_export_2.xlsx,274
+橋本 大輔,daisuke.hashimoto@example.com,080-3451-2364,東京都港区仮名町6-13-11,2022-08-05,東和貿易株式会社,,crm_export_2.xlsx,275
+中村 香織,kaori.nakamura@example.org,080-5294-9113,京都府京都市中京区架空町13-10-5,2020-07-01,株式会社光洋商事,,crm_export_2.xlsx,276
+Betty Dixon,betty.dixon@example.net,+442079460539,"677 Test Rd, Shelbyville, IL",2024-10-05,Green Craft Inc.,,crm_export_2.xlsx,277
+Sandra Ellis,sandra.ellis@example.net,+1 312-555-0179,"488 Sandbox Ct, Fairview, OH",2023-08-06,白鳥産業株式会社,,crm_export_2.xlsx,278
+森 悠,yu.mori@example.org,070-5046-8864,愛知県名古屋市中区ダミー通22-16-3,2019-03-10,Silver Craft Corp.,,crm_export_2.xlsx,279
+森 彩,aya.mori@example.org,092-694-4999,京都府京都市中京区テスト町8-20-10,2024-04-24,緑川情報システム株式会社,,crm_export_2.xlsx,280
+松本 恵子,keiko.matsumoto@example.net,052-648-8869,愛知県名古屋市中区仮名町15-19-1,2024-08-20,白鳥情報システム株式会社,,crm_export_2.xlsx,281
+Laura Yates,laura.yates@example.org,+1 404-555-0182,"41 Example Ave, Springfield, IL",2021-04-15,"Green Trading Co., Ltd.",,crm_export_2.xlsx,282
+Lisa Lawson,lisa.lawson@example.org,+1 646-555-0122,"566 Sandbox Ct, Franklin, TN",2021-03-15,株式会社緑川産業,,crm_export_2.xlsx,283
+鈴木 沙織,saori.suzuki@example.net,03-6085-3677,大阪府大阪市北区仮名町5-19-10,2025-06-15,日の出化学株式会社,,crm_export_2.xlsx,284
+斎藤 隼人,hayato.saito@example.net,070-1475-0605,東京都港区架空町18-20-9,2022-10-25,株式会社星野商事,,crm_export_2.xlsx,286
+石川 亮,ryo.ishikawa@example.org,,宮城県仙台市青葉区架空町6-5-2,2023-12-12,株式会社大和情報システム,missing_phone,crm_export_2.xlsx,287
+森 陸,riku.mori@example.com,092-291-5129,京都府京都市中京区テスト町25-1-13,2024-03-18,Acme Solutions LLC,,crm_export_2.xlsx,288
+岡田 香織,kaori.okada@example.net,0120-914-905,京都府京都市中京区例示町7-13-13,2023-07-05,株式会社大和食品,,crm_export_2.xlsx,289
+斎藤 雅人,masato.saito@example.com,080-5032-6437,宮城県仙台市青葉区架空町22-5-14,2024-09-12,"Apex Labs Co., Ltd.",,crm_export_2.xlsx,290
+Charles Kemp,charles.kemp@example.org,06-4162-8399,"33 Test Rd, Georgetown, TX",,株式会社サクラ運輸,missing_date,crm_export_2.xlsx,292
+中村 愛,ai.nakamura@example.com,050-2111-2791,大阪府大阪市北区見本町20-2-12,2022-12-29,株式会社サクラ商事,,crm_export_2.xlsx,293
+Mary Osborne,mary.osborne@example.com,+442079460731,"111 Test Rd, Lakeside, CA",2020-08-13,Clear Labs Inc.,,crm_export_2.xlsx,294
+中村 陸,riku.nakamura@example.net,090-2965-0408,愛知県名古屋市中区ダミー通28-9-12,2023-07-28,株式会社大和食品,,crm_export_2.xlsx,296
+Lisa Jensen,lisa.jensen@example.net,080-1370-3411,"440 Mockup Way, Fairview, OH",2022-07-17,株式会社白鳥工業,,crm_export_2.xlsx,298
+遠藤 沙織,saori.endo@example.org,070-2489-2797,福岡県福岡市博多区テスト町29-13-13,2022-03-15,若葉産業株式会社,,crm_export_2.xlsx,299
+中村 誠,makoto.nakamura@example.net,03-7439-9960,東京都新宿区仮想町26-11-4,2022-02-15,株式会社北斗製作所,,crm_export_2.xlsx,300
+橋本 恵子,keiko.hashimoto@example.org,090-2790-9361,京都府京都市中京区見本町16-20-15,2022-03-22,株式会社緑川運輸,,messy_customers.csv,2
+Kevin Holland,kevin.holland@example.net,+1 303-555-0144,"21 Demo Blvd, Riverton, WY",2022-02-27,Blue Design LLC,,messy_customers.csv,3
+Kevin Pratt,kevin.pratt@example.net,03-3224-7888,"652 Sandbox Ct, Fairview, OH",2025-01-08,Delta Solutions Corp.,,messy_customers.csv,4
+Paul Dawson,paul.dawson@example.com,080-6169-9096,"223 Mockup Way, Springfield, IL",2022-12-19,サクラ物産株式会社,,messy_customers.csv,5
+高橋 茜,akane.takahashi@example.net,03-7382-3070,宮城県仙台市青葉区見本町28-10-12,2022-07-12,株式会社東和製作所,,messy_customers.csv,6
+Mary Marsh,mary.marsh@example.net,+1 206-555-0127,"189 Example Ave, Lakeside, CA",2023-03-13,Northern Tech Inc.,,messy_customers.csv,7
+清水 恵子,keiko.shimizu@example.com,075-357-3116,北海道札幌市中央区例示町24-17-5,2022-09-02,緑川食品株式会社,,messy_customers.csv,8
+佐々木 亮,ryo.sasaki@example.com,070-6119-0368,宮城県仙台市青葉区サンプル台21-7-6,2021-04-01,株式会社東和産業,,messy_customers.csv,9
+Donna Owens,donna.owens@example.net,+442079460175,"328 Mockup Way, Shelbyville, IL",2025-01-23,Silver Trading Corp.,,messy_customers.csv,10
+遠藤 大輔,daisuke.endo@example.com,03-8629-9302,東京都新宿区見本町27-15-2,2024-02-10,光洋情報システム株式会社,,messy_customers.csv,11
+池田 直樹,naoki.ikeda@example.com,070-5227-5954,福岡県福岡市博多区試験町23-11-13,2022-08-23,株式会社ABC食品,,messy_customers.csv,12
+Susan Carter,susan.carter@example.net,+1 404-555-0175,"254 Demo Blvd, Georgetown, TX",2025-02-22,Apex Partners Inc.,,messy_customers.csv,14
+加藤 千尋,chihiro.kato@example.org,06-6606-8921,大阪府大阪市北区試験町22-3-12,2025-06-09,株式会社XYZ貿易,,messy_customers.csv,15
+後藤 隼人,hayato.goto@example.com,052-515-6648,東京都港区模擬町4-20-13,2023-04-02,株式会社光洋化学,,messy_customers.csv,16
+福田 純,jun.fukuda@example.org,090-2175-0257,東京都新宿区例示町22-14-3,2019-12-13,若葉製作所株式会社,,messy_customers.csv,17
+Mary Foster,mary.foster@example.org,+442079460435,"475 Placeholder Dr, Fairview, OH",2025-03-11,"Orion Works Co., Ltd.",,messy_customers.csv,18
+井上 健太,kenta.inoue@example.org,080-4878-8220,愛知県名古屋市中区仮名町30-18-10,2023-02-12,株式会社ABC貿易,,messy_customers.csv,19
+Michael Ingram,michael.ingram@example.net,,"557 Sample St, Oakdale, MN",2024-04-04,Apex Media LLC,missing_phone,messy_customers.csv,20
+岡田 誠,makoto.okada@example.net,090-5981-9235,愛知県名古屋市中区架空町21-16-10,2020-11-23,光洋物産株式会社,,messy_customers.csv,21
+山田 真理,mari.yamada@example.com,03-9125-6765,福岡県福岡市博多区仮想町22-15-12,2020-11-16,株式会社富士見運輸,,messy_customers.csv,22
+前田 蓮,ren.maeda@example.net,0928709571,福岡県福岡市博多区例示町25-8-12,2025-08-08,北斗運輸株式会社,phone_format_unverified,messy_customers.csv,24
+Richard Marsh,richard.marsh@example.net,+1 212-555-0179,"68 Demo Blvd, Shelbyville, IL",,"Green Foods Co., Ltd.",missing_date,messy_customers.csv,25
+Daniel Sanders,daniel.sanders@example.org,+442079460331,"175 Example Ave, Lakeside, CA",2022-02-09,Orion Partners LLC,,messy_customers.csv,26
+Andrew Holland,andrew.holland@example.net,06-3915-7218,,2025-11-04,"Apex Foods Co., Ltd.",missing_address,messy_customers.csv,27
+三浦 颯太,sota.miura@example.org,,東京都新宿区ダミー通29-13-10,2019-01-16,株式会社若葉建設,missing_phone,messy_customers.csv,28
+小林 真理,mari.kobayashi@example.org,045-753-3700,東京都千代田区仮名町23-16-2,2025-05-12,青葉運輸株式会社,,messy_customers.csv,29
+高橋 麻衣,mai.takahashi@example.org,+442079460662,東京都港区ダミー通18-11-2,2024-02-26,株式会社東和化学,,messy_customers.csv,30
+松本 美咲,misaki.matsumoto@example.net,06-7391-1749,北海道札幌市中央区例示町3-15-12,2021-02-15,ミライ商事株式会社,,messy_customers.csv,31
+田中 由美,yumi.tanaka@example.net,070-6041-8186,京都府京都市中京区例示町1-2-6,2019-08-18,株式会社富士見商事,,messy_customers.csv,32
+松本 優子,yuko.matsumoto@example.org,06-9791-2440,宮城県仙台市青葉区仮想町30-3-1,2020-08-02,ABC建設株式会社,,messy_customers.csv,33
+Kevin Reed,kevin.reed@example.com,090-2870-8145,"74 Demo Blvd, Riverton, WY",2023-10-12,Orion Works Inc.,,messy_customers.csv,34
+James Owens,james.owens@example.org,+1 303-555-0127,"617 Test Rd, Springfield, IL",2022-10-06,東和工業株式会社,,messy_customers.csv,35
+石川 愛,ai.ishikawa@example.com,06-7819-7798,東京都新宿区仮想町5-9-9,2024-01-19,サクラ貿易株式会社,,messy_customers.csv,36
+池田 悠,yu.ikeda@example.org,090-5934-5699,,2020-04-26,Green Media LLC,missing_address,messy_customers.csv,37
+鈴木 由美,yumi.suzuki@example.org,070-3881-2589,東京都千代田区例示町17-4-2,2021-08-21,株式会社星野貿易,,messy_customers.csv,40
+長谷川 恵子,keiko.hasegawa@example.net,070-1977-4597,東京都新宿区見本町28-15-8,2023-09-10,青葉電機株式会社,,messy_customers.csv,41
+Edward Yates,edward.yates@example.org,03-4763-1416,"887 Sandbox Ct, Georgetown, TX",2021-06-05,Delta Design Inc.,,messy_customers.csv,42
+Donna Sanders,donna.sanders@example.org,090-6362-7114,"923 Test Rd, Riverton, WY",2025-06-07,Nova Trading Inc.,,messy_customers.csv,43
+藤井 翔太,shota.fujii@example.org,011-423-2174,北海道札幌市中央区サンプル台8-3-1,2024-05-19,株式会社サクラ情報システム,,messy_customers.csv,44
+橋本 剛,tsuyoshi.hashimoto@example.org,080-8598-2271,福岡県福岡市博多区試験町26-12-11,2024-03-16,株式会社ABC化学,,messy_customers.csv,45
+Nancy Pratt,nancy.pratt@example.net,+1 206-555-0154,"724 Demo Blvd, Lakeside, CA",2019-11-28,Maple Craft Inc.,,messy_customers.csv,46
+清水 亮,ryo.shimizu@example.org,090-2818-6274,北海道札幌市中央区例示町20-2-6,2023-02-09,株式会社北斗情報システム,,messy_customers.csv,47
+橋本 茜,akane.hashimoto@example.net,080-5540-0892,,2024-08-15,XYZ建設株式会社,missing_address,messy_customers.csv,48
+Matthew Pratt,matthew.pratt@example.com,+1 312-555-0189,"518 Test Rd, Fairview, OH",2021-04-16,Acme Design Corp.,,messy_customers.csv,49
+Laura Walsh,laura.walsh@example.org,+442079460421,"681 Mockup Way, Oakdale, MN",2024-06-14,Bright Materials Corp.,,messy_customers.csv,50
+木村 陽子,yoko.kimura@example.org,080-3813-4259,大阪府大阪市北区例示町12-10-13,2019-07-13,東和建設株式会社,,messy_customers.csv,51
+木村 結衣,yui.kimura@example.net,,北海道札幌市中央区試験町12-15-9,2020-10-27,株式会社XYZ商事,missing_phone,messy_customers.csv,52
+Nancy Sutton,nancy.sutton@example.org,06-6549-1840,"931 Sample St, Franklin, TN",2020-07-25,Green Design Inc.,,messy_customers.csv,54
+池田 徹,toru.ikeda@example.com,090-6347-0901,宮城県仙台市青葉区仮想町19-17-4,2022-02-12,XYZ産業株式会社,,messy_customers.csv,55
+Matthew Garrett,matthew.garrett@example.com,06-4185-8035,"627 Sample St, Oakdale, MN",2023-01-18,Nova Works Corp.,,messy_customers.csv,56
+坂本 純,jun.sakamoto@example.net,080-8300-9191,東京都港区仮想町24-15-12,2023-08-30,東和工業株式会社,,messy_customers.csv,57
+Betty Lawson,betty.lawson@example.net,+442079460424,"865 Example Ave, Fairview, OH",2020-08-11,Apex Materials LLC,,messy_customers.csv,58
+遠藤 麻衣,mai.endo@example.org,045-206-6708,愛知県名古屋市中区仮名町6-18-8,2025-05-15,株式会社サクラ電機,,messy_customers.csv,59
+渡辺 優子,yuko.watanabe@example.org,06-7834-2938,神奈川県横浜市西区仮想町1-4-13,2022-02-09,XYZ貿易株式会社,,messy_customers.csv,60
+加藤 徹,toru.kato@example.org,080-8799-1959,北海道札幌市中央区テスト町24-19-1,2021-11-29,株式会社ABC工業,,messy_customers.csv,61
+James Dawson,james.dawson@example.com,+1 212-555-0134,"439 Mockup Way, Oakdale, MN",2019-07-19,Bright Energy Inc.,,messy_customers.csv,62
+田中 大輔,daisuke.tanaka@example.org,080-7750-5575,東京都新宿区見本町7-5-9,2021-06-24,株式会社若葉産業,,messy_customers.csv,63
+吉田 和也,kazuya.yoshida@example.com,090-7960-1830,東京都港区架空町25-16-13,2023-11-02,XYZ商事株式会社,,messy_customers.csv,64
+山田 健太,kenta.yamada@example.com,080-1709-1085,愛知県名古屋市中区架空町25-4-13,2020-05-22,"Northern Media Co., Ltd.",,messy_customers.csv,65
+山口 拓也,takuya.yamaguchi@example.net,090-5544-9498,北海道札幌市中央区ダミー通6-17-13,2025-11-15,株式会社星野食品,,messy_customers.csv,66
+高橋 彩,aya.takahashi@example.com,070-4138-4617,東京都新宿区テスト町1-4-15,2021-05-26,"Apex Works Co., Ltd.",,messy_customers.csv,68
+Mark Osborne,mark.osborne@example.org,+1 213-555-0105,"345 Sandbox Ct, Shelbyville, IL",2020-04-18,Delta Media LLC,,messy_customers.csv,69
+Edward Irwin,edward.irwin@example.net,+1 404-555-0137,"203 Example Ave, Georgetown, TX",2024-05-02,Cedar Systems Inc.,,messy_customers.csv,70
+Helen Chambers,helen.chambers@example.net,+442079460405,"545 Example Ave, Franklin, TN",2020-05-03,株式会社日の出情報システム,,messy_customers.csv,71
+佐藤 誠,makoto.sato@example.com,090-6548-3281,宮城県仙台市青葉区仮名町4-8-14,2023-10-06,東和情報システム株式会社,,messy_customers.csv,72
+Anthony Tucker,anthony.tucker@example.com,+442079460532,"821 Sandbox Ct, Franklin, TN",2021-04-07,Apex Labs LLC,,messy_customers.csv,75
+藤田 純,jun.fujita@example.org,090-8051-1951,福岡県福岡市博多区例示町11-13-8,2024-02-26,サクラ産業株式会社,,messy_customers.csv,76
+Mary Dixon,mary.dixon@example.org,+1 404-555-0117,"742 Placeholder Dr, Lakeside, CA",2024-06-19,Swift Energy Corp.,,messy_customers.csv,77
+Richard Carter,richard.carter@example.net,+1 212-555-0175,"141 Mockup Way, Springfield, IL",2022-11-29,Swift Trading LLC,,messy_customers.csv,78
+石川 翔太,shota.ishikawa@example.net,080-7749-5755,東京都千代田区仮想町8-8-11,2022-07-02,株式会社白鳥情報システム,,messy_customers.csv,79
+青木 誠,makoto.aoki@example.net,070-6343-0612,神奈川県横浜市西区仮名町19-17-15,2023-09-22,株式会社富士見建設,,messy_customers.csv,80
+村上 萌,moe.murakami@example.org,070-5907-5952,福岡県福岡市博多区仮想町16-3-14,2025-01-03,株式会社東和商事,,messy_customers.csv,81
+斎藤 恵子,keiko.saito@example.com,03-2552-9697,北海道札幌市中央区サンプル台3-19-13,2024-12-15,ミライ運輸株式会社,,messy_customers.csv,82
+Sharon Parker,sharon.parker@example.net,+1 206-555-0155,"214 Placeholder Dr, Oakdale, MN",2023-07-06,"Bright Labs Co., Ltd.",,messy_customers.csv,83
+William Foster,william.foster@example.net,+1 602-555-0155,"672 Sample St, Georgetown, TX",2021-04-07,Silver Trading LLC,,messy_customers.csv,85
+Karen Young,karen.young@example.net,+442079460180,"996 Sandbox Ct, Springfield, IL",2019-03-23,株式会社白鳥食品,,messy_customers.csv,86
+後藤 真理,mari.goto@example.com,050-7668-5954,東京都港区仮名町27-5-4,2020-04-03,株式会社北斗食品,,messy_customers.csv,87
+Laura Nolan,laura.nolan@example.org,+1 720-555-0111,"624 Example Ave, Riverton, WY",2022-07-07,Swift Craft Corp.,,messy_customers.csv,88
+Sharon Pratt,sharon.pratt@example.org,+1 404-555-0127,"119 Test Rd, Fairview, OH",,Delta Partners LLC,missing_date,messy_customers.csv,89
+Peter Tucker,peter.tucker@example.com,,"334 Placeholder Dr, Shelbyville, IL",2024-04-29,"Summit Tech Co., Ltd.",missing_phone,messy_customers.csv,90
+佐藤 和也,kazuya.sato@example.org,080-1345-9925,東京都千代田区架空町23-8-5,2025-03-13,株式会社光洋情報システム,,messy_customers.csv,91
+Robert Sutton,robert.sutton@example.com,06-7656-0555,,2024-07-06,Nova Tech LLC,missing_address,messy_customers.csv,92
+Matthew Eaton,matthew.eaton@example.com,070-5275-8295,"370 Placeholder Dr, Shelbyville, IL",2025-10-02,Clear Craft LLC,,messy_customers.csv,93
+村上 大輔,daisuke.murakami@example.org,075-902-6722,北海道札幌市中央区例示町16-5-5,2020-12-11,緑川運輸株式会社,,messy_customers.csv,94
+清水 颯太,sota.shimizu@example.net,080-7182-9345,大阪府大阪市北区架空町1-18-11,2025-11-11,白鳥食品株式会社,,messy_customers.csv,95
+近藤 美咲,misaki.kondo@example.org,045-610-7027,宮城県仙台市青葉区サンプル台5-3-6,2020-11-27,Green Trading Corp.,,messy_customers.csv,96
+Mark Foster,mark.foster@example.org,+1 619-555-0136,"438 Test Rd, Riverton, WY",2023-08-01,Acme Design LLC,,messy_customers.csv,97
+斎藤 陽子,yoko.saito@example.net,050-7056-9550,神奈川県横浜市西区見本町1-16-3,2022-08-17,"Orion Energy Co., Ltd.",,messy_customers.csv,98
+Paul Holland,paul.holland@example.org,+1 714-555-0132,"107 Sample St, Shelbyville, IL",2019-08-02,Pacific Labs LLC,,messy_customers.csv,99
+Nancy Sanders,nancy.sanders@example.org,03-1087-4155,"319 Placeholder Dr, Georgetown, TX",2023-02-28,株式会社白鳥産業,,messy_customers.csv,100
+遠藤 一郎,ichiro.endo@example.com,080-8669-2161,東京都港区ダミー通23-17-7,2020-08-03,,missing_company,messy_customers.csv,101
+太田 裕子,hiroko.ota@example.net,06-5635-4312,宮城県仙台市青葉区サンプル台17-11-7,2020-11-06,株式会社大和工業,,messy_customers.csv,102
+Karen Vaughn,karen.vaughn@example.org,+442079460054,"162 Sample St, Riverton, WY",2021-07-30,"Apex Design Co., Ltd.",,messy_customers.csv,103
+Andrew Carter,andrew.carter@example.net,+1 720-555-0163,"462 Mockup Way, Springfield, IL",2025-04-16,"Apex Foods Co., Ltd.",,messy_customers.csv,105
+太田 陸,riku.ota@example.org,06-5412-9735,東京都千代田区ダミー通2-20-8,2022-08-23,"Swift Systems Co., Ltd.",,messy_customers.csv,106
+Donna Tucker,donna.tucker@example.net,+1 512-555-0157,"497 Fiction Ln, Georgetown, TX",2025-04-25,Blue Solutions Corp.,,messy_customers.csv,107
+石川 真理,mari.ishikawa@example.org,080-8671-7165,東京都港区例示町10-5-3,2022-05-15,株式会社北斗製作所,,messy_customers.csv,109
+Charles Jensen,charles.jensen@example.com,+1 305-555-0159,"815 Test Rd, Fairview, OH",2023-05-29,株式会社日の出情報システム,,messy_customers.csv,110
+三浦 沙織,saori.miura@example.net,011-838-4342,北海道札幌市中央区試験町7-6-2,2025-10-10,株式会社光洋食品,,messy_customers.csv,111
+坂本 優子,yuko.sakamoto@example.net,090-8817-7539,福岡県福岡市博多区模擬町24-16-5,2025-12-08,星野運輸株式会社,,messy_customers.csv,112
+Susan Grant,susan.grant@example.com,+1 415-555-0183,"456 Demo Blvd, Riverton, WY",2019-12-19,Delta Systems Corp.,,messy_customers.csv,113
+加藤 悠,yu.kato@example.org,011-625-8121,宮城県仙台市青葉区模擬町24-18-5,,株式会社大和産業,missing_date,messy_customers.csv,115
+Mark Lawson,mark.lawson@example.org,06-4799-0994,"442 Mockup Way, Springfield, IL",2025-03-16,株式会社白鳥化学,,messy_customers.csv,116
+伊藤 香織,kaori.ito@example.net,06-8345-7147,東京都千代田区試験町10-7-8,,株式会社北斗電機,missing_date,messy_customers.csv,117
+Kevin Young,kevin.young@example.com,+442079460289,"693 Sandbox Ct, Shelbyville, IL",2020-06-12,Golden Media Corp.,,messy_customers.csv,118
+藤井 直樹,naoki.fujii@example.org,090-6533-7055,東京都港区模擬町8-4-9,2021-07-06,青葉運輸株式会社,,messy_customers.csv,119
+Lisa Marsh,lisa.marsh@example.org,+1 415-555-0188,"733 Sample St, Shelbyville, IL",2023-11-29,Green Foods Inc.,,messy_customers.csv,120
+Charles Dixon,charles.dixon@example.com,+1 415-555-0180,"901 Demo Blvd, Shelbyville, IL",2023-01-21,Harbor Craft Corp.,,messy_customers.csv,121
+岡田 優子,yuko.okada@example.net,0454517760,北海道札幌市中央区サンプル台17-6-2,2021-12-25,株式会社若葉製作所,phone_format_unverified,messy_customers.csv,123
+Joseph Reed,joseph.reed@example.com,+442079460542,"816 Demo Blvd, Georgetown, TX",2020-07-19,Nova Tech Corp.,,messy_customers.csv,124
+Diane Yates,diane.yates@example.org,+442079460370,"463 Test Rd, Springfield, IL",2019-02-10,Bright Foods Inc.,,messy_customers.csv,125
+佐藤 剛,tsuyoshi.sato@example.net,+1 415-555-0155,東京都千代田区仮名町25-2-11,2020-09-10,Sakura Energy LLC,,messy_customers.csv,126
+太田 剛,tsuyoshi.ota@example.org,06-6139-5638,東京都千代田区サンプル台29-17-10,2020-08-24,株式会社大和化学,,messy_customers.csv,127
+池田 誠,makoto.ikeda@example.com,070-6115-8541,北海道札幌市中央区試験町1-1-15,2025-01-20,ミライ物産株式会社,,messy_customers.csv,128
+高橋 愛,ai.takahashi@example.com,090-9737-9757,大阪府大阪市北区ダミー通10-10-11,2025-06-04,株式会社富士見製作所,,messy_customers.csv,129
+鈴木 翔太,shota.suzuki@example.net,090-6919-7443,東京都港区試験町23-14-14,2023-08-15,ABC製作所株式会社,,messy_customers.csv,130
+Steven Ingram,steven.ingram@example.net,+442079460426,"157 Test Rd, Fairview, OH",2024-06-08,Silver Craft Inc.,,messy_customers.csv,132
+Julia Pratt,julia.pratt@example.net,+1 213-555-0120,"953 Example Ave, Oakdale, MN",2025-09-30,Green Foods LLC,,messy_customers.csv,133
+福田 香織,kaori.fukuda@example.com,090-7086-4995,北海道札幌市中央区サンプル台10-16-1,2020-08-08,株式会社星野製作所,,messy_customers.csv,134
+Mark Chambers,mark.chambers@example.net,+1 619-555-0194,"12 Example Ave, Franklin, TN",2025-02-20,Sakura Partners Corp.,,messy_customers.csv,135
+Nancy Vaughn,nancy.vaughn@example.org,+1 415-555-0190,"595 Fiction Ln, Springfield, IL",2025-04-17,"Clear Foods Co., Ltd.",,messy_customers.csv,137
+Linda Irwin,linda.irwin@example.org,03-8796-8235,"133 Test Rd, Springfield, IL",2019-03-19,Northern Logistics Corp.,,messy_customers.csv,138
+橋本 翔太,shota.hashimoto@example.org,06-1737-8052,東京都千代田区ダミー通14-6-7,2019-04-09,Maple Partners LLC,,messy_customers.csv,139
+橋本 優子,yuko.hashimoto@example.com,080-3359-2992,愛知県名古屋市中区見本町5-10-7,2020-11-24,株式会社青葉工業,,messy_customers.csv,140
+藤井 和也,kazuya.fujii@example.org,0120-791-203,大阪府大阪市北区テスト町21-5-5,2025-05-16,株式会社XYZ化学,,messy_customers.csv,142
+David Reed,david.reed@example.com,+1 415-555-0131,"994 Sandbox Ct, Georgetown, TX",2019-06-21,株式会社大和貿易,,messy_customers.csv,143
+太田 麻衣,mai.ota@example.org,090-5925-1469,福岡県福岡市博多区見本町27-5-12,2025-03-29,Nova Logistics LLC,,messy_customers.csv,144
+坂本 茜,akane.sakamoto@example.com,092-396-1474,宮城県仙台市青葉区サンプル台26-8-4,2024-07-15,,missing_company,messy_customers.csv,147
+Steven Holland,steven.holland@example.org,+442079460007,"850 Placeholder Dr, Riverton, WY",2020-03-30,Swift Supply Corp.,,messy_customers.csv,148
+橋本 拓也,takuya.hashimoto@example.com,03-2070-9636,東京都新宿区見本町5-9-15,2025-05-23,Bright Craft LLC,,messy_customers.csv,149
+加藤 直樹,naoki.kato@example.org,052-906-6943,東京都港区仮想町7-6-6,2022-06-27,株式会社光洋食品,,messy_customers.csv,150
+伊藤 颯太,sota.ito@example.com,06-5102-4049,東京都港区例示町8-11-14,2019-08-11,北斗電機株式会社,,messy_customers.csv,151
+Sandra Foster,sandra.foster@example.org,+1 312-555-0180,"602 Example Ave, Franklin, TN",2019-12-17,Sakura Partners LLC,,messy_customers.csv,153
+田中 徹,toru.tanaka@example.net,011-298-6735,大阪府大阪市北区模擬町26-20-1,2024-02-01,若葉製作所株式会社,,messy_customers.csv,154
+林 由美,yumi.hayashi@example.net,06-6098-9562,京都府京都市中京区試験町5-16-5,2025-10-07,株式会社青葉商事,,messy_customers.csv,155
+Susan Joyce,susan.joyce@example.com,+1 602-555-0171,,2021-03-11,Northern Solutions Inc.,missing_address,messy_customers.csv,156
+山田 愛,ai.yamada@example.org,070-8657-9826,北海道札幌市中央区模擬町19-11-10,2022-05-12,株式会社サクラ食品,,messy_customers.csv,157
+Anthony Marsh,anthony.marsh@example.net,+1 415-555-0100,"20 Example Ave, Oakdale, MN",2023-01-05,株式会社XYZ工業,,messy_customers.csv,158
+佐藤 直樹,naoki.sato@example.org,050-6896-0719,東京都千代田区仮想町7-10-3,2021-06-15,"Golden Works Co., Ltd.",,messy_customers.csv,159
+遠藤 花子,hanako.endo@example.com,080-2657-0343,東京都新宿区仮名町21-4-6,2021-05-11,ミライ運輸株式会社,,messy_customers.csv,160
+Daniel Chambers,daniel.chambers@example.org,06-2071-1941,,2021-02-15,Orion Craft LLC,missing_address,messy_customers.csv,161
+加藤 沙織,saori.kato@example.net,+1 617-555-0105,宮城県仙台市青葉区模擬町7-18-5,2020-08-31,ABC化学株式会社,,messy_customers.csv,162
+Betty Walsh,betty.walsh@example.org,06-4428-1333,,2020-11-16,Bright Works Corp.,missing_address,messy_customers.csv,163
+太田 千尋,chihiro.ota@example.com,080-9609-7918,神奈川県横浜市西区例示町9-19-7,2025-07-19,ミライ電機株式会社,,messy_customers.csv,164
+山田 花子,hanako.yamada@example.com,080-7963-6178,宮城県仙台市青葉区試験町30-12-5,2025-03-05,株式会社若葉食品,,messy_customers.csv,165
+藤井 太郎,taro.fujii@example.com,06-9392-5511,福岡県福岡市博多区例示町15-14-7,2023-02-14,株式会社青葉物産,,messy_customers.csv,166
+鈴木 拓也,takuya.suzuki@example.com,090-6883-1350,愛知県名古屋市中区テスト町17-18-11,2019-11-17,株式会社白鳥電機,,messy_customers.csv,167
+遠藤 陸,riku.endo@example.com,080-4221-5394,愛知県名古屋市中区サンプル台24-9-4,2025-10-10,Clear Tech LLC,,messy_customers.csv,168
+石川 直樹,naoki.ishikawa@example.net,080-7616-6647,宮城県仙台市青葉区架空町16-17-13,2020-09-03,"Pacific Logistics Co., Ltd.",,messy_customers.csv,169
+村上 真理,mari.murakami@example.org,06-8559-5581,東京都港区ダミー通28-7-7,2023-09-07,株式会社大和産業,,messy_customers.csv,170
+田中 颯太,sota.tanaka@example.com,070-1158-8188,北海道札幌市中央区ダミー通8-14-7,2023-07-11,株式会社富士見産業,,messy_customers.csv,171
+加藤 美咲,misaki.kato@example.org,052-357-5410,宮城県仙台市青葉区模擬町30-20-10,2023-05-21,Northern Partners Inc.,,messy_customers.csv,172
+高橋 沙織,saori.takahashi@example.net,090-5769-8591,東京都港区例示町2-12-9,2019-02-15,株式会社緑川製作所,,messy_customers.csv,173
+Rachel Underwood,rachel.underwood@example.com,+1 512-555-0195,"408 Demo Blvd, Shelbyville, IL",2020-06-16,Harbor Partners Corp.,,messy_customers.csv,174
+木村 徹,toru.kimura@example.org,0120-701-307,京都府京都市中京区例示町9-7-1,2020-08-07,株式会社緑川製作所,,messy_customers.csv,175
+山田 和也,kazuya.yamada@example.net,050-9043-7539,神奈川県横浜市西区模擬町2-3-5,2024-02-13,緑川情報システム株式会社,,messy_customers.csv,176
+高橋 大輔,daisuke.takahashi@example.com,090-8079-7501,福岡県福岡市博多区試験町23-19-2,2023-05-31,ABC電機株式会社,,messy_customers.csv,177
+佐々木 雅人,masato.sasaki@example.net,090-9291-0731,神奈川県横浜市西区架空町3-15-7,2022-11-08,株式会社緑川電機,,messy_customers.csv,178
+伊藤 徹,toru.ito@example.com,03-6359-7606,神奈川県横浜市西区例示町3-3-9,2021-09-19,株式会社大和工業,,messy_customers.csv,179
+佐々木 一郎,ichiro.sasaki@example.net,052-583-3908,大阪府大阪市北区見本町1-14-1,2019-03-01,ミライ化学株式会社,,messy_customers.csv,180
+吉田 愛,ai.yoshida@example.com,052-941-2736,東京都千代田区仮名町17-4-14,2022-09-01,株式会社光洋電機,,messy_customers.csv,181
+Daniel Owens,daniel.owens@example.net,03-4807-3502,"375 Mockup Way, Shelbyville, IL",2020-12-12,株式会社光洋運輸,,messy_customers.csv,182
+橋本 葵,aoi.hashimoto@example.com,080-7045-0719,東京都港区仮想町14-10-13,2025-09-18,株式会社XYZ情報システム,,messy_customers.csv,183
+Anna Nolan,anna.nolan@example.org,+1 312-555-0176,"656 Placeholder Dr, Oakdale, MN",2020-06-28,,missing_company,messy_customers.csv,185
+山田 学,manabu.yamada@example.org,080-3890-9926,大阪府大阪市北区サンプル台10-19-8,2021-04-04,株式会社若葉建設,,messy_customers.csv,189
+小林 恵子,keiko.kobayashi@example.com,092-809-8801,東京都新宿区テスト町24-6-5,2023-04-08,株式会社大和物産,,messy_customers.csv,191
+斎藤 太郎,taro.saito@example.net,03-7697-0636,東京都港区仮名町30-19-3,2021-03-06,株式会社東和情報システム,,messy_customers.csv,193
+Ruth Keller,ruth.keller@example.org,+442079460713,"676 Placeholder Dr, Springfield, IL",2023-10-03,Pacific Labs Inc.,,messy_customers.csv,194
+James Baker,james.baker@example.net,+442079460692,"724 Test Rd, Springfield, IL",2021-12-06,"Silver Design Co., Ltd.",,messy_customers.csv,195
+Edward Eaton,edward.eaton@example.org,090-2912-1512,"417 Example Ave, Georgetown, TX",2024-10-24,Nova Systems Corp.,,messy_customers.csv,196
+佐々木 颯太,sota.sasaki@example.net,070-7271-9602,愛知県名古屋市中区仮名町25-3-2,2025-06-03,株式会社青葉工業,,messy_customers.csv,197
+吉田 蓮,ren.yoshida@example.org,080-1105-2759,神奈川県横浜市西区架空町4-3-13,2023-09-08,光洋物産株式会社,,messy_customers.csv,198
+佐々木 翔太,shota.sasaki@example.net,090-4244-7970,東京都新宿区テスト町4-15-10,2021-05-20,株式会社ABC情報システム,,messy_customers.csv,199
+Matthew Turner,matthew.turner@example.net,+442079460985,"964 Sandbox Ct, Lakeside, CA",2024-04-22,Prime Partners LLC,,messy_customers.csv,201
+中村 学,manabu.nakamura@example.org,090-1420-9861,東京都港区テスト町9-8-6,,株式会社光洋建設,missing_date,messy_customers.csv,202
+Nancy Kemp,nancy.kemp@example.com,+442079460130,"986 Placeholder Dr, Oakdale, MN",2025-06-21,"Harbor Trading Co., Ltd.",,messy_customers.csv,204
+Michael Vaughn,michael.vaughn@example.net,+1 303-555-0186,"542 Demo Blvd, Fairview, OH",2020-03-12,Clear Materials Corp.,,messy_customers.csv,205
+前田 香織,kaori.maeda@example.net,0118967467,東京都新宿区模擬町10-5-12,2019-05-21,東和産業株式会社,phone_format_unverified,messy_customers.csv,206
+中村 沙織,saori.nakamura@example.org,03-9110-4775,福岡県福岡市博多区架空町26-11-3,2021-05-12,白鳥電機株式会社,,messy_customers.csv,207
+池田 健太,kenta.ikeda@example.net,090-9978-6451,東京都港区試験町11-19-14,2019-08-10,株式会社富士見物産,,messy_customers.csv,209
+佐々木 麻衣,mai.sasaki@example.com,080-5769-2372,大阪府大阪市北区仮想町26-7-12,2019-02-07,株式会社緑川貿易,,messy_customers.csv,210
+Anthony Baker,anthony.baker@example.com,+1 404-555-0186,"958 Sample St, Fairview, OH",2020-01-29,Apex Systems Inc.,,messy_customers.csv,211
+村上 結衣,yui.murakami@example.org,06-3434-6619,大阪府大阪市北区架空町4-8-7,2024-06-24,星野工業株式会社,,messy_customers.csv,212
+松本 麻衣,mai.matsumoto@example.org,+442079460686,東京都港区例示町28-13-5,2023-12-29,株式会社XYZ食品,,messy_customers.csv,213
+石川 蓮,ren.ishikawa@example.org,050-4685-0377,宮城県仙台市青葉区模擬町19-16-5,2020-01-23,株式会社サクラ製作所,,messy_customers.csv,214
+David Barnes,david.barnes@example.net,+1 415-555-0112,"75 Test Rd, Oakdale, MN",2023-07-19,Acme Partners Corp.,,messy_customers.csv,215
+後藤 一郎,ichiro.goto@example.com,03-5206-0573,東京都港区見本町17-10-6,2025-02-07,株式会社光洋商事,,messy_customers.csv,217
+田中 優子,yuko.tanaka@example.org,050-5807-8750,神奈川県横浜市西区試験町19-16-12,2022-07-05,株式会社青葉貿易,,messy_customers.csv,218
+小林 茜,akane.kobayashi@example.com,03-4884-0601,大阪府大阪市北区試験町10-7-3,2025-10-02,株式会社星野運輸,,messy_customers.csv,219
+George Holland,george.holland@example.net,+1 206-555-0133,"675 Test Rd, Georgetown, TX",2023-06-27,Summit Energy Corp.,,messy_customers.csv,220
+清水 誠,makoto.shimizu@example.com,080-7208-0424,宮城県仙台市青葉区仮想町3-9-2,2024-12-16,株式会社北斗製作所,,messy_customers.csv,221
+Thomas Grant,thomas.grant@example.net,06-3397-3698,"20 Example Ave, Lakeside, CA",2023-03-25,Pacific Partners Inc.,,messy_customers.csv,222
+George Garrett,george.garrett@example.com,+1 213-555-0139,"107 Mockup Way, Franklin, TN",2025-06-01,Clear Design Inc.,,messy_customers.csv,223
+Anna Osborne,anna.osborne@example.com,+1 213-555-0134,"950 Mockup Way, Springfield, IL",2021-10-17,Nova Craft Corp.,,messy_customers.csv,224
+近藤 裕子,hiroko.kondo@example.net,075-493-4519,,2019-12-23,Nova Solutions LLC,missing_address,messy_customers.csv,225
+Susan Young,susan.young@example.com,06-9334-2235,"519 Example Ave, Franklin, TN",2023-07-19,株式会社ミライ情報システム,,messy_customers.csv,227
+藤田 亮,ryo.fujita@example.org,03-9652-9981,東京都千代田区模擬町15-6-11,2024-11-14,Golden Foods LLC,,messy_customers.csv,228
+Laura Kemp,laura.kemp@example.org,+1 212-555-0154,"398 Test Rd, Franklin, TN",2023-03-09,"Maple Tech Co., Ltd.",,messy_customers.csv,229
+Mary Sutton,mary.sutton@example.com,+1 512-555-0137,"228 Sample St, Lakeside, CA",2025-05-18,Harbor Tech Inc.,,messy_customers.csv,230
+Mark Pratt,mark.pratt@example.com,+1 206-555-0105,"414 Placeholder Dr, Fairview, OH",2022-09-18,"Golden Energy Co., Ltd.",,messy_customers.csv,231
+Ruth Dixon,ruth.dixon@example.org,03-7899-8012,"829 Test Rd, Franklin, TN",2022-08-23,Orion Supply Corp.,,messy_customers.csv,232
+中村 悠,yu.nakamura@example.com,052-359-5638,京都府京都市中京区架空町25-8-1,2022-11-02,株式会社星野情報システム,,messy_customers.csv,233
+清水 太郎,taro.shimizu@example.net,080-5059-2498,京都府京都市中京区試験町8-9-13,2020-04-16,Pacific Energy Corp.,,messy_customers.csv,234
+橋本 由美,yumi.hashimoto@example.org,045-917-8230,宮城県仙台市青葉区試験町7-19-11,2020-09-01,株式会社サクラ製作所,,messy_customers.csv,235
+George Dixon,george.dixon@example.com,+1 714-555-0125,"895 Sample St, Shelbyville, IL",2023-04-07,"Harbor Craft Co., Ltd.",,messy_customers.csv,236
+石川 陸,riku.ishikawa@example.com,070-6269-3473,愛知県名古屋市中区例示町9-20-2,2023-10-31,株式会社大和運輸,,messy_customers.csv,237
+加藤 和也,kazuya.kato@example.org,070-3134-5426,北海道札幌市中央区ダミー通24-19-9,2025-10-12,株式会社光洋物産,,messy_customers.csv,239
+加藤 恵子,keiko.kato@example.org,080-2109-7910,福岡県福岡市博多区テスト町30-17-13,2019-03-31,東和情報システム株式会社,,messy_customers.csv,241
+清水 優子,yuko.shimizu@example.org,090-1058-2621,宮城県仙台市青葉区仮想町19-1-15,2024-10-01,株式会社富士見情報システム,,messy_customers.csv,242
+三浦 健太,kenta.miura@example.com,080-2951-2803,,2019-06-10,白鳥物産株式会社,missing_address,messy_customers.csv,243
+Brian Garrett,brian.garrett@example.net,080-6318-0938,"853 Mockup Way, Springfield, IL",2021-06-17,Summit Systems LLC,,messy_customers.csv,244
+Mark Vaughn,mark.vaughn@example.org,,"749 Placeholder Dr, Shelbyville, IL",2021-11-20,"Prime Supply Co., Ltd.",missing_phone,messy_customers.csv,245
+Julia Rowe,julia.rowe@example.com,+1 617-555-0174,"169 Sandbox Ct, Georgetown, TX",2021-08-07,"Nova Works Co., Ltd.",,messy_customers.csv,246
+Sandra Kemp,sandra.kemp@example.net,+442079460192,"156 Example Ave, Shelbyville, IL",,"Orion Foods Co., Ltd.",missing_date,messy_customers.csv,247
+Julia Ingram,julia.ingram@example.com,+442079460386,,2019-02-25,"Sakura Systems Co., Ltd.",missing_address,messy_customers.csv,248
+Andrew Garrett,andrew.garrett@example.net,+1 305-555-0176,"821 Sample St, Springfield, IL",2020-03-11,Maple Materials Inc.,,messy_customers.csv,249
+松本 太郎,taro.matsumoto@example.net,011-367-5036,北海道札幌市中央区例示町5-8-1,2025-02-04,株式会社光洋産業,,messy_customers.csv,250
+Laura Dixon,laura.dixon@example.com,+1 312-555-0165,"155 Sample St, Georgetown, TX",2021-07-07,株式会社日の出製作所,,messy_customers.csv,251
+Susan Reed,susan.reed@example.com,06-2841-8057,"122 Demo Blvd, Fairview, OH",2020-02-21,Harbor Works Inc.,,messy_customers.csv,252
+Mark Holland,mark.holland@example.com,+1 720-555-0110,"629 Test Rd, Springfield, IL",2020-12-30,"Maple Media Co., Ltd.",,messy_customers.csv,253
+Robert Eaton,robert.eaton@example.com,070-5940-4702,"906 Example Ave, Oakdale, MN",2022-01-15,Cedar Tech LLC,,messy_customers.csv,254
+Charles Nolan,charles.nolan@example.org,+442079460807,"892 Test Rd, Springfield, IL",2020-08-23,Orion Labs Corp.,,messy_customers.csv,255
+前田 太郎,taro.maeda@example.com,070-7911-8633,宮城県仙台市青葉区仮想町23-3-4,2023-01-21,株式会社緑川商事,,messy_customers.csv,256
+木村 彩,aya.kimura@example.com,050-1976-5723,北海道札幌市中央区試験町10-15-3,2025-03-08,"Nova Logistics Co., Ltd.",,messy_customers.csv,257
+山本 愛,ai.yamamoto@example.org,050-1494-2406,北海道札幌市中央区試験町3-8-2,2019-02-21,株式会社緑川製作所,,messy_customers.csv,258
+Steven Dixon,steven.dixon@example.org,+1 404-555-0154,"577 Fiction Ln, Franklin, TN",2025-06-01,"Pacific Partners Co., Ltd.",,messy_customers.csv,259
+長谷川 隼人,hayato.hasegawa@example.com,090-4471-6560,宮城県仙台市青葉区架空町8-13-3,2025-04-09,,missing_company,messy_customers.csv,260
+坂本 智子,tomoko.sakamoto@example.org,090-1179-5064,大阪府大阪市北区テスト町7-2-4,2022-01-07,株式会社星野貿易,,messy_customers.csv,262
+Ruth Marsh,ruth.marsh@example.net,+1 303-555-0111,,2022-03-02,Bright Logistics LLC,missing_address,messy_customers.csv,263
+George Young,george.young@example.org,+1 415-555-0189,"349 Placeholder Dr, Shelbyville, IL",2024-08-24,株式会社若葉工業,,messy_customers.csv,264
+Andrew Kemp,andrew.kemp@example.net,+442079460872,"307 Test Rd, Springfield, IL",2020-09-12,Blue Tech Inc.,,messy_customers.csv,265
+池田 次郎,jiro.ikeda@example.org,0925821367,福岡県福岡市博多区テスト町15-9-15,2019-06-24,光洋商事株式会社,phone_format_unverified,messy_customers.csv,266
+斎藤 健太,kenta.saito@example.org,090-5762-6157,東京都新宿区模擬町13-3-4,2023-05-10,Blue Works Corp.,,messy_customers.csv,267
+木村 翔太,shota.kimura@example.org,050-8616-1787,東京都港区試験町24-4-15,2023-06-14,株式会社ミライ製作所,,messy_customers.csv,268
+太田 健太,kenta.ota@example.org,070-8802-1873,愛知県名古屋市中区例示町2-18-3,2024-04-08,株式会社ミライ運輸,,messy_customers.csv,269
+加藤 麻衣,mai.kato@example.org,090-2134-4487,福岡県福岡市博多区見本町10-15-14,2023-09-16,株式会社光洋物産,,messy_customers.csv,270
+長谷川 誠,makoto.hasegawa@example.net,080-3695-3253,北海道札幌市中央区仮名町16-16-9,2020-10-20,Nova Works Corp.,,messy_customers.csv,271
+Emily Tucker,emily.tucker@example.org,+1 617-555-0195,"440 Test Rd, Riverton, WY",2025-09-27,"Cedar Logistics Co., Ltd.",,messy_customers.csv,272
+Susan Sutton,susan.sutton@example.org,06-6960-0265,"928 Fiction Ln, Lakeside, CA",2024-08-18,Green Craft Corp.,,messy_customers.csv,273
+Linda Barnes,linda.barnes@example.net,+1 303-555-0145,"545 Mockup Way, Georgetown, TX",2020-04-09,Delta Partners LLC,,messy_customers.csv,274
+清水 和也,kazuya.shimizu@example.org,,福岡県福岡市博多区サンプル台23-20-15,2020-02-11,Green Foods Inc.,missing_phone,messy_customers.csv,275
+Thomas Young,thomas.young@example.net,,"658 Sandbox Ct, Shelbyville, IL",2024-08-23,Sakura Energy LLC,missing_phone,messy_customers.csv,276
+松本 蓮,ren.matsumoto@example.org,06-1124-6138,大阪府大阪市北区テスト町10-9-15,2021-12-19,白鳥製作所株式会社,,messy_customers.csv,278
+坂本 美咲,misaki.sakamoto@example.org,090-8030-2111,福岡県福岡市博多区試験町13-11-9,2020-10-10,XYZ情報システム株式会社,,messy_customers.csv,279
+Michael Garrett,michael.garrett@example.org,03-7265-0414,"474 Mockup Way, Fairview, OH",2021-02-03,"Pacific Design Co., Ltd.",,messy_customers.csv,281
+青木 真理,mari.aoki@example.com,06-5267-0847,愛知県名古屋市中区見本町30-5-11,2019-04-05,株式会社星野食品,,messy_customers.csv,282
+Donna Walsh,donna.walsh@example.com,090-2267-8097,"944 Demo Blvd, Oakdale, MN",2023-05-20,株式会社若葉商事,,messy_customers.csv,283
+George Ingram,george.ingram@example.com,+1 714-555-0176,"172 Fiction Ln, Springfield, IL",2020-05-13,Acme Supply Inc.,,messy_customers.csv,285
+西村 茜,akane.nishimura@example.org,06-9123-7144,京都府京都市中京区仮名町30-7-5,2020-12-09,株式会社緑川情報システム,,messy_customers.csv,286
+石川 結衣,yui.ishikawa@example.org,075-519-2714,大阪府大阪市北区例示町14-15-7,2025-09-08,株式会社緑川運輸,,messy_customers.csv,287
+岡田 由美,yumi.okada@example.org,0120-643-460,福岡県福岡市博多区架空町4-6-13,2022-08-14,株式会社サクラ運輸,,messy_customers.csv,289
+近藤 麻衣,mai.kondo@example.org,090-2686-9190,愛知県名古屋市中区模擬町29-3-10,2023-09-24,日の出運輸株式会社,,messy_customers.csv,290
+岡田 智子,tomoko.okada@example.org,075-204-7565,愛知県名古屋市中区試験町27-13-1,2024-12-25,Sakura Works Inc.,,messy_customers.csv,291
+田中 香織,kaori.tanaka@example.com,011-940-4931,愛知県名古屋市中区ダミー通25-12-7,2019-11-23,株式会社青葉建設,,messy_customers.csv,292
+藤田 香織,kaori.fujita@example.org,+1 512-555-0182,東京都港区ダミー通20-4-1,2021-07-06,株式会社ABC工業,,messy_customers.csv,293
+石川 大輔,daisuke.ishikawa@example.org,03-3788-1442,大阪府大阪市北区ダミー通27-18-1,2019-08-04,株式会社若葉商事,,messy_customers.csv,294
+Rachel Foster,rachel.foster@example.com,+1 213-555-0178,"286 Test Rd, Georgetown, TX",2020-07-18,Green Systems LLC,,messy_customers.csv,295
+Emily Owens,emily.owens@example.org,080-8320-2004,"601 Sandbox Ct, Riverton, WY",2024-06-30,Maple Solutions Corp.,,messy_customers.csv,296
+鈴木 真理,mari.suzuki@example.net,045-561-9150,大阪府大阪市北区仮想町23-3-2,2024-07-18,株式会社ABC化学,,messy_customers.csv,297
+Kevin Underwood,kevin.underwood@example.com,+1 303-555-0126,"788 Fiction Ln, Oakdale, MN",2024-02-03,"Bright Foods Co., Ltd.",,messy_customers.csv,298
+清水 純,jun.shimizu@example.net,080-9227-7059,京都府京都市中京区ダミー通2-15-5,2023-02-23,光洋製作所株式会社,,messy_customers.csv,300
+佐藤 翔太,shota.sato@example.net,090-5520-8676,宮城県仙台市青葉区例示町17-14-2,2019-07-24,株式会社XYZ電機,,messy_customers.csv,301
+Diane Walsh,diane.walsh@example.org,+1 312-555-0168,"292 Demo Blvd, Shelbyville, IL",2025-12-15,Orion Partners Corp.,,messy_customers.csv,302
+佐々木 隼人,hayato.sasaki@example.org,,東京都新宿区仮想町12-10-12,2025-09-08,株式会社ABC食品,missing_phone,messy_customers.csv,303
+James Carter,james.carter@example.org,+1 206-555-0188,"184 Mockup Way, Riverton, WY",2019-10-12,Maple Tech Corp.,,messy_customers.csv,304
+太田 大輔,daisuke.ota@example.com,06-6473-0341,東京都新宿区サンプル台29-3-3,2019-02-09,株式会社大和貿易,,messy_customers.csv,305
+Steven Pratt,steven.pratt@example.net,+1 619-555-0102,"865 Demo Blvd, Lakeside, CA",2024-11-21,Silver Solutions Inc.,,messy_customers.csv,306
+林 陸,riku.hayashi@example.org,080-6747-8940,愛知県名古屋市中区例示町9-12-8,2019-02-25,株式会社東和情報システム,,messy_customers.csv,307
+小林 颯太,sota.kobayashi@example.org,075-695-1847,愛知県名古屋市中区テスト町24-1-3,2023-08-08,Silver Works Corp.,,messy_customers.csv,308
+中村 優子,yuko.nakamura@example.org,03-8101-7455,宮城県仙台市青葉区ダミー通10-4-1,2024-08-05,,missing_company,messy_customers.csv,310
+青木 蓮,ren.aoki@example.net,070-4223-7078,宮城県仙台市青葉区見本町10-8-1,2024-04-22,Pacific Solutions Corp.,,messy_customers.csv,311
+藤田 結衣,yui.fujita@example.com,050-5948-9781,愛知県名古屋市中区試験町19-14-11,2022-08-13,サクラ化学株式会社,,messy_customers.csv,312
+石井 智子,tomoko.ishii@example.org,070-6858-7673,北海道札幌市中央区仮名町15-14-7,2024-03-04,北斗商事株式会社,,messy_customers.csv,314
+近藤 次郎,jiro.kondo@example.com,06-4975-9508,京都府京都市中京区ダミー通5-20-9,2025-05-05,Sakura Solutions Corp.,,messy_customers.csv,315
+佐藤 陽子,yoko.sato@example.org,070-8540-0890,東京都港区架空町9-4-6,2025-08-31,株式会社東和貿易,,messy_customers.csv,316
+高橋 純,jun.takahashi@example.com,070-9369-0868,大阪府大阪市北区テスト町5-18-12,2024-07-21,株式会社白鳥化学,,messy_customers.csv,317
+伊藤 翔太,shota.ito@example.org,090-8945-3288,東京都港区見本町1-5-10,2020-05-10,株式会社ミライ電機,,messy_customers.csv,318
+井上 麻衣,mai.inoue@example.net,06-7018-4508,福岡県福岡市博多区仮名町23-4-8,2023-09-04,株式会社サクラ商事,,messy_customers.csv,321
+後藤 千尋,chihiro.goto@example.net,080-1558-7282,東京都千代田区ダミー通5-15-15,2024-02-21,株式会社サクラ運輸,,messy_customers.csv,322
+Robert Carter,robert.carter@example.com,+1 213-555-0167,"535 Example Ave, Georgetown, TX",2020-12-15,Cedar Energy LLC,,messy_customers.csv,323
+藤井 颯太,sota.fujii@example.com,06-7615-1107,東京都千代田区架空町28-6-4,2020-01-31,株式会社大和化学,,messy_customers.csv,324
+Thomas Irwin,thomas.irwin@example.org,+442079460107,"755 Placeholder Dr, Fairview, OH",2023-09-17,Sakura Media LLC,,messy_customers.csv,325
+藤田 太郎,taro.fujita@example.org,080-1482-2851,北海道札幌市中央区見本町23-15-7,2020-06-29,"Swift Supply Co., Ltd.",,messy_customers.csv,326
+鈴木 彩,aya.suzuki@example.com,045-568-6685,宮城県仙台市青葉区テスト町28-3-6,2021-01-29,株式会社白鳥情報システム,,messy_customers.csv,327
+山本 次郎,jiro.yamamoto@example.com,06-9205-5768,北海道札幌市中央区模擬町29-18-14,2020-07-18,株式会社大和製作所,,messy_customers.csv,328
+森 結衣,yui.mori@example.net,03-8844-2121,愛知県名古屋市中区架空町4-2-8,2024-09-10,株式会社青葉製作所,,messy_customers.csv,332
+Lisa Barnes,lisa.barnes@example.com,+1 212-555-0103,"557 Placeholder Dr, Riverton, WY",2019-03-16,Sakura Partners Corp.,,messy_customers.csv,333
+木村 美咲,misaki.kimura@example.net,0120-310-606,北海道札幌市中央区仮想町15-10-6,2025-03-08,株式会社光洋電機,,messy_customers.csv,336
+山本 学,manabu.yamamoto@example.org,090-1884-5679,福岡県福岡市博多区模擬町16-9-2,2021-04-13,Bright Logistics LLC,,messy_customers.csv,337
+Paul Rowe,paul.rowe@example.com,+1 213-555-0118,"250 Sandbox Ct, Springfield, IL",2024-02-02,Acme Labs Inc.,,messy_customers.csv,338
+吉田 真理,mari.yoshida@example.org,,宮城県仙台市青葉区仮名町16-1-14,2023-04-17,株式会社ABC電機,missing_phone,messy_customers.csv,339
+石井 直樹,naoki.ishii@example.net,070-5999-0512,京都府京都市中京区ダミー通30-1-15,2025-10-29,青葉物産株式会社,,messy_customers.csv,340
+福田 次郎,jiro.fukuda@example.com,070-8111-7004,東京都千代田区見本町18-13-12,2022-03-23,Clear Labs Corp.,,messy_customers.csv,341
+渡辺 美咲,misaki.watanabe@example.org,092-366-6247,神奈川県横浜市西区仮想町5-1-5,2022-01-28,株式会社ミライ産業,,messy_customers.csv,342
+橋本 萌,moe.hashimoto@example.com,06-5403-4104,宮城県仙台市青葉区架空町4-10-10,2022-08-07,株式会社緑川工業,,messy_customers.csv,343
+林 千尋,chihiro.hayashi@example.com,080-8867-9119,大阪府大阪市北区仮名町2-19-2,2022-02-06,Clear Works Inc.,,messy_customers.csv,344
+鈴木 陸,riku.suzuki@example.org,075-524-0687,京都府京都市中京区仮想町2-9-5,,株式会社緑川運輸,missing_date,messy_customers.csv,345
+Thomas Foster,thomas.foster@example.net,+1 303-555-0177,"353 Placeholder Dr, Oakdale, MN",2023-03-15,Harbor Media Inc.,,messy_customers.csv,346
+村上 愛,ai.murakami@example.com,090-1418-1740,宮城県仙台市青葉区仮想町26-11-9,2024-09-12,富士見運輸株式会社,,messy_customers.csv,347
+中村 雅人,masato.nakamura@example.org,070-3458-6243,東京都港区見本町30-8-10,2024-08-24,Clear Craft Corp.,,messy_customers.csv,348
+山本 徹,toru.yamamoto@example.com,075-252-9946,神奈川県横浜市西区テスト町17-15-6,2022-01-07,星野物産株式会社,,messy_customers.csv,349
+林 直樹,naoki.hayashi@example.net,080-2890-3949,神奈川県横浜市西区仮名町12-3-6,2025-04-14,白鳥運輸株式会社,,messy_customers.csv,351
+James Vaughn,james.vaughn@example.net,+1 312-555-0152,"527 Test Rd, Georgetown, TX",2025-06-17,"Northern Tech Co., Ltd.",,messy_customers.csv,352
+Thomas Wells,thomas.wells@example.com,+1 404-555-0133,"770 Example Ave, Franklin, TN",2020-06-01,"Nova Trading Co., Ltd.",,messy_customers.csv,353
+Ruth Hayes,ruth.hayes@example.com,+1 602-555-0149,"372 Test Rd, Georgetown, TX",2023-07-06,Pacific Craft LLC,,messy_customers.csv,354
+藤田 麻衣,mai.fujita@example.net,03-1741-1208,北海道札幌市中央区例示町30-14-11,2024-01-17,日の出物産株式会社,,messy_customers.csv,355
+Betty Jensen,betty.jensen@example.org,+1 646-555-0175,"165 Sample St, Shelbyville, IL",2025-08-28,Delta Partners LLC,,messy_customers.csv,356
+Thomas Keller,thomas.keller@example.com,+442079460040,"16 Sandbox Ct, Riverton, WY",2019-04-16,Harbor Media Corp.,,messy_customers.csv,357
+後藤 陸,riku.goto@example.org,080-4845-5713,神奈川県横浜市西区テスト町22-6-15,2022-05-14,白鳥物産株式会社,,messy_customers.csv,359
+林 学,manabu.hayashi@example.com,080-2860-5694,福岡県福岡市博多区試験町25-16-14,2024-06-26,株式会社光洋電機,,messy_customers.csv,361
+高橋 隼人,hayato.takahashi@example.net,06-1747-5054,,2020-11-13,株式会社若葉化学,missing_address,messy_customers.csv,363
+Nancy Yates,nancy.yates@example.org,+1 714-555-0169,"983 Sample St, Springfield, IL",2023-04-03,富士見運輸株式会社,,messy_customers.csv,364
+Rachel Joyce,rachel.joyce@example.org,+1 212-555-0166,"380 Demo Blvd, Riverton, WY",2020-10-05,"Orion Materials Co., Ltd.",,messy_customers.csv,365
+福田 亮,ryo.fukuda@example.com,050-6431-6773,大阪府大阪市北区テスト町24-8-1,2019-05-28,株式会社若葉産業,,messy_customers.csv,366
+山本 花子,hanako.yamamoto@example.org,092-635-8394,東京都千代田区サンプル台9-15-4,2020-02-13,株式会社光洋貿易,,messy_customers.csv,368
+近藤 純,jun.kondo@example.com,080-5563-7919,愛知県名古屋市中区テスト町17-8-7,2019-03-12,Orion Works Inc.,,messy_customers.csv,369
+岡田 蓮,ren.okada@example.org,+1 404-555-0198,大阪府大阪市北区例示町12-16-10,2020-03-22,青葉工業株式会社,,messy_customers.csv,370
+Matthew Hayes,matthew.hayes@example.com,+442079460212,"617 Demo Blvd, Franklin, TN",2019-12-10,株式会社星野建設,,messy_customers.csv,371
+Joseph Turner,joseph.turner@example.com,+1 512-555-0132,"328 Mockup Way, Georgetown, TX",2020-09-08,株式会社富士見貿易,,messy_customers.csv,372
+Steven Irwin,steven.irwin@example.net,+442079460773,"568 Sandbox Ct, Franklin, TN",2022-07-06,Pacific Works Corp.,,messy_customers.csv,373
+伊藤 結衣,yui.ito@example.org,090-8169-1862,東京都千代田区仮名町16-6-11,2024-11-18,株式会社富士見産業,,messy_customers.csv,375
+Thomas Yates,thomas.yates@example.org,+1 617-555-0142,"178 Sandbox Ct, Fairview, OH",2019-02-10,Golden Systems Corp.,,messy_customers.csv,376
+岡田 愛,ai.okada@example.com,090-4264-1537,京都府京都市中京区例示町11-4-1,2024-04-03,株式会社XYZ運輸,,messy_customers.csv,377
+Mary Joyce,mary.joyce@example.net,+442079460950,"291 Fiction Ln, Riverton, WY",2023-10-12,Harbor Works Corp.,,messy_customers.csv,379
+Edward Walsh,edward.walsh@example.org,+1 305-555-0125,"616 Test Rd, Shelbyville, IL",2020-02-26,Summit Systems LLC,,messy_customers.csv,380
+青木 直樹,naoki.aoki@example.com,075-860-6274,北海道札幌市中央区模擬町25-19-10,2022-02-09,Prime Energy Corp.,,messy_customers.csv,381
+岡田 純,jun.okada@example.com,052-293-2400,東京都新宿区試験町16-1-6,2019-11-15,Sakura Systems Corp.,,messy_customers.csv,382
+池田 純,jun.ikeda@example.org,052-848-4550,東京都新宿区仮名町18-15-8,2021-10-23,北斗製作所株式会社,,messy_customers.csv,383
+福田 恵子,keiko.fukuda@example.net,092-945-6948,大阪府大阪市北区模擬町18-7-7,2023-03-13,株式会社富士見商事,,messy_customers.csv,384
+加藤 茜,akane.kato@example.org,06-1937-9374,東京都千代田区例示町20-15-8,2020-12-12,緑川化学株式会社,,messy_customers.csv,385
+Richard Baker,richard.baker@example.com,+1 714-555-0191,"732 Test Rd, Fairview, OH",2020-06-23,株式会社緑川食品,,messy_customers.csv,386
+Helen Hayes,helen.hayes@example.com,+1 619-555-0169,"883 Demo Blvd, Lakeside, CA",2025-11-19,Maple Materials LLC,,messy_customers.csv,387
+Paul Parker,paul.parker@example.com,06-9459-0232,"436 Sample St, Georgetown, TX",2019-09-24,Bright Systems LLC,,messy_customers.csv,388
+Anthony Keller,anthony.keller@example.com,+442079460474,"129 Example Ave, Shelbyville, IL",2021-01-17,Golden Works Inc.,,messy_customers.csv,389
+Ruth Osborne,ruth.osborne@example.com,+1 303-555-0158,"908 Demo Blvd, Shelbyville, IL",2022-06-14,"Northern Craft Co., Ltd.",,messy_customers.csv,390
+近藤 直樹,naoki.kondo@example.net,03-5570-2300,宮城県仙台市青葉区ダミー通14-8-14,2021-02-10,ミライ工業株式会社,,messy_customers.csv,391
+池田 拓也,takuya.ikeda@example.net,080-6818-9481,北海道札幌市中央区ダミー通25-17-8,2020-11-29,株式会社緑川貿易,,messy_customers.csv,392
+George Chambers,george.chambers@example.net,+1 206-555-0104,"539 Test Rd, Shelbyville, IL",2024-04-30,株式会社星野運輸,,messy_customers.csv,393
+高橋 雅人,masato.takahashi@example.org,050-6281-1713,北海道札幌市中央区架空町6-14-8,2022-10-02,株式会社白鳥食品,,messy_customers.csv,394
+藤田 裕子,hiroko.fujita@example.com,090-1356-7192,宮城県仙台市青葉区例示町19-19-12,2023-11-17,株式会社大和電機,,messy_customers.csv,395
+村上 香織,kaori.murakami@example.net,080-5918-0657,大阪府大阪市北区テスト町4-14-7,2022-01-08,Orion Media Inc.,,messy_customers.csv,396
+Laura Turner,laura.turner@example.net,+1 512-555-0100,"215 Test Rd, Fairview, OH",2022-05-19,"Golden Logistics Co., Ltd.",,messy_customers.csv,397
+鈴木 麻衣,mai.suzuki@example.org,070-7131-0081,神奈川県横浜市西区試験町12-4-8,,富士見電機株式会社,missing_date,messy_customers.csv,398
+Rachel Irwin,rachel.irwin@example.net,+442079460781,"406 Test Rd, Shelbyville, IL",2022-07-27,Silver Partners LLC,,messy_customers.csv,399
+Daniel Jensen,daniel.jensen@example.org,+442079460434,"556 Example Ave, Georgetown, TX",2022-11-21,"Swift Trading Co., Ltd.",,messy_customers.csv,401
+Brian Abbott,brian.abbott@example.com,+442079460377,"358 Sample St, Oakdale, MN",2025-11-05,Orion Tech Inc.,,messy_customers.csv,402
+Matthew Ellis,matthew.ellis@example.com,+1 212-555-0127,"455 Example Ave, Lakeside, CA",2022-10-22,"Golden Partners Co., Ltd.",,messy_customers.csv,403
+James Eaton,james.eaton@example.org,090-3635-5226,"598 Placeholder Dr, Fairview, OH",2024-02-06,株式会社光洋化学,,messy_customers.csv,404
+Kevin Garrett,kevin.garrett@example.net,+1 415-555-0154,"901 Example Ave, Georgetown, TX",2020-09-07,株式会社白鳥情報システム,,messy_customers.csv,405
+木村 直樹,naoki.kimura@example.org,06-8125-0795,神奈川県横浜市西区サンプル台2-4-14,2024-06-28,ABC貿易株式会社,,messy_customers.csv,406
+森 美咲,misaki.mori@example.net,,東京都新宿区サンプル台12-14-1,2024-01-04,株式会社光洋商事,missing_phone,messy_customers.csv,407
+高橋 健太,kenta.takahashi@example.org,070-9577-9323,神奈川県横浜市西区架空町3-11-6,2019-06-06,富士見化学株式会社,,messy_customers.csv,408
+山口 次郎,jiro.yamaguchi@example.org,+1 312-555-0143,愛知県名古屋市中区仮名町13-1-3,2021-11-18,富士見食品株式会社,,messy_customers.csv,409
+太田 由美,yumi.ota@example.com,075-467-4967,宮城県仙台市青葉区テスト町18-8-12,2019-07-20,大和電機株式会社,,messy_customers.csv,410
+伊藤 悠,yu.ito@example.com,080-6212-1591,大阪府大阪市北区仮想町1-11-4,2019-09-19,株式会社富士見情報システム,,messy_customers.csv,411
+Peter Ellis,peter.ellis@example.com,+1 415-555-0186,"271 Placeholder Dr, Georgetown, TX",2019-05-13,Swift Foods Corp.,,messy_customers.csv,413
+藤田 陽子,yoko.fujita@example.net,070-9676-6048,愛知県名古屋市中区サンプル台25-11-8,2024-03-29,株式会社星野貿易,,messy_customers.csv,414
+清水 大輔,daisuke.shimizu@example.net,090-5651-9116,神奈川県横浜市西区仮想町13-18-3,2023-03-31,株式会社緑川食品,,messy_customers.csv,415
+加藤 剛,tsuyoshi.kato@example.com,03-3606-6571,京都府京都市中京区仮名町12-7-7,2025-09-20,株式会社若葉運輸,,messy_customers.csv,416
+Anna Pratt,anna.pratt@example.org,06-9229-8775,"240 Placeholder Dr, Georgetown, TX",2024-07-19,Harbor Materials Corp.,,messy_customers.csv,417
+木村 真理,mari.kimura@example.com,090-9727-5473,神奈川県横浜市西区試験町22-4-7,2025-07-04,株式会社日の出製作所,,messy_customers.csv,418
+Richard Parker,richard.parker@example.net,+1 714-555-0183,"575 Demo Blvd, Georgetown, TX",2020-10-23,Pacific Systems Corp.,,messy_customers.csv,419
+Michael Eaton,michael.eaton@example.com,+1 206-555-0108,"221 Sandbox Ct, Springfield, IL",2024-02-24,"Prime Labs Co., Ltd.",,messy_customers.csv,420
+Kevin Eaton,kevin.eaton@example.net,080-7313-1152,"990 Fiction Ln, Georgetown, TX",2025-01-09,株式会社若葉貿易,,messy_customers.csv,421
+山口 健太,kenta.yamaguchi@example.net,075-971-1831,東京都新宿区ダミー通14-11-3,2021-09-22,株式会社ミライ物産,,messy_customers.csv,422
+James Rowe,james.rowe@example.com,+1 213-555-0162,"785 Fiction Ln, Riverton, WY",2022-11-03,Delta Works Corp.,,messy_customers.csv,423
+Nancy Hayes,nancy.hayes@example.org,+1 212-555-0197,"161 Fiction Ln, Fairview, OH",2019-04-17,Cedar Media LLC,,messy_customers.csv,424
+Donna Eaton,donna.eaton@example.net,03-5992-7787,"699 Fiction Ln, Franklin, TN",2020-09-24,Silver Systems LLC,,messy_customers.csv,425
+Lisa Ellis,lisa.ellis@example.net,+442079460028,"607 Fiction Ln, Riverton, WY",2020-08-30,Summit Works Corp.,,messy_customers.csv,426
+鈴木 悠,yu.suzuki@example.com,+1 305-555-0119,,2023-03-29,"Apex Energy Co., Ltd.",missing_address,messy_customers.csv,427
+中村 恵子,keiko.nakamura@example.com,0120-619-168,愛知県名古屋市中区テスト町18-18-14,2019-11-22,"Sakura Labs Co., Ltd.",,messy_customers.csv,428
+Julia Young,julia.young@example.com,+1 512-555-0110,"212 Example Ave, Franklin, TN",2025-01-30,Prime Labs LLC,,messy_customers.csv,429
+Anna Irwin,anna.irwin@example.net,+1 305-555-0168,"208 Example Ave, Fairview, OH",2021-08-07,Bright Design LLC,,messy_customers.csv,433
+Betty Keller,betty.keller@example.net,+1 206-555-0178,"594 Test Rd, Riverton, WY",2022-08-19,"Orion Solutions Co., Ltd.",,messy_customers.csv,434
+石井 千尋,chihiro.ishii@example.net,080-6166-7368,愛知県名古屋市中区仮名町19-13-13,2023-09-05,日の出商事株式会社,,messy_customers.csv,436
+後藤 恵子,keiko.goto@example.com,+1 646-555-0135,東京都千代田区仮想町7-9-5,2023-03-10,株式会社日の出製作所,,messy_customers.csv,437
+鈴木 誠,makoto.suzuki@example.com,075-715-7210,愛知県名古屋市中区見本町3-8-3,2022-08-26,株式会社富士見貿易,,messy_customers.csv,438
+Lisa Rowe,lisa.rowe@example.org,+1 617-555-0171,"458 Demo Blvd, Shelbyville, IL",2022-09-04,Summit Supply LLC,,messy_customers.csv,439
+Karen Lawson,karen.lawson@example.com,+442079460069,"990 Mockup Way, Oakdale, MN",2024-01-01,Northern Systems LLC,,messy_customers.csv,440
+小林 花子,hanako.kobayashi@example.net,090-5243-4183,宮城県仙台市青葉区架空町5-4-11,2023-08-10,若葉建設株式会社,,messy_customers.csv,441
+Robert Abbott,robert.abbott@example.org,+1 602-555-0199,"554 Test Rd, Shelbyville, IL",2024-10-04,Blue Media Corp.,,messy_customers.csv,442
+Charles Tucker,charles.tucker@example.com,+442079460785,"847 Fiction Ln, Georgetown, TX",2024-03-22,Silver Energy LLC,,messy_customers.csv,443
+池田 颯太,sota.ikeda@example.org,06-9646-7084,東京都千代田区仮名町19-10-1,2025-12-29,株式会社ABC商事,,messy_customers.csv,444
+村上 直樹,naoki.murakami@example.net,075-890-5351,京都府京都市中京区例示町21-7-13,2025-06-10,"Swift Systems Co., Ltd.",,messy_customers.csv,445
+Donna Turner,donna.turner@example.org,+1 206-555-0120,"287 Demo Blvd, Georgetown, TX",2021-06-08,Acme Systems Corp.,,messy_customers.csv,446
+岡田 茜,akane.okada@example.net,070-4417-6232,東京都千代田区例示町15-13-4,2021-04-22,株式会社星野食品,,messy_customers.csv,448
+高橋 由美,yumi.takahashi@example.org,03-3668-3434,東京都港区例示町24-20-6,2022-07-21,ミライ食品株式会社,,messy_customers.csv,449
+石井 和也,kazuya.ishii@example.net,080-1264-0118,福岡県福岡市博多区仮名町13-4-6,2023-01-16,Blue Partners LLC,,messy_customers.csv,450
+高橋 葵,aoi.takahashi@example.org,070-7384-7722,東京都千代田区サンプル台24-11-1,2020-07-30,株式会社サクラ貿易,,messy_customers.csv,451
+石川 麻衣,mai.ishikawa@example.com,03-2002-9768,大阪府大阪市北区サンプル台12-20-7,2020-10-07,サクラ産業株式会社,,messy_customers.csv,453
+Julia Dixon,julia.dixon@example.org,+1 720-555-0114,"40 Sandbox Ct, Fairview, OH",2021-04-15,Cedar Tech LLC,,messy_customers.csv,454
+James Sanders,james.sanders@example.com,+442079460339,"920 Sandbox Ct, Springfield, IL",2019-05-21,Silver Tech Corp.,,messy_customers.csv,455
+森 萌,moe.mori@example.net,075-373-2591,東京都港区架空町12-8-2,2023-09-16,Green Labs Corp.,,messy_customers.csv,456
+Emily Eaton,emily.eaton@example.net,03-8828-8074,"138 Demo Blvd, Riverton, WY",2024-10-09,サクラ電機株式会社,,messy_customers.csv,457
+Peter Kemp,peter.kemp@example.org,+1 720-555-0178,"265 Demo Blvd, Shelbyville, IL",2021-10-23,Harbor Works Corp.,,messy_customers.csv,458
+Paul Kemp,paul.kemp@example.org,+1 720-555-0134,"345 Placeholder Dr, Fairview, OH",2023-03-16,Swift Craft Inc.,,messy_customers.csv,459
+Susan Underwood,susan.underwood@example.net,+442079460813,"196 Sample St, Riverton, WY",2020-08-08,Pacific Systems Corp.,,messy_customers.csv,460
+井上 和也,kazuya.inoue@example.org,080-4076-9456,福岡県福岡市博多区例示町7-15-10,2021-12-12,株式会社XYZ情報システム,,messy_customers.csv,461
+Matthew Reed,matthew.reed@example.net,+1 303-555-0154,"997 Test Rd, Springfield, IL",2020-01-23,Delta Materials Inc.,,messy_customers.csv,463
+福田 陸,riku.fukuda@example.org,080-6030-7414,福岡県福岡市博多区テスト町3-17-3,2023-06-17,株式会社白鳥産業,,messy_customers.csv,464
+Daniel Pratt,daniel.pratt@example.com,+442079460203,"548 Test Rd, Oakdale, MN",2025-04-24,,missing_company,messy_customers.csv,465
+Anthony Kemp,anthony.kemp@example.org,,"992 Placeholder Dr, Springfield, IL",2022-04-29,Bright Partners Corp.,missing_phone,messy_customers.csv,466
+中村 結衣,yui.nakamura@example.com,06-1005-1226,愛知県名古屋市中区テスト町22-10-4,2025-11-16,XYZ商事株式会社,,messy_customers.csv,468
+佐藤 千尋,chihiro.sato@example.net,052-600-2612,福岡県福岡市博多区仮名町19-7-4,2022-12-06,東和工業株式会社,,messy_customers.csv,469
+石井 結衣,yui.ishii@example.net,090-8983-4769,大阪府大阪市北区テスト町4-3-12,,Cedar Logistics Corp.,missing_date,messy_customers.csv,471
+Peter Jensen,peter.jensen@example.net,+1 305-555-0113,"872 Fiction Ln, Lakeside, CA",2021-10-27,Maple Partners LLC,,messy_customers.csv,472
+Edward Barnes,edward.barnes@example.com,+1 512-555-0128,"691 Fiction Ln, Georgetown, TX",2020-03-01,Apex Supply Corp.,,messy_customers.csv,473
+Daniel Reed,daniel.reed@example.org,+1 714-555-0113,"599 Example Ave, Shelbyville, IL",2020-04-26,Pacific Works Corp.,,messy_customers.csv,474
+David Parker,david.parker@example.org,+442079460355,"882 Sandbox Ct, Franklin, TN",2025-06-06,Sakura Partners Corp.,,messy_customers.csv,475
+Brian Reed,brian.reed@example.com,+1 415-555-0103,,2023-08-16,Delta Materials LLC,missing_address,messy_customers.csv,476
+Anna Sutton,anna.sutton@example.net,+442079460176,"887 Example Ave, Franklin, TN",2022-09-29,"Clear Craft Co., Ltd.",,messy_customers.csv,478
+加藤 大輔,daisuke.kato@example.org,090-2483-9797,福岡県福岡市博多区サンプル台5-11-9,2022-12-20,株式会社白鳥製作所,,messy_customers.csv,480
+Peter Walsh,peter.walsh@example.net,+442079460994,"341 Demo Blvd, Shelbyville, IL",2023-12-18,"Pacific Supply Co., Ltd.",,messy_customers.csv,481
+Susan Sanders,susan.sanders@example.net,+1 617-555-0188,,2023-12-09,Northern Systems Inc.,missing_address,messy_customers.csv,482
+田中 茜,akane.tanaka@example.com,011-649-6791,京都府京都市中京区テスト町19-7-7,2021-02-01,株式会社星野製作所,,messy_customers.csv,483
+Nancy Ellis,nancy.ellis@example.net,+442079460723,"832 Fiction Ln, Oakdale, MN",2023-11-02,Pacific Works LLC,,messy_customers.csv,484
+村上 健太,kenta.murakami@example.org,03-8623-4409,宮城県仙台市青葉区架空町15-20-8,2024-07-29,株式会社XYZ工業,,messy_customers.csv,485
+藤田 一郎,ichiro.fujita@example.org,080-8809-2422,東京都港区ダミー通3-9-10,2021-10-29,Acme Craft Corp.,,messy_customers.csv,486
+太田 優子,yuko.ota@example.com,+1 617-555-0184,神奈川県横浜市西区サンプル台18-10-6,2021-08-10,白鳥産業株式会社,,messy_customers.csv,487
+林 一郎,ichiro.hayashi@example.org,+1 714-555-0140,東京都千代田区模擬町2-12-10,2020-05-05,株式会社XYZ貿易,,messy_customers.csv,488
+太田 雅人,masato.ota@example.com,03-3938-2969,東京都千代田区例示町24-4-6,2019-12-31,日の出貿易株式会社,,messy_customers.csv,489
+青木 彩,aya.aoki@example.com,090-4713-5754,東京都港区ダミー通15-4-9,2021-11-21,星野商事株式会社,,messy_customers.csv,490
+山口 結衣,yui.yamaguchi@example.net,090-9669-0206,東京都千代田区ダミー通13-10-1,2025-05-15,緑川食品株式会社,,messy_customers.csv,491
+池田 亮,ryo.ikeda@example.org,070-4577-5656,東京都港区試験町20-12-10,2020-12-25,"Golden Supply Co., Ltd.",,messy_customers.csv,492
+田中 直樹,naoki.tanaka@example.org,06-9951-3292,愛知県名古屋市中区ダミー通5-15-13,,株式会社光洋製作所,missing_date,messy_customers.csv,495
+小林 隼人,hayato.kobayashi@example.net,090-6267-9195,神奈川県横浜市西区模擬町13-10-8,2022-03-22,株式会社富士見商事,,messy_customers.csv,497
+森 葵,aoi.mori@example.com,070-9893-2840,北海道札幌市中央区架空町18-1-1,2022-05-25,株式会社青葉産業,,messy_customers.csv,498
+Nancy Young,nancy.young@example.net,+442079460536,"530 Mockup Way, Fairview, OH",2019-07-03,"Green Labs Co., Ltd.",,messy_customers.csv,499
+岡田 裕子,hiroko.okada@example.com,011-459-9832,東京都千代田区仮名町2-15-3,2021-07-02,株式会社XYZ食品,,messy_customers.csv,502
+森 次郎,jiro.mori@example.com,090-2417-9089,神奈川県横浜市西区仮想町5-17-1,2024-04-04,株式会社XYZ電機,,messy_customers.csv,503
+近藤 和也,kazuya.kondo@example.com,03-1232-2502,北海道札幌市中央区サンプル台30-6-6,2024-03-07,,missing_company,messy_customers.csv,504
+青木 麻衣,mai.aoki@example.net,090-4014-3184,北海道札幌市中央区例示町1-15-2,2021-10-03,株式会社東和産業,,messy_customers.csv,506
+松本 陽子,yoko.matsumoto@example.net,070-2067-6716,京都府京都市中京区テスト町1-20-12,2020-11-26,株式会社青葉運輸,,messy_customers.csv,507
+Susan Barnes,susan.barnes@example.org,+1 404-555-0100,"843 Placeholder Dr, Springfield, IL",2025-05-11,株式会社ミライ化学,,messy_customers.csv,508
+高橋 太郎,taro.takahashi@example.com,06-7325-4627,宮城県仙台市青葉区仮名町15-8-11,2024-07-02,株式会社青葉化学,,messy_customers.csv,509
+Sandra Barnes,sandra.barnes@example.com,+1 720-555-0146,"157 Fiction Ln, Riverton, WY",2020-12-15,"Orion Design Co., Ltd.",,messy_customers.csv,510
+山口 優子,yuko.yamaguchi@example.com,080-3359-0697,神奈川県横浜市西区仮名町23-18-14,2021-07-18,Silver Materials LLC,,messy_customers.csv,511
+小林 沙織,saori.kobayashi@example.net,080-8546-7410,神奈川県横浜市西区仮名町15-12-6,2022-08-28,株式会社サクラ情報システム,,messy_customers.csv,512
+渡辺 萌,moe.watanabe@example.org,090-4558-5532,京都府京都市中京区試験町22-13-15,2024-10-20,大和商事株式会社,,messy_customers.csv,513
+坂本 由美,yumi.sakamoto@example.org,070-3553-6584,宮城県仙台市青葉区仮想町5-14-6,2024-04-03,富士見工業株式会社,,messy_customers.csv,514
+藤井 悠,yu.fujii@example.org,0120-727-643,東京都千代田区見本町26-3-2,2019-03-29,株式会社緑川商事,,messy_customers.csv,515
+加藤 智子,tomoko.kato@example.net,,東京都港区ダミー通20-11-10,2024-01-04,株式会社富士見工業,missing_phone,messy_customers.csv,516
+渡辺 雅人,masato.watanabe@example.org,090-3674-6802,東京都港区テスト町30-20-7,2020-10-10,光洋建設株式会社,,messy_customers.csv,517
+Peter Foster,peter.foster@example.net,090-9411-4591,"511 Mockup Way, Springfield, IL",2020-11-14,株式会社ミライ情報システム,,messy_customers.csv,520
+森 香織,kaori.mori@example.net,080-8505-1314,北海道札幌市中央区テスト町2-5-14,2025-12-31,株式会社星野商事,,messy_customers.csv,521
+後藤 花子,hanako.goto@example.net,090-5428-6146,北海道札幌市中央区ダミー通26-17-14,2023-10-05,青葉工業株式会社,,messy_customers.csv,523
+Robert Irwin,robert.irwin@example.org,+1 206-555-0134,"945 Sandbox Ct, Shelbyville, IL",2019-12-14,Maple Materials Inc.,,messy_customers.csv,524
+木村 雅人,masato.kimura@example.com,045-448-1219,東京都新宿区ダミー通3-5-10,2021-08-28,株式会社緑川食品,,messy_customers.csv,525
+Joseph Dixon,joseph.dixon@example.net,+1 602-555-0173,"726 Example Ave, Riverton, WY",2019-11-07,"Maple Solutions Co., Ltd.",,messy_customers.csv,526
+藤田 彩,aya.fujita@example.org,092-815-6754,京都府京都市中京区サンプル台7-14-5,2022-11-13,北斗商事株式会社,,messy_customers.csv,527
+坂本 誠,makoto.sakamoto@example.org,070-2445-5216,宮城県仙台市青葉区ダミー通23-20-11,2019-09-27,株式会社富士見運輸,,messy_customers.csv,528
+Joseph Walsh,joseph.walsh@example.net,+1 206-555-0197,"330 Demo Blvd, Franklin, TN",2021-07-23,Sakura Craft LLC,,messy_customers.csv,529
+太田 美咲,misaki.ota@example.net,080-8596-7608,神奈川県横浜市西区試験町5-13-7,2019-04-11,"Maple Partners Co., Ltd.",,messy_customers.csv,530
+藤井 萌,moe.fujii@example.com,070-3830-2474,宮城県仙台市青葉区試験町7-4-1,2023-05-22,株式会社東和運輸,,messy_customers.csv,531
+David Ingram,david.ingram@example.org,+1 617-555-0166,"832 Demo Blvd, Franklin, TN",2023-09-02,"Harbor Energy Co., Ltd.",,messy_customers.csv,533
+高橋 誠,makoto.takahashi@example.net,06-2996-9815,東京都新宿区テスト町10-11-12,2023-03-10,株式会社緑川工業,,messy_customers.csv,534
+Daniel Ellis,daniel.ellis@example.org,+1 646-555-0142,"933 Test Rd, Riverton, WY",2022-08-11,"Swift Tech Co., Ltd.",,messy_customers.csv,535
+Ruth Owens,ruth.owens@example.org,+1 619-555-0131,"586 Sandbox Ct, Franklin, TN",2019-03-21,"Green Partners Co., Ltd.",,messy_customers.csv,536
+George Owens,george.owens@example.com,+1 512-555-0177,"78 Sandbox Ct, Lakeside, CA",2023-05-15,"Summit Craft Co., Ltd.",,messy_customers.csv,537
+池田 太郎,taro.ikeda@example.com,090-1050-5361,北海道札幌市中央区模擬町16-18-3,2022-01-22,"Apex Works Co., Ltd.",,messy_customers.csv,539
+Lisa Grant,lisa.grant@example.org,,"312 Sample St, Shelbyville, IL",2021-03-09,"Bright Design Co., Ltd.",missing_phone,messy_customers.csv,540
+Lisa Hayes,lisa.hayes@example.net,+442079460873,"315 Fiction Ln, Springfield, IL",2021-04-16,ABC商事株式会社,,messy_customers.csv,541
+Charles Dawson,charles.dawson@example.com,+1 646-555-0118,"650 Placeholder Dr, Franklin, TN",2025-03-24,Delta Solutions LLC,,messy_customers.csv,542
+長谷川 彩,aya.hasegawa@example.org,090-8114-5306,福岡県福岡市博多区試験町11-20-14,2019-05-22,青葉貿易株式会社,,messy_customers.csv,543
+佐々木 剛,tsuyoshi.sasaki@example.org,070-3160-8137,東京都港区見本町5-5-2,2024-11-11,株式会社富士見電機,,messy_customers.csv,544
+佐々木 徹,toru.sasaki@example.net,080-6629-1139,神奈川県横浜市西区仮名町18-2-9,2023-09-02,株式会社日の出情報システム,,messy_customers.csv,545
+Thomas Rowe,thomas.rowe@example.org,+1 212-555-0105,"786 Demo Blvd, Riverton, WY",2020-09-17,Silver Supply LLC,,messy_customers.csv,546
+三浦 由美,yumi.miura@example.org,03-9359-4745,神奈川県横浜市西区架空町22-14-9,2019-10-06,株式会社星野商事,,messy_customers.csv,547
+Karen Marsh,karen.marsh@example.org,+1 404-555-0126,"125 Sample St, Fairview, OH",2023-05-07,Northern Logistics LLC,,messy_customers.csv,548
+Anna Tucker,anna.tucker@example.org,+1 714-555-0138,"484 Sample St, Oakdale, MN",2021-07-30,Summit Logistics Inc.,,messy_customers.csv,549
+渡辺 彩,aya.watanabe@example.com,092-411-8185,福岡県福岡市博多区ダミー通15-13-10,2020-11-07,Apex Supply LLC,,messy_customers.csv,551
+Nancy Holland,nancy.holland@example.org,090-2272-1757,"883 Sample St, Springfield, IL",2025-12-11,ABC物産株式会社,,messy_customers.csv,552
+後藤 葵,aoi.goto@example.net,03-2593-0877,北海道札幌市中央区仮想町21-7-7,2023-03-08,株式会社日の出化学,,messy_customers.csv,553
+清水 花子,hanako.shimizu@example.org,06-5424-0369,宮城県仙台市青葉区例示町3-5-4,2019-09-24,株式会社日の出商事,,messy_customers.csv,554
+石井 亮,ryo.ishii@example.net,090-1721-1032,愛知県名古屋市中区サンプル台24-16-4,2021-12-30,株式会社東和電機,,messy_customers.csv,555
+佐藤 蓮,ren.sato@example.com,+442079460045,宮城県仙台市青葉区仮名町18-16-13,2021-08-06,株式会社富士見商事,,messy_customers.csv,557
+後藤 蓮,ren.goto@example.net,080-9922-2685,北海道札幌市中央区ダミー通24-18-9,2020-08-19,株式会社光洋運輸,,messy_customers.csv,558
+太田 徹,toru.ota@example.net,070-3691-0700,北海道札幌市中央区テスト町30-5-10,2022-10-31,株式会社緑川情報システム,,messy_customers.csv,560
+Michael Abbott,michael.abbott@example.com,03-7493-1339,"911 Example Ave, Georgetown, TX",2024-08-15,Bright Foods Inc.,,messy_customers.csv,561
+山口 香織,kaori.yamaguchi@example.org,03-4715-5486,神奈川県横浜市西区見本町11-12-9,2023-06-06,株式会社緑川製作所,,messy_customers.csv,562
+田中 隼人,hayato.tanaka@example.net,03-4699-7432,東京都新宿区仮想町23-1-15,2024-08-28,大和工業株式会社,,messy_customers.csv,563
+近藤 一郎,ichiro.kondo@example.org,080-8415-1948,福岡県福岡市博多区ダミー通22-13-1,2025-09-13,株式会社日の出運輸,,messy_customers.csv,565
+西村 剛,tsuyoshi.nishimura@example.org,050-1686-8050,東京都千代田区例示町11-12-1,2021-11-13,緑川製作所株式会社,,messy_customers.csv,566
+William Joyce,william.joyce@example.net,+442079460635,"981 Sandbox Ct, Oakdale, MN",2019-04-22,Apex Solutions Inc.,,messy_customers.csv,567
+渡辺 悠,yu.watanabe@example.org,,福岡県福岡市博多区ダミー通8-20-8,2019-05-21,北斗情報システム株式会社,missing_phone,messy_customers.csv,568
+村上 千尋,chihiro.murakami@example.net,070-3103-9722,東京都千代田区テスト町15-3-9,2021-01-12,株式会社富士見貿易,,messy_customers.csv,569
+Robert Vaughn,robert.vaughn@example.org,+442079460259,"724 Sandbox Ct, Shelbyville, IL",2020-12-13,"Harbor Materials Co., Ltd.",,messy_customers.csv,570
+清水 陸,riku.shimizu@example.org,090-3536-1258,大阪府大阪市北区例示町16-8-1,2023-05-06,若葉化学株式会社,,messy_customers.csv,571
+Lisa Sutton,lisa.sutton@example.org,+1 512-555-0146,"31 Mockup Way, Georgetown, TX",2025-02-04,株式会社大和商事,,messy_customers.csv,572
+小林 健太,kenta.kobayashi@example.net,090-5305-5859,神奈川県横浜市西区仮名町17-8-15,2020-07-17,,missing_company,messy_customers.csv,573
+Anthony Ellis,anthony.ellis@example.net,+442079460559,"580 Fiction Ln, Oakdale, MN",2024-05-11,株式会社若葉化学,,messy_customers.csv,574
+木村 和也,kazuya.kimura@example.org,090-3414-4920,東京都新宿区仮名町1-12-1,2024-09-20,XYZ産業株式会社,,messy_customers.csv,576
+後藤 沙織,saori.goto@example.com,090-6235-3992,神奈川県横浜市西区仮想町7-16-8,2024-05-14,株式会社サクラ製作所,,messy_customers.csv,577
+George Abbott,george.abbott@example.net,+442079460427,"585 Example Ave, Shelbyville, IL",2020-08-19,Sakura Works LLC,,messy_customers.csv,579
+林 雅人,masato.hayashi@example.net,06-5972-8770,宮城県仙台市青葉区ダミー通30-10-14,2024-04-08,株式会社日の出情報システム,,messy_customers.csv,580
+加藤 真理,mari.kato@example.org,03-8689-5522,東京都港区例示町11-18-9,2025-11-29,株式会社東和化学,,messy_customers.csv,581
+三浦 大輔,daisuke.miura@example.net,03-6129-5311,大阪府大阪市北区模擬町7-12-5,2021-02-24,株式会社北斗化学,,messy_customers.csv,582
+田中 悠,yu.tanaka@example.net,03-3281-4833,大阪府大阪市北区ダミー通23-18-9,2022-08-08,株式会社大和貿易,,messy_customers.csv,583
+清水 愛,ai.shimizu@example.net,070-2180-4137,東京都港区仮名町27-18-7,2019-01-14,若葉物産株式会社,,messy_customers.csv,584
+佐藤 雅人,masato.sato@example.com,090-1672-1151,愛知県名古屋市中区見本町18-18-5,2020-06-05,白鳥情報システム株式会社,,messy_customers.csv,585
+斎藤 智子,tomoko.saito@example.org,03-2825-5531,宮城県仙台市青葉区サンプル台10-14-4,2021-08-02,星野貿易株式会社,,messy_customers.csv,586
+Anna Foster,anna.foster@example.net,090-1376-9071,"790 Demo Blvd, Oakdale, MN",2020-12-04,Orion Logistics Inc.,,messy_customers.csv,587
+Joseph Barnes,joseph.barnes@example.com,+442079460628,"838 Sandbox Ct, Lakeside, CA",2020-05-25,株式会社緑川製作所,,messy_customers.csv,588
+近藤 陽子,yoko.kondo@example.com,080-8250-2463,福岡県福岡市博多区模擬町25-13-1,2025-01-26,株式会社ミライ化学,,messy_customers.csv,589
+Helen Ingram,helen.ingram@example.org,+1 212-555-0163,,2025-10-20,Silver Craft Inc.,missing_address,messy_customers.csv,590
+Linda Garrett,linda.garrett@example.org,+442079460172,"222 Demo Blvd, Georgetown, TX",2022-07-11,Summit Logistics LLC,,messy_customers.csv,591
+森 真理,mari.mori@example.com,070-8296-6949,東京都港区仮名町9-12-4,2022-01-07,株式会社東和建設,,messy_customers.csv,592
+長谷川 花子,hanako.hasegawa@example.org,03-1594-6249,北海道札幌市中央区架空町25-8-2,2020-10-12,株式会社富士見産業,,messy_customers.csv,593
+近藤 太郎,taro.kondo@example.net,080-3320-7141,愛知県名古屋市中区試験町8-14-5,2020-11-13,,missing_company,messy_customers.csv,594
+近藤 結衣,yui.kondo@example.com,070-2800-4066,東京都新宿区模擬町25-2-2,2023-03-26,株式会社東和建設,,messy_customers.csv,595
+木村 陸,riku.kimura@example.net,06-9602-7645,京都府京都市中京区ダミー通26-20-10,2023-07-18,株式会社北斗製作所,,messy_customers.csv,596
+松本 茜,akane.matsumoto@example.com,,福岡県福岡市博多区例示町23-15-6,2021-04-18,株式会社日の出商事,missing_phone,messy_customers.csv,597
+小林 和也,kazuya.kobayashi@example.com,080-2082-3589,神奈川県横浜市西区試験町30-16-2,2019-11-24,株式会社若葉運輸,,messy_customers.csv,600
+橋本 陸,riku.hashimoto@example.com,080-6376-8336,愛知県名古屋市中区例示町24-13-1,2025-08-20,株式会社緑川物産,,messy_customers.csv,602
+後藤 剛,tsuyoshi.goto@example.com,052-454-7607,東京都新宿区見本町23-18-9,2023-01-26,株式会社日の出製作所,,messy_customers.csv,603
+山本 太郎,taro.yamamoto@example.com,080-6853-9371,東京都港区架空町6-10-6,2020-02-14,星野食品株式会社,,messy_customers.csv,604
+Laura Joyce,laura.joyce@example.com,+442079460918,"853 Sandbox Ct, Georgetown, TX",2020-03-16,Harbor Media Inc.,,messy_customers.csv,605
+Donna Wells,donna.wells@example.net,090-9435-1574,"631 Demo Blvd, Franklin, TN",2022-03-08,緑川運輸株式会社,,messy_customers.csv,607
+Laura Holland,laura.holland@example.com,+1 312-555-0107,"161 Example Ave, Shelbyville, IL",2024-01-13,株式会社富士見食品,,messy_customers.csv,608
+村上 葵,aoi.murakami@example.net,090-5131-6382,東京都新宿区例示町15-13-13,2022-08-18,緑川運輸株式会社,,messy_customers.csv,609
+藤井 結衣,yui.fujii@example.com,070-9115-4552,大阪府大阪市北区試験町14-2-13,2019-02-07,富士見運輸株式会社,,messy_customers.csv,610
+青木 大輔,daisuke.aoki@example.com,070-4304-3458,東京都新宿区ダミー通22-17-5,2024-12-14,株式会社北斗貿易,,messy_customers.csv,611
+Kevin Baker,kevin.baker@example.net,+442079460748,"475 Fiction Ln, Springfield, IL",2025-01-15,Delta Trading LLC,,messy_customers.csv,612
+Paul Wells,paul.wells@example.org,+1 714-555-0127,"808 Example Ave, Lakeside, CA",2021-08-19,Orion Supply LLC,,messy_customers.csv,614
+清水 一郎,ichiro.shimizu@example.org,070-8036-1305,北海道札幌市中央区仮想町16-1-2,2020-06-15,Summit Systems LLC,,messy_customers.csv,615
+Steven Reed,steven.reed@example.net,+1 720-555-0136,"565 Example Ave, Lakeside, CA",2019-11-09,Green Materials Inc.,,messy_customers.csv,616
+Carol Ellis,carol.ellis@example.com,+442079460276,"126 Sandbox Ct, Fairview, OH",2022-10-14,株式会社若葉産業,,messy_customers.csv,617
+西村 蓮,ren.nishimura@example.org,03-6836-1507,北海道札幌市中央区試験町13-7-9,2021-10-22,白鳥貿易株式会社,,messy_customers.csv,618
+Paul Osborne,paul.osborne@example.com,03-3388-5604,"544 Demo Blvd, Fairview, OH",2024-05-14,Cedar Trading LLC,,messy_customers.csv,619
+George Lowe,george.lowe@example.net,090-3744-3115,"802 Example Ave, Franklin, TN",2021-07-17,Apex Supply Corp.,,messy_customers.csv,620
+斎藤 真理,mari.saito@example.org,090-1596-7420,大阪府大阪市北区架空町19-12-1,2023-03-06,日の出情報システム株式会社,,messy_customers.csv,621
+山本 陸,riku.yamamoto@example.com,092-451-5112,京都府京都市中京区仮名町10-2-14,2020-03-12,東和化学株式会社,,messy_customers.csv,622
+池田 蓮,ren.ikeda@example.net,052-487-5569,福岡県福岡市博多区見本町17-12-2,2024-08-02,株式会社東和製作所,,messy_customers.csv,623
+Brian Walsh,brian.walsh@example.net,+1 312-555-0117,"381 Example Ave, Shelbyville, IL",2020-01-25,Maple Works Inc.,,messy_customers.csv,624
+藤田 拓也,takuya.fujita@example.com,03-4793-0804,愛知県名古屋市中区サンプル台27-18-13,,Blue Solutions LLC,missing_date,messy_customers.csv,625
+福田 翔太,shota.fukuda@example.com,0120-702-104,東京都港区例示町2-16-13,2023-01-19,株式会社XYZ物産,,messy_customers.csv,627
+Paul Jensen,paul.jensen@example.com,+442079460896,"600 Demo Blvd, Lakeside, CA",2024-07-10,"Sakura Partners Co., Ltd.",,messy_customers.csv,628
+三浦 彩,aya.miura@example.com,06-9153-0023,東京都港区仮名町19-7-12,,星野工業株式会社,missing_date,messy_customers.csv,629
+後藤 裕子,hiroko.goto@example.org,070-1658-3782,大阪府大阪市北区架空町24-3-11,2023-06-05,ミライ物産株式会社,,messy_customers.csv,630
+石井 次郎,jiro.ishii@example.org,090-1225-6772,東京都港区ダミー通7-15-3,2020-08-25,若葉食品株式会社,,messy_customers.csv,631
+井上 沙織,saori.inoue@example.net,070-5506-7264,大阪府大阪市北区試験町7-13-6,2021-02-09,Pacific Labs Corp.,,messy_customers.csv,632
+Emily Sutton,emily.sutton@example.net,+1 212-555-0155,"172 Sample St, Franklin, TN",2019-09-02,"Bright Design Co., Ltd.",,messy_customers.csv,633
+後藤 美咲,misaki.goto@example.net,080-3900-6982,東京都千代田区例示町26-17-2,2025-07-30,株式会社東和化学,,messy_customers.csv,634
+清水 香織,kaori.shimizu@example.net,011-476-2628,神奈川県横浜市西区仮想町15-5-1,2021-08-18,日の出電機株式会社,,messy_customers.csv,635
+遠藤 亮,ryo.endo@example.org,0120-212-374,北海道札幌市中央区テスト町9-4-5,2024-10-16,株式会社富士見製作所,,messy_customers.csv,636
+佐藤 麻衣,mai.sato@example.com,080-5130-4002,京都府京都市中京区模擬町19-17-15,2021-01-19,株式会社北斗商事,,messy_customers.csv,637
+前田 次郎,jiro.maeda@example.org,011-781-5591,東京都千代田区例示町7-6-2,2022-06-08,日の出物産株式会社,,messy_customers.csv,638
+三浦 剛,tsuyoshi.miura@example.net,070-1269-1249,東京都港区模擬町29-5-4,2023-08-10,Northern Labs Corp.,,messy_customers.csv,639
+吉田 翔太,shota.yoshida@example.net,06-4425-1531,北海道札幌市中央区仮想町20-4-2,2021-10-22,株式会社北斗情報システム,,messy_customers.csv,640
+Carol Abbott,carol.abbott@example.com,+1 714-555-0129,"10 Placeholder Dr, Lakeside, CA",2022-11-30,"Delta Supply Co., Ltd.",,messy_customers.csv,641
+小林 愛,ai.kobayashi@example.com,+1 714-555-0102,愛知県名古屋市中区仮想町6-6-4,2019-07-05,株式会社ミライ電機,,messy_customers.csv,643
+山口 翔太,shota.yamaguchi@example.net,090-7887-1778,東京都港区試験町7-3-3,2023-08-28,ミライ情報システム株式会社,,messy_customers.csv,644
+吉田 陽子,yoko.yoshida@example.org,06-8422-2578,宮城県仙台市青葉区テスト町22-19-4,2024-01-14,株式会社星野建設,,messy_customers.csv,645
+Carol Dixon,carol.dixon@example.com,+442079460546,"583 Sandbox Ct, Shelbyville, IL",2023-06-05,"Swift Craft Co., Ltd.",,messy_customers.csv,647
+山本 一郎,ichiro.yamamoto@example.net,070-3231-2921,東京都千代田区仮名町16-7-3,2021-06-22,株式会社XYZ産業,,messy_customers.csv,648
+加藤 裕子,hiroko.kato@example.net,03-6273-7551,東京都新宿区サンプル台28-11-1,2019-05-16,若葉商事株式会社,,messy_customers.csv,649
+Sharon Carter,sharon.carter@example.org,+442079460827,"94 Demo Blvd, Shelbyville, IL",2024-05-23,Green Labs LLC,,messy_customers.csv,650
+後藤 麻衣,mai.goto@example.org,03-3453-5789,,2024-08-26,株式会社若葉物産,missing_address,messy_customers.csv,651
+佐藤 真理,mari.sato@example.com,06-5705-8046,京都府京都市中京区見本町5-6-14,2022-03-29,株式会社若葉商事,,messy_customers.csv,652
+James Kemp,james.kemp@example.net,+1 404-555-0148,"251 Placeholder Dr, Shelbyville, IL",2020-09-03,Bright Logistics LLC,,messy_customers.csv,654
+清水 美咲,misaki.shimizu@example.com,080-3138-6033,京都府京都市中京区仮名町7-4-5,2021-10-28,緑川商事株式会社,,messy_customers.csv,656
+Paul Joyce,paul.joyce@example.org,+1 312-555-0160,"325 Placeholder Dr, Georgetown, TX",2022-02-20,Bright Media Inc.,,messy_customers.csv,657
+Thomas Ingram,thomas.ingram@example.org,+442079460531,"860 Fiction Ln, Fairview, OH",2022-09-20,Silver Labs Inc.,,messy_customers.csv,658
+David Yates,david.yates@example.net,+1 305-555-0181,"883 Fiction Ln, Springfield, IL",2021-09-05,,missing_company,messy_customers.csv,659
+Joseph Chambers,joseph.chambers@example.org,+1 312-555-0196,"786 Mockup Way, Franklin, TN",2023-05-14,北斗製作所株式会社,,messy_customers.csv,660
+David Turner,david.turner@example.org,090-4028-3419,"840 Sample St, Springfield, IL",2025-07-28,株式会社若葉製作所,,messy_customers.csv,661
+小林 亮,ryo.kobayashi@example.org,090-5004-6181,北海道札幌市中央区例示町21-16-5,2022-03-07,星野食品株式会社,,messy_customers.csv,663
+Julia Eaton,julia.eaton@example.com,070-4501-6418,"634 Mockup Way, Oakdale, MN",2020-07-02,Blue Design Inc.,,messy_customers.csv,664
+Emily Irwin,emily.irwin@example.org,+442079460588,"121 Fiction Ln, Lakeside, CA",2021-07-14,Bright Labs LLC,,messy_customers.csv,665
+Thomas Joyce,thomas.joyce@example.org,+1 404-555-0124,"844 Test Rd, Fairview, OH",2021-06-02,Bright Systems Inc.,,messy_customers.csv,666
+西村 麻衣,mai.nishimura@example.net,080-2257-1511,愛知県名古屋市中区架空町23-10-3,2024-10-29,富士見商事株式会社,,messy_customers.csv,667
+Laura Young,laura.young@example.net,+1 720-555-0150,"455 Sample St, Georgetown, TX",2024-10-28,"Green Craft Co., Ltd.",,messy_customers.csv,668
+池田 千尋,chihiro.ikeda@example.com,0120-297-995,東京都千代田区テスト町29-7-6,2023-05-19,星野食品株式会社,,messy_customers.csv,669
+井上 智子,tomoko.inoue@example.net,090-8147-9372,東京都港区例示町21-16-7,2025-04-18,株式会社サクラ貿易,,messy_customers.csv,670
+Paul Ingram,paul.ingram@example.org,090-7675-0755,"249 Mockup Way, Riverton, WY",,Sakura Foods LLC,missing_date,messy_customers.csv,673
+渡辺 隼人,hayato.watanabe@example.org,090-9313-6033,宮城県仙台市青葉区模擬町23-3-13,2022-03-31,サクラ商事株式会社,,messy_customers.csv,674
+長谷川 純,jun.hasegawa@example.org,011-291-8555,愛知県名古屋市中区試験町18-12-10,2023-04-23,株式会社星野電機,,messy_customers.csv,675
+加藤 結衣,yui.kato@example.net,070-6072-9330,宮城県仙台市青葉区仮想町6-7-2,2021-01-27,株式会社若葉電機,,messy_customers.csv,676
+伊藤 学,manabu.ito@example.net,090-6070-9202,大阪府大阪市北区テスト町20-8-6,2025-10-03,"Pacific Tech Co., Ltd.",,messy_customers.csv,677
+Anthony Pratt,anthony.pratt@example.org,+442079460856,"857 Sample St, Lakeside, CA",2022-11-12,Green Systems Corp.,,messy_customers.csv,678
+遠藤 太郎,taro.endo@example.org,090-1244-9204,神奈川県横浜市西区仮名町4-5-13,2021-02-18,株式会社青葉貿易,,messy_customers.csv,681
+George Yates,george.yates@example.com,+1 617-555-0199,"418 Test Rd, Lakeside, CA",2021-09-12,Harbor Materials LLC,,messy_customers.csv,682
+Kevin Ellis,kevin.ellis@example.com,090-8838-3665,"16 Placeholder Dr, Springfield, IL",2025-09-25,Orion Foods Inc.,,messy_customers.csv,684
+三浦 隼人,hayato.miura@example.net,090-2330-3167,宮城県仙台市青葉区ダミー通27-1-1,2019-09-29,株式会社ABC貿易,,messy_customers.csv,685
+福田 太郎,taro.fukuda@example.net,080-5425-0275,神奈川県横浜市西区例示町15-20-5,2023-05-20,,missing_company,messy_customers.csv,686
+Rachel Nolan,rachel.nolan@example.com,03-5317-0372,"969 Fiction Ln, Georgetown, TX",2019-10-03,Northern Logistics Corp.,,messy_customers.csv,688
+藤田 真理,mari.fujita@example.com,0120-421-466,東京都新宿区仮想町12-13-2,2024-03-28,株式会社XYZ建設,,messy_customers.csv,689
+Sharon Ellis,sharon.ellis@example.com,+442079460080,"10 Placeholder Dr, Fairview, OH",2020-04-06,Nova Logistics LLC,,messy_customers.csv,690
+斎藤 由美,yumi.saito@example.net,080-7160-1986,大阪府大阪市北区仮想町15-3-15,2025-02-11,株式会社東和貿易,,messy_customers.csv,691
+木村 純,jun.kimura@example.org,090-7526-7707,京都府京都市中京区見本町30-5-15,2024-03-12,株式会社大和化学,,messy_customers.csv,692
+山口 和也,kazuya.yamaguchi@example.net,070-6572-8049,宮城県仙台市青葉区例示町8-14-14,2021-08-06,Clear Logistics Inc.,,messy_customers.csv,693
+Emily Ellis,emily.ellis@example.com,+1 303-555-0152,"356 Demo Blvd, Springfield, IL",2025-06-02,Acme Labs Corp.,,messy_customers.csv,694
+林 裕子,hiroko.hayashi@example.com,070-2000-6597,神奈川県横浜市西区仮想町29-13-9,2020-08-23,Acme Works Inc.,,messy_customers.csv,695
+岡田 直樹,naoki.okada@example.com,090-3956-3668,北海道札幌市中央区ダミー通22-6-2,2023-05-31,株式会社光洋運輸,,messy_customers.csv,696
+鈴木 茜,akane.suzuki@example.net,0457709676,京都府京都市中京区サンプル台8-14-10,2025-10-30,若葉産業株式会社,phone_format_unverified,messy_customers.csv,697
+Edward Joyce,edward.joyce@example.com,+442079460451,"375 Test Rd, Shelbyville, IL",2021-08-21,Orion Labs Corp.,,messy_customers.csv,699
+斎藤 悠,yu.saito@example.org,052-226-7405,愛知県名古屋市中区仮名町25-3-10,2019-09-18,株式会社光洋建設,,messy_customers.csv,700
+山口 太郎,taro.yamaguchi@example.net,070-8151-8287,神奈川県横浜市西区試験町27-5-6,2024-10-15,株式会社大和情報システム,,messy_customers.csv,701
+Richard Sanders,richard.sanders@example.net,+1 714-555-0142,"592 Sample St, Franklin, TN",2019-05-06,"Golden Design Co., Ltd.",,messy_customers.csv,702
+Sandra Lawson,sandra.lawson@example.net,080-5115-2990,"481 Placeholder Dr, Georgetown, TX",2021-03-14,株式会社緑川貿易,,messy_customers.csv,704
+Kevin Chambers,kevin.chambers@example.org,06-7412-3640,"569 Example Ave, Riverton, WY",2022-10-25,Summit Foods LLC,,messy_customers.csv,705
+西村 直樹,naoki.nishimura@example.net,06-3914-5625,福岡県福岡市博多区試験町19-6-7,2025-08-10,株式会社富士見電機,,messy_customers.csv,706
+Rachel Yates,rachel.yates@example.org,+1 617-555-0164,"583 Placeholder Dr, Shelbyville, IL",2023-02-21,Apex Supply LLC,,messy_customers.csv,707
+Betty Sutton,betty.sutton@example.org,+1 714-555-0141,"801 Fiction Ln, Franklin, TN",2021-12-07,Northern Design Inc.,,messy_customers.csv,708
+George Tucker,george.tucker@example.org,090-2854-7884,"178 Sample St, Franklin, TN",2021-03-26,"Maple Media Co., Ltd.",,messy_customers.csv,709
+岡田 美咲,misaki.okada@example.com,080-4443-6463,愛知県名古屋市中区見本町11-10-8,2020-03-16,株式会社青葉電機,,messy_customers.csv,710
+George Walsh,george.walsh@example.net,+442079460219,"497 Example Ave, Georgetown, TX",2021-09-02,Delta Materials LLC,,messy_customers.csv,711
+山田 悠,yu.yamada@example.org,070-3156-7831,東京都千代田区サンプル台12-5-4,2024-10-07,株式会社緑川運輸,,messy_customers.csv,712
+Laura Reed,laura.reed@example.net,+1 206-555-0138,"151 Sandbox Ct, Fairview, OH",2022-10-15,Summit Supply LLC,,messy_customers.csv,714
+Betty Underwood,betty.underwood@example.net,06-5719-2912,"321 Example Ave, Fairview, OH",2019-12-06,Nova Works Inc.,,messy_customers.csv,715
+森 花子,hanako.mori@example.com,050-1702-2554,,2021-08-08,株式会社ミライ工業,missing_address,messy_customers.csv,716
+Charles Sutton,charles.sutton@example.com,+442079460889,"80 Demo Blvd, Oakdale, MN",2019-01-23,"Apex Trading Co., Ltd.",,messy_customers.csv,717
+Michael Baker,michael.baker@example.net,+442079460186,"300 Fiction Ln, Shelbyville, IL",2022-03-10,Bright Media Corp.,,messy_customers.csv,718
+佐々木 次郎,jiro.sasaki@example.org,+442079460502,東京都新宿区例示町28-8-7,2024-01-14,Delta Craft LLC,,messy_customers.csv,719
+Richard Dixon,richard.dixon@example.com,+442079460132,"876 Test Rd, Oakdale, MN",2023-02-19,"Blue Supply Co., Ltd.",,messy_customers.csv,720
+Paul Grant,paul.grant@example.com,070-3190-3119,"139 Demo Blvd, Shelbyville, IL",2025-10-20,株式会社緑川化学,,messy_customers.csv,721
+佐々木 美咲,misaki.sasaki@example.com,070-1132-1472,京都府京都市中京区仮想町14-9-8,2020-10-17,株式会社北斗建設,,messy_customers.csv,723
+岡田 次郎,jiro.okada@example.net,070-2426-7471,東京都新宿区試験町29-12-8,2024-03-16,株式会社富士見運輸,,messy_customers.csv,724
+藤田 健太,kenta.fujita@example.com,070-1535-5331,東京都新宿区模擬町3-17-14,2024-02-01,株式会社光洋産業,,messy_customers.csv,725
+三浦 学,manabu.miura@example.com,090-8201-1981,神奈川県横浜市西区試験町3-15-11,2021-05-30,若葉情報システム株式会社,,messy_customers.csv,726
+George Reed,george.reed@example.org,+442079460190,"343 Test Rd, Springfield, IL",2020-12-07,"Swift Tech Co., Ltd.",,messy_customers.csv,727
+William Baker,william.baker@example.com,06-6356-9587,"665 Fiction Ln, Shelbyville, IL",2021-08-25,"Silver Logistics Co., Ltd.",,messy_customers.csv,728
+福田 誠,makoto.fukuda@example.net,03-9850-3329,北海道札幌市中央区テスト町10-9-7,2020-05-15,光洋建設株式会社,,messy_customers.csv,729
+田中 亮,ryo.tanaka@example.net,03-9033-5355,東京都新宿区模擬町18-17-4,2020-06-19,若葉化学株式会社,,messy_customers.csv,732
+藤井 雅人,masato.fujii@example.net,080-2343-9382,宮城県仙台市青葉区ダミー通4-15-2,2022-11-21,サクラ電機株式会社,,messy_customers.csv,733
+井上 葵,aoi.inoue@example.com,090-3743-9615,北海道札幌市中央区架空町3-10-4,2024-05-11,株式会社緑川情報システム,,messy_customers.csv,734
+Mary Lawson,mary.lawson@example.org,+1 617-555-0120,"897 Sandbox Ct, Shelbyville, IL",2023-08-07,Silver Trading Inc.,,messy_customers.csv,735
+岡田 拓也,takuya.okada@example.net,090-9784-0219,東京都新宿区例示町21-10-13,2024-11-03,株式会社若葉物産,,messy_customers.csv,737
+池田 優子,yuko.ikeda@example.com,011-840-8598,東京都新宿区ダミー通28-1-10,2022-08-30,Silver Media LLC,,messy_customers.csv,738
+藤田 愛,ai.fujita@example.com,075-398-6008,北海道札幌市中央区仮名町27-3-13,2019-01-06,ミライ情報システム株式会社,,messy_customers.csv,739
+伊藤 一郎,ichiro.ito@example.com,075-708-0279,東京都港区仮想町15-4-3,2022-02-02,株式会社白鳥運輸,,messy_customers.csv,740
+木村 恵子,keiko.kimura@example.net,090-4473-0443,愛知県名古屋市中区見本町29-5-1,2020-07-30,Sakura Partners Inc.,,messy_customers.csv,741
+森 亮,ryo.mori@example.com,070-9107-4553,東京都千代田区試験町20-20-1,2023-12-20,株式会社XYZ製作所,,messy_customers.csv,742
+佐々木 恵子,keiko.sasaki@example.org,045-455-0960,東京都港区架空町20-12-15,2023-07-20,,missing_company,messy_customers.csv,743
+中村 美咲,misaki.nakamura@example.net,090-2811-0722,京都府京都市中京区架空町25-4-13,2024-10-07,ミライ商事株式会社,,messy_customers.csv,745
+Brian Foster,brian.foster@example.net,+442079460102,"418 Fiction Ln, Franklin, TN",2020-01-04,Nova Supply Inc.,,messy_customers.csv,746
+西村 拓也,takuya.nishimura@example.com,090-5038-0882,神奈川県横浜市西区仮想町11-3-1,2022-03-24,株式会社北斗物産,,messy_customers.csv,748
+渡辺 直樹,naoki.watanabe@example.net,070-4220-0406,東京都千代田区模擬町14-6-6,2024-12-17,Cedar Labs Corp.,,messy_customers.csv,749
+Thomas Carter,thomas.carter@example.org,+1 212-555-0142,"697 Demo Blvd, Riverton, WY",2025-10-22,Delta Tech LLC,,messy_customers.csv,750
+Sharon Owens,sharon.owens@example.net,+1 415-555-0110,"609 Example Ave, Oakdale, MN",2024-11-18,Silver Craft Corp.,,messy_customers.csv,751
+林 愛,ai.hayashi@example.com,+1 404-555-0153,福岡県福岡市博多区見本町10-11-11,,株式会社XYZ食品,missing_date,messy_customers.csv,752
+松本 和也,kazuya.matsumoto@example.org,080-1611-0321,愛知県名古屋市中区模擬町8-18-13,2025-03-11,富士見貿易株式会社,,messy_customers.csv,753
+Paul Abbott,paul.abbott@example.org,+442079460587,"332 Demo Blvd, Springfield, IL",2019-09-27,Golden Trading LLC,,messy_customers.csv,754
+Michael Chambers,michael.chambers@example.org,+442079460612,"961 Placeholder Dr, Franklin, TN",2025-10-18,"Apex Energy Co., Ltd.",,messy_customers.csv,755
+Diane Sutton,diane.sutton@example.com,+1 512-555-0187,"843 Placeholder Dr, Shelbyville, IL",2023-04-15,Harbor Foods Corp.,,messy_customers.csv,756
+Helen Young,helen.young@example.com,06-8862-9355,"264 Demo Blvd, Lakeside, CA",,"Nova Systems Co., Ltd.",missing_date,messy_customers.csv,757
+Daniel Hayes,daniel.hayes@example.org,+442079460609,"606 Example Ave, Lakeside, CA",2025-11-05,,missing_company,messy_customers.csv,758
+Mark Young,mark.young@example.com,+1 512-555-0102,"960 Sample St, Lakeside, CA",2019-10-17,Orion Tech LLC,,messy_customers.csv,760
+池田 結衣,yui.ikeda@example.com,090-8393-5833,京都府京都市中京区テスト町24-8-10,,Cedar Labs Inc.,missing_date,messy_customers.csv,761
+藤井 彩,aya.fujii@example.com,092-753-0767,福岡県福岡市博多区例示町11-16-11,2020-01-19,株式会社サクラ電機,,messy_customers.csv,763
+伊藤 葵,aoi.ito@example.org,070-2376-2585,京都府京都市中京区例示町22-19-5,2020-11-08,日の出産業株式会社,,messy_customers.csv,764
+石井 茜,akane.ishii@example.org,075-886-7817,東京都千代田区サンプル台2-19-6,2021-07-28,東和食品株式会社,,messy_customers.csv,765
+Peter Baker,peter.baker@example.org,+442079460824,"196 Fiction Ln, Georgetown, TX",2019-07-05,Nova Craft LLC,,messy_customers.csv,767
+Peter Reed,peter.reed@example.net,+1 617-555-0192,"968 Placeholder Dr, Lakeside, CA",2019-04-15,"Bright Design Co., Ltd.",,messy_customers.csv,768
+山田 隼人,hayato.yamada@example.com,080-2674-6323,東京都新宿区試験町30-12-10,2021-09-22,株式会社日の出物産,,messy_customers.csv,769
+山口 大輔,daisuke.yamaguchi@example.org,070-3674-3351,福岡県福岡市博多区見本町8-7-8,2023-07-28,"Maple Systems Co., Ltd.",,messy_customers.csv,770
+Sharon Lowe,sharon.lowe@example.net,+1 212-555-0124,"290 Sample St, Lakeside, CA",2025-05-12,Blue Labs Corp.,,messy_customers.csv,771
+Anthony Dixon,anthony.dixon@example.org,+1 602-555-0116,"618 Sample St, Lakeside, CA",2025-02-17,,missing_company,messy_customers.csv,772
+Betty Ellis,betty.ellis@example.net,+1 714-555-0184,"725 Placeholder Dr, Riverton, WY",2025-12-08,Harbor Tech Corp.,,messy_customers.csv,773
+小林 純,jun.kobayashi@example.org,050-2479-5362,北海道札幌市中央区模擬町9-11-13,2019-07-21,星野工業株式会社,,messy_customers.csv,774
+Nancy Baker,nancy.baker@example.com,080-6919-4036,"920 Sample St, Georgetown, TX",2022-12-09,株式会社大和食品,,messy_customers.csv,775
+George Wells,george.wells@example.com,070-7469-3393,"331 Demo Blvd, Georgetown, TX",2023-08-10,Silver Foods LLC,,messy_customers.csv,776
+林 麻衣,mai.hayashi@example.org,080-1125-0805,東京都千代田区模擬町21-19-5,2020-07-10,株式会社星野物産,,messy_customers.csv,777
+斎藤 和也,kazuya.saito@example.net,+442079460698,愛知県名古屋市中区テスト町20-14-7,2024-07-30,株式会社青葉製作所,,messy_customers.csv,778
+長谷川 雅人,masato.hasegawa@example.net,080-9028-7259,北海道札幌市中央区テスト町29-1-10,2024-01-20,東和運輸株式会社,,messy_customers.csv,779
+前田 拓也,takuya.maeda@example.org,045-635-2143,大阪府大阪市北区ダミー通9-13-15,2023-04-11,株式会社緑川化学,,messy_customers.csv,780
+佐藤 亮,ryo.sato@example.org,090-7496-5472,宮城県仙台市青葉区模擬町12-8-15,2019-08-08,株式会社白鳥化学,,messy_customers.csv,781
+Anna Chambers,anna.chambers@example.com,+442079460903,"464 Sample St, Oakdale, MN",2022-01-24,Nova Solutions LLC,,messy_customers.csv,784
+Matthew Barnes,matthew.barnes@example.org,090-3412-1817,"64 Demo Blvd, Fairview, OH",2024-12-05,"Apex Works Co., Ltd.",,messy_customers.csv,786
+遠藤 直樹,naoki.endo@example.org,06-9721-0787,神奈川県横浜市西区テスト町12-6-6,2021-12-20,"Golden Design Co., Ltd.",,messy_customers.csv,787
+Helen Parker,helen.parker@example.net,,"458 Placeholder Dr, Franklin, TN",2021-04-24,"Harbor Energy Co., Ltd.",missing_phone,messy_customers.csv,789
+斎藤 茜,akane.saito@example.com,050-1193-0585,東京都港区テスト町3-13-8,2024-04-26,北斗食品株式会社,,messy_customers.csv,791
+高橋 悠,yu.takahashi@example.com,080-6889-4286,愛知県名古屋市中区仮名町2-18-4,2024-12-31,"Blue Labs Co., Ltd.",,messy_customers.csv,792
+Carol Reed,carol.reed@example.org,+442079460600,"916 Sample St, Fairview, OH",2022-06-07,"Maple Labs Co., Ltd.",,messy_customers.csv,794
+Sharon Lawson,sharon.lawson@example.com,+1 404-555-0129,"839 Example Ave, Springfield, IL",2025-09-16,Orion Craft LLC,,messy_customers.csv,795
+長谷川 徹,toru.hasegawa@example.org,06-7328-1993,東京都千代田区テスト町3-10-4,2023-03-07,株式会社XYZ物産,,messy_customers.csv,796
+長谷川 由美,yumi.hasegawa@example.org,080-2507-1209,東京都千代田区仮名町30-12-5,,富士見電機株式会社,missing_date,messy_customers.csv,797
+石井 太郎,taro.ishii@example.net,090-7534-9690,愛知県名古屋市中区模擬町16-2-9,2025-11-24,若葉産業株式会社,,messy_customers.csv,798
+伊藤 千尋,chihiro.ito@example.org,03-8741-8669,神奈川県横浜市西区模擬町3-12-1,2023-02-28,株式会社日の出工業,,messy_customers.csv,799
+Emily Sanders,emily.sanders@example.org,+1 404-555-0102,"139 Sample St, Riverton, WY",2019-12-23,白鳥情報システム株式会社,,messy_customers.csv,800
+三浦 麻衣,mai.miura@example.org,070-4060-6228,東京都千代田区サンプル台3-18-14,2019-01-24,株式会社白鳥貿易,,messy_customers.csv,801
+斎藤 次郎,jiro.saito@example.org,0120-442-624,宮城県仙台市青葉区見本町15-2-13,2021-12-18,青葉物産株式会社,,messy_customers.csv,802
+伊藤 愛,ai.ito@example.org,080-7108-7964,東京都千代田区ダミー通14-17-3,2019-01-12,サクラ工業株式会社,,messy_customers.csv,803
+Rachel Vaughn,rachel.vaughn@example.org,+1 213-555-0133,"256 Example Ave, Franklin, TN",2020-07-12,Blue Partners LLC,,messy_customers.csv,804
+林 純,jun.hayashi@example.com,080-1966-1498,東京都港区模擬町12-1-10,2020-12-30,白鳥食品株式会社,,messy_customers.csv,805
+Daniel Parker,daniel.parker@example.net,+1 312-555-0195,"771 Mockup Way, Springfield, IL",2021-07-20,"Delta Trading Co., Ltd.",,messy_customers.csv,806
+Joseph Ingram,joseph.ingram@example.com,090-9550-7673,"617 Demo Blvd, Georgetown, TX",2023-08-16,Prime Design LLC,,messy_customers.csv,807
+Rachel Hayes,rachel.hayes@example.com,03-8768-3312,"840 Example Ave, Lakeside, CA",2021-05-23,Blue Trading LLC,,messy_customers.csv,808
+佐藤 裕子,hiroko.sato@example.com,070-7607-3633,東京都新宿区見本町15-10-4,2023-01-14,株式会社北斗電機,,messy_customers.csv,809
+Brian Ingram,brian.ingram@example.net,+1 404-555-0134,"49 Placeholder Dr, Georgetown, TX",2024-01-09,Clear Logistics LLC,,messy_customers.csv,810
+Richard Abbott,richard.abbott@example.org,+1 602-555-0138,"335 Demo Blvd, Fairview, OH",2023-04-17,,missing_company,messy_customers.csv,811
+橋本 蓮,ren.hashimoto@example.org,075-234-8861,北海道札幌市中央区ダミー通4-2-8,2022-06-21,株式会社光洋貿易,,messy_customers.csv,813
+西村 太郎,taro.nishimura@example.com,+442079460473,京都府京都市中京区仮名町4-20-11,2019-03-20,若葉物産株式会社,,messy_customers.csv,814
+太田 学,manabu.ota@example.net,070-3902-2755,東京都千代田区仮名町23-20-6,2021-08-15,白鳥物産株式会社,,messy_customers.csv,815
+後藤 純,jun.goto@example.com,+442079460914,東京都港区試験町6-15-15,2022-07-09,株式会社白鳥貿易,,messy_customers.csv,816
+Karen Yates,karen.yates@example.com,+1 404-555-0197,"90 Mockup Way, Springfield, IL",2020-03-30,Golden Tech LLC,,messy_customers.csv,817
+山本 恵子,keiko.yamamoto@example.net,03-8597-9747,京都府京都市中京区架空町30-12-12,2025-08-13,光洋商事株式会社,,messy_customers.csv,818
+Robert Turner,robert.turner@example.com,+1 404-555-0136,"321 Sample St, Riverton, WY",2021-04-12,Swift Foods Inc.,,messy_customers.csv,819
+藤井 愛,ai.fujii@example.com,0120-999-319,福岡県福岡市博多区架空町17-20-12,2022-03-10,株式会社北斗物産,,messy_customers.csv,820
+Diane Barnes,diane.barnes@example.com,06-3855-8936,,2023-03-12,Maple Systems Inc.,missing_address,messy_customers.csv,821
+山田 一郎,ichiro.yamada@example.com,080-8977-9328,宮城県仙台市青葉区架空町21-1-7,2025-05-28,株式会社白鳥産業,,messy_customers.csv,822
+鈴木 太郎,taro.suzuki@example.org,080-1722-3958,神奈川県横浜市西区テスト町9-5-12,2021-06-11,株式会社星野物産,,messy_customers.csv,823
+James Yates,james.yates@example.net,090-1045-6432,"479 Placeholder Dr, Franklin, TN",2020-10-05,"Acme Logistics Co., Ltd.",,messy_customers.csv,824
+Helen Tucker,helen.tucker@example.net,090-6835-4002,"662 Placeholder Dr, Springfield, IL",2024-09-21,Acme Systems Inc.,,messy_customers.csv,825
+石川 茜,akane.ishikawa@example.org,080-8568-7591,東京都千代田区模擬町5-1-15,2023-12-28,若葉運輸株式会社,,messy_customers.csv,828
+佐々木 葵,aoi.sasaki@example.org,090-8068-2756,東京都港区模擬町24-6-2,2022-12-15,Bright Solutions Inc.,,messy_customers.csv,829
+山本 萌,moe.yamamoto@example.net,06-2547-7106,東京都港区見本町17-14-4,2025-01-02,株式会社北斗産業,,messy_customers.csv,832
+吉田 徹,toru.yoshida@example.net,06-8707-2743,東京都港区仮名町18-17-1,2019-07-26,若葉運輸株式会社,,messy_customers.csv,833
+石川 純,jun.ishikawa@example.org,03-2100-8970,福岡県福岡市博多区模擬町5-17-15,2025-07-11,株式会社サクラ産業,,messy_customers.csv,834
+Donna Jensen,donna.jensen@example.net,070-2572-8419,"182 Sandbox Ct, Fairview, OH",2020-10-27,株式会社サクラ産業,,messy_customers.csv,835
+山田 颯太,sota.yamada@example.com,03-3216-2547,東京都千代田区サンプル台3-9-5,2024-06-18,"Northern Craft Co., Ltd.",,messy_customers.csv,836
+Betty Hayes,betty.hayes@example.org,+442079460067,"986 Mockup Way, Georgetown, TX",2025-06-22,Northern Craft Inc.,,messy_customers.csv,837
+田中 拓也,takuya.tanaka@example.net,,北海道札幌市中央区仮想町2-5-9,2020-01-19,株式会社白鳥商事,missing_phone,messy_customers.csv,839
+西村 智子,tomoko.nishimura@example.com,03-6643-9746,大阪府大阪市北区例示町15-15-6,2023-06-18,"Green Media Co., Ltd.",,messy_customers.csv,840
+斎藤 学,manabu.saito@example.com,03-2468-6811,東京都港区例示町10-13-14,2025-10-26,サクラ貿易株式会社,,messy_customers.csv,841
+長谷川 一郎,ichiro.hasegawa@example.com,0120-129-369,大阪府大阪市北区テスト町27-9-2,2025-12-14,株式会社サクラ工業,,messy_customers.csv,842
+James Garrett,james.garrett@example.com,06-8976-0229,"385 Placeholder Dr, Springfield, IL",2025-04-01,Nova Materials Corp.,,messy_customers.csv,843
+井上 誠,makoto.inoue@example.com,070-7455-2506,東京都港区模擬町17-13-6,2023-01-21,星野物産株式会社,,messy_customers.csv,844
+Helen Dawson,helen.dawson@example.net,06-5367-2478,"705 Sample St, Shelbyville, IL",2024-12-26,Prime Energy Inc.,,messy_customers.csv,845
+前田 隼人,hayato.maeda@example.org,070-5400-8181,北海道札幌市中央区例示町13-19-12,2022-01-03,株式会社白鳥化学,,messy_customers.csv,848
+坂本 和也,kazuya.sakamoto@example.com,070-8736-4437,福岡県福岡市博多区仮名町30-20-13,2024-08-21,株式会社若葉食品,,messy_customers.csv,849
+Donna Underwood,donna.underwood@example.com,+1 303-555-0136,"32 Sample St, Oakdale, MN",2025-06-03,Prime Tech LLC,,messy_customers.csv,850
+近藤 智子,tomoko.kondo@example.net,080-3336-5293,北海道札幌市中央区模擬町13-13-5,2024-01-04,株式会社緑川電機,,messy_customers.csv,851
+Mary Baker,mary.baker@example.net,+1 303-555-0199,"282 Test Rd, Shelbyville, IL",2023-04-26,株式会社緑川物産,,messy_customers.csv,852
+Andrew Parker,andrew.parker@example.net,+442079460597,"263 Test Rd, Riverton, WY",2023-08-29,Harbor Solutions LLC,,messy_customers.csv,853
+Edward Pratt,edward.pratt@example.com,+442079460057,"590 Placeholder Dr, Franklin, TN",2021-06-20,Delta Logistics Inc.,,messy_customers.csv,854
+Robert Dixon,robert.dixon@example.org,03-9751-1998,"972 Mockup Way, Franklin, TN",2020-11-15,株式会社XYZ食品,,messy_customers.csv,855
+Helen Ellis,helen.ellis@example.com,06-8421-2163,"419 Mockup Way, Georgetown, TX",2023-07-24,Delta Trading Inc.,,messy_customers.csv,858
+林 拓也,takuya.hayashi@example.com,03-6850-2498,神奈川県横浜市西区テスト町3-1-15,2023-02-14,北斗化学株式会社,,messy_customers.csv,859
+Michael Wells,michael.wells@example.com,+1 404-555-0179,"369 Test Rd, Oakdale, MN",2024-10-23,Golden Tech Inc.,,messy_customers.csv,860
+Carol Pratt,carol.pratt@example.com,+442079460646,"812 Demo Blvd, Franklin, TN",2022-11-09,株式会社青葉貿易,,messy_customers.csv,861
+Diane Jensen,diane.jensen@example.org,+442079460931,"161 Test Rd, Riverton, WY",2020-09-09,"Delta Logistics Co., Ltd.",,messy_customers.csv,862
+石井 純,jun.ishii@example.com,090-8692-6506,東京都港区架空町18-15-1,2024-09-25,星野建設株式会社,,messy_customers.csv,864
+藤田 茜,akane.fujita@example.org,052-590-0632,東京都港区架空町16-4-3,2023-06-12,株式会社光洋産業,,messy_customers.csv,865
+青木 翔太,shota.aoki@example.net,011-405-5313,神奈川県横浜市西区サンプル台5-5-4,2021-06-06,"Silver Systems Co., Ltd.",,messy_customers.csv,866
+Edward Sanders,edward.sanders@example.org,06-3527-3016,"761 Mockup Way, Fairview, OH",2023-07-17,サクラ貿易株式会社,,messy_customers.csv,867
+渡辺 一郎,ichiro.watanabe@example.net,06-4968-7844,大阪府大阪市北区見本町28-4-9,2019-08-16,株式会社光洋建設,,messy_customers.csv,868
+Karen Irwin,karen.irwin@example.com,+1 303-555-0129,"800 Example Ave, Lakeside, CA",2025-04-19,Acme Tech Inc.,,messy_customers.csv,869
+長谷川 健太,kenta.hasegawa@example.net,080-5119-9317,東京都港区試験町30-3-6,2019-12-21,株式会社富士見物産,,messy_customers.csv,871
+渡辺 颯太,sota.watanabe@example.org,080-5450-0277,宮城県仙台市青葉区見本町19-13-10,2021-05-16,株式会社大和産業,,messy_customers.csv,872
+福田 颯太,sota.fukuda@example.org,0120-585-320,東京都港区試験町14-16-15,2024-06-04,若葉貿易株式会社,,messy_customers.csv,874
+三浦 蓮,ren.miura@example.net,03-8542-5556,宮城県仙台市青葉区テスト町18-20-8,2025-02-09,ミライ化学株式会社,,messy_customers.csv,876
+中村 陽子,yoko.nakamura@example.org,06-3976-3820,東京都港区試験町2-6-2,2025-07-28,緑川商事株式会社,,messy_customers.csv,877
+渡辺 亮,ryo.watanabe@example.net,080-8472-4654,神奈川県横浜市西区架空町23-2-1,2020-07-28,株式会社北斗建設,,messy_customers.csv,878
+中村 麻衣,mai.nakamura@example.net,090-5209-5416,東京都千代田区架空町14-8-6,2022-07-13,株式会社大和電機,,messy_customers.csv,880
+Andrew Yates,andrew.yates@example.net,+442079460631,"995 Sandbox Ct, Fairview, OH",2023-12-13,株式会社白鳥化学,,messy_customers.csv,881
+岡田 彩,aya.okada@example.org,03-6260-3373,東京都千代田区ダミー通19-15-12,2019-02-02,株式会社青葉食品,,messy_customers.csv,882
+井上 直樹,naoki.inoue@example.net,06-5910-3846,東京都港区ダミー通20-10-15,2024-11-18,北斗貿易株式会社,,messy_customers.csv,883
+Carol Lawson,carol.lawson@example.net,06-8120-4063,"348 Fiction Ln, Lakeside, CA",2022-04-11,Harbor Craft LLC,,messy_customers.csv,885
+Emily Pratt,emily.pratt@example.net,+442079460617,"781 Demo Blvd, Riverton, WY",2021-11-24,"Delta Design Co., Ltd.",,messy_customers.csv,886
+斎藤 純,jun.saito@example.net,011-534-4937,京都府京都市中京区ダミー通7-10-11,2023-08-18,株式会社大和貿易,,messy_customers.csv,887
+木村 由美,yumi.kimura@example.org,070-8722-0037,京都府京都市中京区仮名町26-3-15,2025-06-07,XYZ物産株式会社,,messy_customers.csv,888
+鈴木 剛,tsuyoshi.suzuki@example.com,080-7497-6355,大阪府大阪市北区見本町3-8-15,2025-01-29,株式会社ABC電機,,messy_customers.csv,889
+松本 翔太,shota.matsumoto@example.net,070-3223-0548,大阪府大阪市北区仮想町10-15-5,2021-01-20,株式会社ミライ化学,,messy_customers.csv,890
+伊藤 由美,yumi.ito@example.org,070-7810-8264,福岡県福岡市博多区テスト町27-1-1,2025-03-11,光洋運輸株式会社,,messy_customers.csv,891
+斎藤 香織,kaori.saito@example.com,080-1957-2542,大阪府大阪市北区テスト町26-12-1,2020-10-31,北斗貿易株式会社,,messy_customers.csv,892
+伊藤 太郎,taro.ito@example.net,080-3612-3259,大阪府大阪市北区試験町17-5-10,2021-08-15,株式会社ABC工業,,messy_customers.csv,893
+石川 雅人,masato.ishikawa@example.com,090-4763-0359,大阪府大阪市北区仮想町9-14-8,2023-12-12,富士見食品株式会社,,messy_customers.csv,894
+遠藤 蓮,ren.endo@example.net,090-8168-6993,東京都新宿区例示町20-20-6,2022-07-15,株式会社富士見商事,,messy_customers.csv,895
+Betty Reed,betty.reed@example.com,+1 720-555-0122,"762 Fiction Ln, Riverton, WY",2024-06-20,Acme Logistics LLC,,messy_customers.csv,896
+Linda Ellis,linda.ellis@example.com,+1 646-555-0174,"103 Sandbox Ct, Springfield, IL",2020-10-29,Silver Design Inc.,,messy_customers.csv,898
+William Dawson,william.dawson@example.com,+1 720-555-0192,"948 Fiction Ln, Georgetown, TX",2025-02-16,Green Materials Corp.,,messy_customers.csv,899
+William Rowe,william.rowe@example.org,+1 619-555-0133,"118 Test Rd, Georgetown, TX",2021-12-16,株式会社青葉化学,,messy_customers.csv,900
+前田 千尋,chihiro.maeda@example.net,070-8686-2430,北海道札幌市中央区テスト町28-3-3,2020-09-29,ABC貿易株式会社,,messy_customers.csv,901
+斎藤 蓮,ren.saito@example.net,0120-142-341,北海道札幌市中央区テスト町14-20-1,2019-10-30,株式会社ABC建設,,messy_customers.csv,903
+三浦 真理,mari.miura@example.com,050-1024-8840,大阪府大阪市北区仮想町10-10-5,2023-12-19,Acme Design Corp.,,messy_customers.csv,905
+斎藤 美咲,misaki.saito@example.org,050-1192-4439,神奈川県横浜市西区架空町26-6-1,2023-03-13,日の出産業株式会社,,messy_customers.csv,906
+松本 真理,mari.matsumoto@example.net,070-8343-8140,愛知県名古屋市中区模擬町23-6-7,2023-10-16,ミライ工業株式会社,,messy_customers.csv,908
+Robert Reed,robert.reed@example.net,+1 415-555-0175,"333 Placeholder Dr, Oakdale, MN",2021-08-10,"Delta Energy Co., Ltd.",,messy_customers.csv,913
+Michael Marsh,michael.marsh@example.com,070-5860-2947,"451 Placeholder Dr, Springfield, IL",2019-11-08,Summit Media Inc.,,messy_customers.csv,914
+Joseph Baker,joseph.baker@example.org,+1 617-555-0126,"238 Sample St, Shelbyville, IL",2019-06-28,"Clear Materials Co., Ltd.",,messy_customers.csv,915
+Mary Sanders,mary.sanders@example.com,+1 305-555-0110,"880 Test Rd, Fairview, OH",2020-01-22,Golden Solutions Inc.,,messy_customers.csv,916
+山田 優子,yuko.yamada@example.org,050-9156-7245,京都府京都市中京区例示町8-11-9,2022-09-02,株式会社日の出化学,,messy_customers.csv,918
+Susan Keller,susan.keller@example.net,+442079460793,"620 Placeholder Dr, Shelbyville, IL",2020-06-13,"Golden Foods Co., Ltd.",,messy_customers.csv,921
+Susan Parker,susan.parker@example.net,090-2230-3167,"27 Fiction Ln, Fairview, OH",2019-09-19,株式会社サクラ貿易,,messy_customers.csv,922
+池田 大輔,daisuke.ikeda@example.com,080-9373-9311,東京都港区見本町16-20-8,2020-09-20,株式会社日の出貿易,,messy_customers.csv,924
+藤田 悠,yu.fujita@example.net,090-3754-0034,東京都千代田区架空町12-7-12,2020-10-22,株式会社ミライ産業,,messy_customers.csv,926
+Donna Chambers,donna.chambers@example.com,+1 212-555-0141,"286 Demo Blvd, Fairview, OH",2024-12-08,Clear Craft Inc.,,messy_customers.csv,927
+Brian Sutton,brian.sutton@example.org,+442079460947,"872 Test Rd, Georgetown, TX",2025-05-01,Sakura Trading Corp.,,messy_customers.csv,928
+山口 陽子,yoko.yamaguchi@example.org,080-8145-3998,大阪府大阪市北区試験町28-18-15,2021-04-27,Bright Media Corp.,,messy_customers.csv,929
+Betty Abbott,betty.abbott@example.com,+1 512-555-0152,"527 Mockup Way, Shelbyville, IL",2020-04-12,Clear Tech Corp.,,messy_customers.csv,930
+渡辺 茜,akane.watanabe@example.net,080-5992-1780,,2024-09-02,ミライ電機株式会社,missing_address,messy_customers.csv,931
+Matthew Dixon,matthew.dixon@example.org,+1 312-555-0183,"442 Mockup Way, Springfield, IL",2025-07-11,Clear Supply Inc.,,messy_customers.csv,934
+石川 花子,hanako.ishikawa@example.org,0120-508-646,福岡県福岡市博多区試験町20-12-10,2020-01-21,株式会社大和電機,,messy_customers.csv,935
+吉田 沙織,saori.yoshida@example.org,050-3662-5626,北海道札幌市中央区仮想町20-9-11,2023-11-18,ABC建設株式会社,,messy_customers.csv,937
+David Keller,david.keller@example.org,090-8291-4392,"156 Placeholder Dr, Franklin, TN",2023-09-29,Harbor Foods Corp.,,messy_customers.csv,938
+村上 由美,yumi.murakami@example.net,070-1063-9064,宮城県仙台市青葉区例示町10-16-5,2025-04-09,株式会社星野貿易,,messy_customers.csv,940
+田中 花子,hanako.tanaka@example.org,070-9258-4952,東京都港区仮名町15-8-5,2024-02-21,,missing_company,messy_customers.csv,942
+Laura Owens,laura.owens@example.org,090-7239-4799,"281 Fiction Ln, Springfield, IL",2022-07-18,,missing_company,messy_customers.csv,943
+山本 美咲,misaki.yamamoto@example.net,050-6352-2800,東京都港区架空町6-13-3,2024-02-22,株式会社日の出物産,,messy_customers.csv,944
+James Dixon,james.dixon@example.com,090-5432-8759,"377 Example Ave, Lakeside, CA",2021-06-26,株式会社白鳥産業,,messy_customers.csv,945
+中村 茜,akane.nakamura@example.net,+1 617-555-0101,東京都新宿区例示町26-12-15,2019-02-22,ミライ商事株式会社,,messy_customers.csv,946
+田中 葵,aoi.tanaka@example.net,080-3154-9854,宮城県仙台市青葉区架空町13-16-5,2022-11-05,Clear Tech Corp.,,messy_customers.csv,948
+Susan Vaughn,susan.vaughn@example.net,+1 212-555-0148,"816 Test Rd, Fairview, OH",2020-04-23,Cedar Media Corp.,,messy_customers.csv,949
+Diane Marsh,diane.marsh@example.com,+1 619-555-0123,"633 Sample St, Shelbyville, IL",2022-09-20,Harbor Labs Inc.,,messy_customers.csv,951
+田中 雅人,masato.tanaka@example.net,080-5973-8866,愛知県名古屋市中区ダミー通12-20-4,2025-09-26,サクラ食品株式会社,,messy_customers.csv,952
+Laura Jensen,laura.jensen@example.org,+1 212-555-0162,"150 Fiction Ln, Shelbyville, IL",2022-09-26,"Northern Foods Co., Ltd.",,messy_customers.csv,953
+Edward Baker,edward.baker@example.org,+1 213-555-0131,,2020-01-10,Blue Tech Corp.,missing_address,messy_customers.csv,954
+三浦 恵子,keiko.miura@example.org,080-9104-2573,福岡県福岡市博多区サンプル台18-18-12,2021-10-06,北斗運輸株式会社,,messy_customers.csv,955
+福田 一郎,ichiro.fukuda@example.net,070-6001-2790,北海道札幌市中央区試験町23-11-2,2023-07-22,株式会社北斗運輸,,messy_customers.csv,957
+Lisa Garrett,lisa.garrett@example.net,+1 303-555-0106,"381 Fiction Ln, Springfield, IL",2025-09-20,株式会社大和建設,,messy_customers.csv,958
+松本 結衣,yui.matsumoto@example.net,06-3312-4875,神奈川県横浜市西区テスト町24-10-2,2024-03-04,星野物産株式会社,,messy_customers.csv,959
+Anthony Jensen,anthony.jensen@example.net,+1 206-555-0177,"47 Mockup Way, Riverton, WY",2021-08-05,"Clear Trading Co., Ltd.",,messy_customers.csv,960
+鈴木 雅人,masato.suzuki@example.org,090-2124-3293,大阪府大阪市北区テスト町30-20-3,2023-10-16,"Bright Labs Co., Ltd.",,messy_customers.csv,961
+佐々木 智子,tomoko.sasaki@example.com,090-8293-5009,福岡県福岡市博多区ダミー通27-7-15,2022-09-03,株式会社大和産業,,messy_customers.csv,962
+斎藤 剛,tsuyoshi.saito@example.org,03-2559-1392,京都府京都市中京区模擬町14-17-5,2022-03-23,株式会社東和製作所,,messy_customers.csv,964
+Helen Abbott,helen.abbott@example.org,+1 646-555-0185,"606 Mockup Way, Franklin, TN",2023-11-30,Cedar Materials Corp.,,messy_customers.csv,967
+Donna Yates,donna.yates@example.org,090-3255-4902,"664 Sandbox Ct, Riverton, WY",2019-12-02,Maple Solutions LLC,,messy_customers.csv,968
+James Lowe,james.lowe@example.net,03-5356-3376,"518 Test Rd, Georgetown, TX",2024-11-12,Bright Foods Inc.,,messy_customers.csv,969
+鈴木 徹,toru.suzuki@example.com,03-9653-8237,北海道札幌市中央区仮名町28-18-2,2019-12-02,星野建設株式会社,,messy_customers.csv,970
+藤井 健太,kenta.fujii@example.net,070-6163-5727,東京都港区仮想町24-14-1,2025-06-08,北斗運輸株式会社,,messy_customers.csv,973
+Sandra Wells,sandra.wells@example.org,+442079460043,"345 Sample St, Lakeside, CA",2020-07-09,Delta Logistics Corp.,,messy_customers.csv,974
+中村 純,jun.nakamura@example.org,03-4424-5787,大阪府大阪市北区模擬町2-1-11,2022-09-29,株式会社緑川製作所,,messy_customers.csv,975
+Diane Abbott,diane.abbott@example.net,+1 617-555-0111,"891 Placeholder Dr, Oakdale, MN",2023-03-19,"Apex Media Co., Ltd.",,messy_customers.csv,976
+池田 雅人,masato.ikeda@example.com,080-7196-6715,東京都千代田区ダミー通30-8-5,2020-12-26,株式会社日の出物産,,messy_customers.csv,977
+高橋 千尋,chihiro.takahashi@example.org,090-9034-3506,東京都千代田区サンプル台5-16-7,2021-05-04,白鳥産業株式会社,,messy_customers.csv,978
+森 誠,makoto.mori@example.net,06-2901-8664,宮城県仙台市青葉区仮想町19-11-13,2021-05-15,Swift Partners Inc.,,messy_customers.csv,980
+木村 優子,yuko.kimura@example.net,070-1058-9333,東京都新宿区試験町17-18-13,2022-02-13,Bright Labs LLC,,messy_customers.csv,981
+Steven Lowe,steven.lowe@example.net,080-9808-7433,"876 Sandbox Ct, Fairview, OH",2020-05-19,Northern Trading Corp.,,messy_customers.csv,982
+William Garrett,william.garrett@example.org,03-7287-4439,"217 Fiction Ln, Springfield, IL",2021-05-03,Bright Tech Inc.,,messy_customers.csv,983
+林 亮,ryo.hayashi@example.com,080-6884-8388,大阪府大阪市北区仮想町7-13-5,2024-04-29,株式会社緑川物産,,messy_customers.csv,984
+清水 雅人,masato.shimizu@example.com,,愛知県名古屋市中区見本町19-7-3,2022-01-13,若葉電機株式会社,missing_phone,messy_customers.csv,985
+鈴木 陽子,yoko.suzuki@example.org,03-7386-4190,宮城県仙台市青葉区仮名町7-6-3,2023-03-09,大和物産株式会社,,messy_customers.csv,986
+鈴木 大輔,daisuke.suzuki@example.com,070-4505-2824,福岡県福岡市博多区見本町4-18-14,2025-12-22,株式会社ミライ物産,,messy_customers.csv,987
+中村 太郎,taro.nakamura@example.org,090-8780-0196,東京都新宿区テスト町13-15-12,2020-11-26,白鳥工業株式会社,,messy_customers.csv,988
+坂本 亮,ryo.sakamoto@example.net,03-1981-1569,神奈川県横浜市西区仮想町5-11-13,2025-04-25,Acme Solutions Corp.,,messy_customers.csv,989
+青木 次郎,jiro.aoki@example.net,090-8396-2812,東京都新宿区見本町4-7-9,2023-04-09,株式会社富士見産業,,messy_customers.csv,990
+伊藤 智子,tomoko.ito@example.com,090-8451-4207,愛知県名古屋市中区仮想町14-2-3,2021-07-12,株式会社東和工業,,messy_customers.csv,991
+遠藤 愛,ai.endo@example.org,070-7902-2079,大阪府大阪市北区例示町13-2-15,2019-02-09,株式会社東和物産,,messy_customers.csv,996
+村上 太郎,taro.murakami@example.org,070-2451-9249,東京都港区模擬町2-16-5,2025-12-13,株式会社サクラ食品,,messy_customers.csv,997

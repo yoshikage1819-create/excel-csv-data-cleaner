@@ -1,0 +1,5 @@
+name,email,phone,address,date,company
+Bob Dawson,bob.dawson@example.com,090-1000-0001,1 Sample St,2024-02-01,Blue Works Inc.
+BOB DAWSON,BOB.DAWSON@EXAMPLE.COM,09010000001,1 Sample St,2024/2/1,blue works inc
+Bob Dawson,bob.dawson@example.com,090-1000-0002,2 Sample St,2024-02-02,Blue Works Inc.
+Bob Dawson,bob.alt@example.com,090-1000-0003,3 Sample St,2024-02-03,Blue Works Inc.

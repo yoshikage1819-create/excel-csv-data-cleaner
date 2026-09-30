@@ -1,0 +1,13 @@
+Excel / CSV Data Cleaner - Processing Summary (処理サマリー)
+Processed at (処理日時): 2026-09-30 22:53:52
+Input files (入力ファイル数): 2
+Skipped files (スキップしたファイル): 0
+Input rows (入力件数): 1300
+Clean rows (出力件数): 1085
+Duplicates removed (削除した重複): 70  [exact 40 / same email 30]
+Invalid rows (不正データ): 85  [invalid email 50 / invalid phone 15 / missing name 10 / no contact 10]
+Needs review (要確認): 60  [ambiguous date 20 / possible duplicate 15 / email typo 10 / invalid date 5 / phone leading zero 10 / phone needs check 0]
+Missing values in clean rows (欠損): phone 25 / address 25 / date 25 / company 25 / email 0
+Clean rows with unverified phone format (電話の書式未確認): 5
+Cells auto-corrected (自動修正したセル): 4021
+Processing time (処理時間): 0.3 s
